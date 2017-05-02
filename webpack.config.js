@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
-    bundle: './src/index.js',
+    bundle: './src/app/app.js',
   },
   output: {
     path: path.join(__dirname, 'dist'),
@@ -16,6 +16,10 @@ module.exports = {
         use: ['babel-loader', 'eslint-loader'],
         test: /\.js$/,
         exclude: /node_modules/,
+      },
+      {
+        use: 'raw-loader',
+        test: /\.html$/,
       },
     ],
   },
