@@ -1,23 +1,29 @@
-import { Component, OnInit, ViewEncapsulation } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'content-card',
   template: `
     <div class="card">
       <div class="card-block">
-        <h4 class="card-title">Playlista</h4>
-        <p class="card-text">Wybierz Playlistę</p>
+        <h4 class="card-title">{{title}}</h4>
+        <p class="card-text">{{text}}</p>
+        <ng-content></ng-content>
       </div>
     </div>
   `,
-  styles: [`
-    h4{ 
-      color: red;
-    }
-  `],
-  // encapsulation: ViewEncapsulation.Emulated
+  // inputs:[
+  //   'title',
+  //   'text:content'
+  // ],
+  styles: [],
 })
 export class ContentCardComponent implements OnInit {
+
+  @Input()
+  title = '';
+
+  @Input('content')
+  text = '';
 
   constructor() { }
 
