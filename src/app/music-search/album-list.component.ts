@@ -1,47 +1,29 @@
 import { Component, OnInit } from '@angular/core';
+import { MusicSearchService } from './music-search.service'
 
 @Component({
   selector: 'album-list',
   template: `
-    <h4>Albumy</h4>
-    <div class="card-deck">
-     <album-card [album]="album" class="card" *ngFor="let album of albums"></album-card>
+    <div class="card-deck card-deck-justify">
+     <album-card [album]="album" class="card"
+                 [routerLink]="['album', album.id]" 
+                 *ngFor="let album of albums | async "></album-card>
     </div>
   `,
-  styles: []
+  styles: [`
+    .card-deck-justify{
+      justify-content: space-between;
+    }
+  `]
 })
 export class AlbumListComponent implements OnInit {
 
-  albums = [
-    {
-      name: 'Album 1',
-      images:[
-        {
-          url:'http://placehold.it/640x640'
-        }
-      ]
-    },
-    {
-      name: 'Album 2',
-      images:[
-        {
-          url:'http://placehold.it/640x640'
-        }
-      ]
-    },
-    {
-      name: 'Album 3',
-      images:[
-        {
-          url:'http://placehold.it/640x640'
-        }
-      ]
-    }
-  ];
+  albums;
 
-  constructor() { }
+  constructor(private musicSearch: MusicSearchService) {  }
 
   ngOnInit() {
+    this.albums = this.musicSearch.getAlbumsStream()
   }
 
 }

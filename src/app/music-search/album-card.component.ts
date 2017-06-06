@@ -10,7 +10,8 @@ import { Component, OnInit, Input } from '@angular/core';
   `,
   styles: [`
     :host(){
-      flex: 0 0 31%;
+      flex: 0 0 31% !important;
+      margin-bottom: 0.625rem  !important;
       overflow:hidden;
     }
 

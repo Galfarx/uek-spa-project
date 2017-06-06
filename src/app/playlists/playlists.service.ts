@@ -1,39 +1,66 @@
 import { Injectable, Inject, Optional } from '@angular/core';
+import { Http } from '@angular/http';
+import { Subject, Observable } from 'rxjs'
+
+export interface Playlist{
+      name: string,
+      tracks: any[],
+      color: string,
+      favourite: boolean
+}
 
 @Injectable()
 export class PlaylistsService {
 
-  constructor(@Optional() @Inject('PlaylistsData') playlistsData) {
-    console.log('PlaylistsService', this)
-    this.playlists = playlistsData === null? this.playlists : playlistsData ;
-  }
+  server_url = 'http://localhost:3000/playlists/';
+
+  constructor(private http:Http) { }
 
   playlists = [ ]
 
   savePlaylist(playlist){
+    let request; 
     if(playlist.id){
-      let index = this.playlists.findIndex((old_playlist)=>(
-        old_playlist.id === playlist.id
-      ))
-      this.playlists.splice(index,1,playlist)
+      request = this.http.put(this.server_url + playlist.id, playlist)
     }else{
-      playlist.id = Date.now()
-      this.playlists.push(playlist);
+      request = this.http.post(this.server_url, playlist)
     }
+      return request.map(response => response.json())
+      .do( playlist => {
+        this.getPlaylists()
+      })
   }
 
-  createPlaylist(){
-    var newPlaylist = {
+  createPlaylist():Playlist {
+    return {
       name: '',
-      tracks: 0,
+      tracks: [],
       color: '#FF0000',
       favourite: false
     };
-    return Object.assign({},newPlaylist);
   }
 
   getPlaylists(){
-    return this.playlists;
+    return this.http.get(this.server_url)
+              .map( response => response.json())
+              .subscribe( playlists => {
+                this.playlists = playlists;
+                this.playlistsStream$.next(this.playlists)
+              })
+  }
+
+  playlistsStream$ = new Subject<Playlist[]>();
+
+  getPlaylistsStream(){
+    if(!this.playlists.length){
+      this.getPlaylists()
+    }
+    return this.playlistsStream$.startWith(this.playlists)
+  }
+
+  getPlaylist(id){
+    return this.http.get(this.server_url + id)
+    .map(response => response.json())
   }
 
 }
