@@ -1,37 +1,34 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject } from '@angular/core';
+import { PlaylistsService } from './playlists.service'
+
+import playlistsData from './playlists.data'
 
 @Component({
   selector: 'playlists',
   templateUrl: './playlists.component.html',
-  styleUrls: ['./playlists.component.css']
+  styleUrls: ['./playlists.component.css'],
+  providers:[
+    // PlaylistsService,
+    // { provide: 'PlaylistsData', useValue: playlistsData },
+  ]
 })
 export class PlaylistsComponent implements OnInit {
 
-
-  selected = null;
-
-  edited = {
+  constructor(private playlistsService:PlaylistsService) {
 
   }
 
-  mode="none"
+  playlists = []
 
-  playlists = [
-    {
-      id: 1,
-      name: 'Angular Greatest Hits!',
-      tracks: 2,
-      color: '#FF0000',
-      favourite: true,
-    },
-    {
-      id: 2,
-      name: 'Test test',
-      tracks: 23,
-      color: '#0000FF',
-      favourite: false,
-    }
-  ]
+  ngOnInit() {
+    this.playlists = this.playlistsService.getPlaylists()
+  }
+
+  selected = null;
+
+  edited = { }
+
+  mode="none"
   
   select(playlist){
     if(playlist !== this.selected)
@@ -47,31 +44,15 @@ export class PlaylistsComponent implements OnInit {
 
   createNew(){
     this.mode = "edit";
-    var newPlaylist = {
-      name: '',
-      tracks: 0,
-      color: '#FF0000',
-      favourite: false
-    };
+    let newPlaylist = this.playlistsService.createPlaylist()
     this.selected = newPlaylist;
-    this.edited = Object.assign({},newPlaylist);
+    this.edited = newPlaylist;
   }
 
   save(playlist){
-    if(playlist.id){
-      let index = this.playlists.findIndex((old_playlist)=>(
-        old_playlist.id === playlist.id
-      ))
-      this.playlists.splice(index,1,playlist)
-    }else{
-      playlist.id = Date.now()
-      this.playlists.push(playlist);
-    }
+    this.playlistsService.savePlaylist(playlist)
   }
 
-  constructor() { }
 
-  ngOnInit() {
-  }
 
 }
