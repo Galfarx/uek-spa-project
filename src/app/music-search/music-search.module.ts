@@ -11,7 +11,7 @@ import { AlbumCardComponent } from './album-card.component';
 import { MusicSearchService } from './music-search.service';
 import { AlbumSearchFormComponent } from './album-search-form.component';
 import { AlbumDetailsComponent } from './album-details.component';
-import { TrackListComponent } from './track-list.component'
+import { MusicSharedModule } from '../music-shared/music-shared.module';
 
 @NgModule({
   imports: [
@@ -19,12 +19,13 @@ import { TrackListComponent } from './track-list.component'
     HttpModule,
     FormsModule,
     ReactiveFormsModule,
+    MusicSharedModule,
     routerModule
   ],
   declarations: [
-    MusicSearchComponent, 
-    AlbumListComponent, 
-    AlbumCardComponent, AlbumSearchFormComponent, AlbumDetailsComponent, TrackListComponent
+    MusicSearchComponent,
+    AlbumListComponent,
+    AlbumCardComponent, AlbumSearchFormComponent, AlbumDetailsComponent
   ],
   exports:[
     MusicSearchComponent

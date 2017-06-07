@@ -18,8 +18,17 @@ export class PlaylistsService {
 
   playlists = [ ]
 
+  addToPlaylist(playlistId, track) {
+    let playlist = this.playlists.find( playlist => playlist.id == playlistId);
+    playlist.tracks.push(track);
+    this.savePlaylist(playlist)
+      .subscribe(() => {
+        // ...
+      })
+  }
+
   savePlaylist(playlist){
-    let request; 
+    let request;
     if(playlist.id){
       request = this.http.put(this.server_url + playlist.id, playlist)
     }else{
