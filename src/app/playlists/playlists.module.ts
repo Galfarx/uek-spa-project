@@ -11,8 +11,6 @@ import { PlaylistDetailComponent } from './playlist-detail.component';
 import { PlaylistsService } from './playlists.service'
 import { MusicSharedModule } from '../music-shared/music-shared.module';
 
-import playlistsData from './playlists.data'
-
 @NgModule({
   imports: [
     CommonModule,
