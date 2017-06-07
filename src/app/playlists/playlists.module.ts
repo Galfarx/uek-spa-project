@@ -27,7 +27,7 @@ import playlistsData from './playlists.data'
     PlaylistsListComponent,
     PlaylistDetailComponent
   ],
-  exports:[
+  exports: [
     PlaylistsComponent
   ],
   providers: []

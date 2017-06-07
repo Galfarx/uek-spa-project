@@ -2,7 +2,7 @@ import { Injectable, Inject, Optional } from '@angular/core';
 import { Http } from '@angular/http';
 import { Subject, Observable } from 'rxjs'
 
-export interface Playlist{
+export interface Playlist {
       name: string,
       tracks: any[],
       color: string,
@@ -13,13 +13,13 @@ export interface Playlist{
 export class PlaylistsService {
 
   server_url = 'http://localhost:3000/playlists/';
+  playlists = [];
+  playlistsStream$ = new Subject<Playlist[]>();
 
-  constructor(private http:Http) { }
-
-  playlists = [ ]
+  constructor(private http: Http) { }
 
   addToPlaylist(playlistId, track) {
-    let playlist = this.playlists.find( playlist => playlist.id == playlistId);
+    const playlist = this.playlists.find( playlist => playlist.id === playlistId);
     playlist.tracks.push(track);
     this.savePlaylist(playlist)
       .subscribe(() => {
@@ -27,20 +27,20 @@ export class PlaylistsService {
       })
   }
 
-  savePlaylist(playlist){
+  savePlaylist(playlist) {
     let request;
-    if(playlist.id){
+    if (playlist.id) {
       request = this.http.put(this.server_url + playlist.id, playlist)
-    }else{
+    } else {
       request = this.http.post(this.server_url, playlist)
     }
       return request.map(response => response.json())
-      .do( playlist => {
+      .do(playlist => {
         this.getPlaylists()
       })
   }
 
-  createPlaylist():Playlist {
+  createPlaylist(): Playlist {
     return {
       name: '',
       tracks: [],
@@ -49,7 +49,7 @@ export class PlaylistsService {
     };
   }
 
-  getPlaylists(){
+  getPlaylists() {
     return this.http.get(this.server_url)
               .map( response => response.json())
               .subscribe( playlists => {
@@ -58,18 +58,15 @@ export class PlaylistsService {
               })
   }
 
-  playlistsStream$ = new Subject<Playlist[]>();
-
-  getPlaylistsStream(){
-    if(!this.playlists.length){
+  getPlaylistsStream() {
+    if (!this.playlists.length) {
       this.getPlaylists()
     }
     return this.playlistsStream$.startWith(this.playlists)
   }
 
-  getPlaylist(id){
+  getPlaylist(id) {
     return this.http.get(this.server_url + id)
     .map(response => response.json())
   }
-
 }

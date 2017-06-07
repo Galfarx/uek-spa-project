@@ -14,15 +14,15 @@ import { PlaylistsService, Playlist } from './playlists.service'
         </tr>
       </thead>
       <tbody>
-        <tr *ngFor="let playlist of playlists; let i = index" class="playlist-row" 
+        <tr *ngFor="let playlist of playlists; let i = index" class="playlist-row"
           [ngClass]="{'table-active': selected == playlist}"
-          [ngStyle]="{ borderBottomColor:playlist.color }" 
+          [ngStyle]="{ borderBottomColor:playlist.color }"
           [routerLink]="[playlist.id]">
           <td> {{ i + 1 }}. </td>
           <td> {{ playlist.name }} </td>
           <td> {{ playlist.tracks.length }} </td>
           <td>
-            <label><input type="checkbox" [(ngModel)]="playlist.favourite" (click)="$event.stopPropagation();"> 
+            <label><input type="checkbox" [(ngModel)]="playlist.favourite" (click)="$event.stopPropagation();">
               Ulubiona</label>
           </td>
         </tr>
@@ -37,15 +37,14 @@ import { PlaylistsService, Playlist } from './playlists.service'
 })
 export class PlaylistsListComponent implements OnInit {
 
-  constructor(private playlistService:PlaylistsService) { }
-
   playlists = [];
+
+  constructor(private playlistService: PlaylistsService) { }
 
   ngOnInit() {
     this.playlistService.getPlaylistsStream()
-    .subscribe((playlists:Playlist[]) => {
+    .subscribe((playlists: Playlist[]) => {
       this.playlists = playlists;
     })
   }
-
 }

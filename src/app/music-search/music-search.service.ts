@@ -5,40 +5,37 @@ import { Observable, Subject } from 'rxjs'
 @Injectable()
 export class MusicSearchService {
 
-  albums = [ ]
-
+  albums = [];
   albumsStream = new Subject();
 
-  
   constructor(private http: Http) {
     this.search('batman')
   }
 
-  getAlbumsStream(){
+  getAlbumsStream() {
     return Observable
           .from(this.albumsStream)
-          .startWith(this.albums)
+          .startWith(this.albums);
   }
 
-  getAlbum(id){
-    let url = `https://api.spotify.com/v1/albums/${id}`;
+  getAlbum(id) {
+    const url = `https://api.spotify.com/v1/albums/${id}`;
 
     return this.http.get(url)
-    .map((response:Response)=> response.json() );
+      .map((response: Response) => response.json());
   }
 
-  search(query){
-    let url = `https://api.spotify.com/v1/search?type=album&market=PL&query=${query}`
-  
+  search(query) {
+    const url = `https://api.spotify.com/v1/search?type=album&market=PL&query=${query}`;
+
     this.http.get(url)
-    .map((response:Response)=>{
-      let data = response.json()
-      return data.albums.items;
-    })
-    .do(albmus =>{ this.albums = albmus })
-    .subscribe( albums => {
-      this.albumsStream.next(this.albums)
+      .map((response: Response) => {
+        const data = response.json()
+        return data.albums.items;
+      })
+      .do(albmus => { this.albums = albmus })
+      .subscribe( albums => {
+        this.albumsStream.next(this.albums);
     })
   }
-
 }

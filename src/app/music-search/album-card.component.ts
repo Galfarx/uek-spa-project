@@ -18,7 +18,7 @@ import { Component, OnInit, Input } from '@angular/core';
     :host():hover .card-img-overlay{
       top: 100%;
     }
-    
+
     .card-img-overlay{
       background: rgba(0,0,0,0.8);
       top:70%;
@@ -30,19 +30,16 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class AlbumCardComponent implements OnInit {
 
+  album;
+  image;
+
   @Input('album')
-  set setAlbum(album){
+  set setAlbum(album) {
     this.album = album;
     this.image = album.images[0]
   }
 
-  album
-
-  image
-
   constructor() { }
 
-  ngOnInit() {
-  }
-
+  ngOnInit() { }
 }

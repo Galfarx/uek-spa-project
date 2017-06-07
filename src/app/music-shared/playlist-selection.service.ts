@@ -5,30 +5,28 @@ import { Subject } from 'rxjs';
 @Injectable()
 export class PlaylistSelectionService {
 
-  constructor(private playlistService: PlaylistsService) {
+  selectedId;
+  selectedIdStream = new Subject();
 
+  constructor(private playlistService: PlaylistsService) {
     this.playlistService.getPlaylistsStream()
       .subscribe( playlists => {
-        if (!this.selectedId){
+        if (!this.selectedId) {
           this.select(playlists[0]);
         }
       })
   }
 
-  selectedId;
-  selectedIdStream = new Subject();
-
-  getSelectionStream(){
+  getSelectionStream() {
     return this.selectedIdStream.startWith(this.selectedId);
   }
 
-  select(playlistId){
+  select(playlistId) {
     this.selectedId = playlistId;
     this.selectedIdStream.next(this.selectedId);
   }
 
-  addToPlaylist(track){
+  addToPlaylist(track) {
     this.playlistService.addToPlaylist(this.selectedId, track);
   }
-
 }

@@ -15,7 +15,7 @@ import { Component, OnInit } from '@angular/core';
           <li class="nav-item">
             <a class="nav-link" routerLink="/playlist" routerLinkActive="active"> Twoje Playlisty </a>
           </li>
-        </ul>  
+        </ul>
       </div>
     </nav>
   `,
@@ -25,7 +25,5 @@ export class NavBarComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
-
+  ngOnInit() { }
 }

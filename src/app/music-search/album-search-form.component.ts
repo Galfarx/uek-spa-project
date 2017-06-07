@@ -15,15 +15,15 @@ import { FormGroup, FormControl } from '@angular/forms'
 })
 export class AlbumSearchFormComponent implements OnInit {
 
-  searchForm:FormGroup
+  searchForm: FormGroup;
 
-  constructor(private musicSearch: MusicSearchService) { 
+  constructor(private musicSearch: MusicSearchService) {
     this.searchForm = new FormGroup({
       'query': new FormControl('Batman')
     })
 
     this.searchForm.get('query').valueChanges
-    .filter(query => query.length >= 3 )
+    .filter(query => query.length >= 3)
     .distinctUntilChanged()
     .debounceTime(400)
     .subscribe(query => {
@@ -31,11 +31,9 @@ export class AlbumSearchFormComponent implements OnInit {
     })
   }
 
-  search(query){
+  ngOnInit() { }
+
+  search(query) {
      this.musicSearch.search(query)
   }
-
-  ngOnInit() {
-  }
-
 }

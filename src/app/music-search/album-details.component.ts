@@ -19,18 +19,16 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class AlbumDetailsComponent implements OnInit {
 
-  constructor(private musicService:MusicSearchService,
-              private activeRoute: ActivatedRoute) { }
-  
   album;
 
+  constructor(private musicService: MusicSearchService,
+              private activeRoute: ActivatedRoute) { }
+
   ngOnInit() {
-    let id = this.activeRoute.snapshot.params['album_id'];
-    console.log(id)
+    const id = this.activeRoute.snapshot.params['album_id'];
     this.musicService.getAlbum(id)
     .subscribe(album => {
       this.album = album;
     })
   }
-
 }

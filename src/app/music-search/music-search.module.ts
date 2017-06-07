@@ -2,9 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpModule } from '@angular/http'
 import { FormsModule, ReactiveFormsModule } from '@angular/forms'
-
 import { routerModule } from './music-search.routing'
-
 import { MusicSearchComponent } from './music-search.component';
 import { AlbumListComponent } from './album-list.component';
 import { AlbumCardComponent } from './album-card.component';
@@ -25,12 +23,14 @@ import { MusicSharedModule } from '../music-shared/music-shared.module';
   declarations: [
     MusicSearchComponent,
     AlbumListComponent,
-    AlbumCardComponent, AlbumSearchFormComponent, AlbumDetailsComponent
+    AlbumCardComponent,
+    AlbumSearchFormComponent,
+    AlbumDetailsComponent
   ],
-  exports:[
+  exports: [
     MusicSearchComponent
   ],
-  providers:[
+  providers: [
     MusicSearchService
   ]
 })

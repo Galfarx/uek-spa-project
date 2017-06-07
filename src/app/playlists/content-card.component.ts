@@ -11,10 +11,6 @@ import { Component, OnInit, Input } from '@angular/core';
       </div>
     </div>
   `,
-  // inputs:[
-  //   'title',
-  //   'text:content'
-  // ],
   styles: [],
 })
 export class ContentCardComponent implements OnInit {
@@ -27,7 +23,5 @@ export class ContentCardComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
-
+  ngOnInit() { }
 }

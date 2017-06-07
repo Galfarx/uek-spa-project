@@ -29,28 +29,26 @@ import { PlaylistSelectionService } from './playlist-selection.service'
 export class TrackListComponent implements OnInit {
 
   @Input()
-  tracks
+  tracks;
 
-  play(audio, track){
+  constructor(private selectionService: PlaylistSelectionService) { }
+
+  ngOnInit() { }
+
+  play(audio, track) {
     audio.volume = 0.1;
 
-    if(audio.src != track.preview_url){
+    if (audio.src !== track.preview_url) {
       audio.src = track.preview_url;
-      audio.play()
-    }else if(audio.paused){
       audio.play();
-    }else{
+    } else if (audio.paused) {
+      audio.play();
+    } else {
       audio.pause();
     }
   }
 
-  constructor(private selectionService: PlaylistSelectionService) { }
-
-  addToPlaylist(track){
-    this.selectionService.addToPlaylist(track)
+  addToPlaylist(track) {
+    this.selectionService.addToPlaylist(track);
   }
-
-  ngOnInit() {
-  }
-
 }

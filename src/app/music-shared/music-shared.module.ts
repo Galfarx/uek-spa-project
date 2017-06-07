@@ -9,7 +9,10 @@ import { TrackListComponent } from './track-list.component';
     FormsModule,
     CommonModule
   ],
-  declarations: [PlaylistSelectorComponent, TrackListComponent],
+  declarations: [
+    PlaylistSelectorComponent,
+    TrackListComponent
+  ],
   exports: [
     PlaylistSelectorComponent,
     TrackListComponent

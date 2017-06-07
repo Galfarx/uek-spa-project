@@ -9,7 +9,5 @@ export class MusicSearchComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
-
+  ngOnInit() { }
 }

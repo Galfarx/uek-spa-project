@@ -22,18 +22,14 @@ export class PlaylistDetailComponent implements OnInit {
 
   playlist;
 
-  edit(playlist) {
-    this.router.navigate(['playlist',playlist.id,'edit'])
-  }
-
   constructor(private activeRoute: ActivatedRoute,
     private playlistsService: PlaylistsService,
-    private router:Router) {
+    private router: Router) {
   }
 
   ngOnInit() {
     this.activeRoute.params.subscribe(params => {
-      let id = parseInt(params['id']);
+      const id = parseInt(params['id'], 10);
       if (id) {
         this.playlistsService.getPlaylist(id)
             .subscribe( (playlist:Playlist) => {
@@ -43,4 +39,7 @@ export class PlaylistDetailComponent implements OnInit {
     })
   }
 
+  edit(playlist) {
+    this.router.navigate(['playlist', playlist.id, 'edit'])
+  }
 }

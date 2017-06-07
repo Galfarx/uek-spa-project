@@ -9,13 +9,13 @@ import { PlaylistsService } from '../playlists/playlists.service'
 })
 export class PlaylistSelectorComponent implements OnInit {
 
-  constructor(private selectionService: PlaylistSelectionService,
-              private playlistService: PlaylistsService) { }
-
   selectedId;
   playlists = [];
 
-  setSelected(id){
+  constructor(private selectionService: PlaylistSelectionService,
+              private playlistService: PlaylistsService) { }
+
+  setSelected(id) {
     this.selectionService.select(id);
   }
 
@@ -30,5 +30,4 @@ export class PlaylistSelectorComponent implements OnInit {
         this.playlists = playlists;
       })
   }
-
 }

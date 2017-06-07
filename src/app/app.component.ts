@@ -8,8 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'UEK SPA Project';
 
-  
-  constructor(){
+  constructor() {
 
   }
 

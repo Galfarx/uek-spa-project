@@ -11,11 +11,11 @@ import { PlaylistsService, Playlist } from './playlists.service'
             <label>Nazwa:</label>
             <input type="text" #nameRef="ngModel" required minlength="3" [(ngModel)]="playlist.name" name="name" class="form-control">
             <div class="has-danger" *ngIf="nameRef.touched || nameRef.dirty || formRef.submitted">
-              <div class="form-control-feedback" 
+              <div class="form-control-feedback"
                     *ngIf="nameRef.errors?.required">
                     To pole jest wymagane
               </div>
-              <div class="form-control-feedback" 
+              <div class="form-control-feedback"
                     *ngIf="nameRef.errors?.minlength">
                     To pole musi mieć przynajmniej {{nameRef.errors.minlength.requiredLength}} znaki
               </div>
@@ -23,7 +23,9 @@ import { PlaylistsService, Playlist } from './playlists.service'
           </div>
           <div class="form-group">
             <label>Opis:</label>
-            <textarea #descriptionRef="ngModel" [(ngModel)]="playlist.description" name="description" maxlength="200" class="form-control"></textarea>
+            <textarea #descriptionRef="ngModel" [(ngModel)]="playlist.description"
+              name="description" maxlength="200" class="form-control">
+            </textarea>
           </div>
           <div class="form-group">
             <label> Kategoria: </label>
@@ -31,14 +33,6 @@ import { PlaylistsService, Playlist } from './playlists.service'
               <option *ngFor="let category of categories" [value]="category">{{category}}</option>
             </select>
           </div>
-          <!-- <div class="form-group">
-            <label> Kategoria: </label>
-            <div *ngFor="let category of categories">
-              <label class="form-ckeck-input">
-                <input type="radio" [(ngModel)]="playlist.category" name="category" [value]="category"> {{category}} 
-              </label>
-            </div>
-          </div> -->
           <div class="form-group">
             <label>Kolor:</label>
             <input type="color" [(ngModel)]="playlist.color" name="color">
@@ -54,9 +48,9 @@ import { PlaylistsService, Playlist } from './playlists.service'
         </div>
   `,
   styles: [`
-    input.ng-dirty.ng-invalid, 
+    input.ng-dirty.ng-invalid,
     textarea.ng-dirty.ng-invalid,
-    input.ng-touched.ng-invalid, 
+    input.ng-touched.ng-invalid,
     textarea.ng-touched.ng-invalid{
       border: 1px solid red;
     }
@@ -65,37 +59,35 @@ import { PlaylistsService, Playlist } from './playlists.service'
 export class PlaylistFormComponent implements OnInit {
 
   categories = [
-    'Filmowa','Rockowa','Inne'
-  ]
-
+    'Filmowa', 'Rockowa', 'Inne'
+  ];
   playlist: Playlist;
-
-  save(valid, playlist) {
-    if(!valid){
-      return;
-    }
-    this.playlistsService.savePlaylist(playlist)
-    .subscribe( playlist => {
-      this.router.navigate(['playlist',playlist.id]);
-    })
-  }
 
   constructor(private activeRoute: ActivatedRoute,
     private playlistsService: PlaylistsService,
-    private router:Router) { }
+    private router: Router) { }
 
   ngOnInit() {
     this.activeRoute.params.subscribe(params => {
-      let id = parseInt(params['id']);
+      const id = parseInt(params['id'], 10);
       if (id) {
         this.playlistsService.getPlaylist(id)
-            .subscribe( (playlist:Playlist) => {    
-              this.playlist = Object.assign({},playlist)
+            .subscribe( (playlist: Playlist) => {
+              this.playlist = Object.assign({}, playlist)
             })
-      }else{
-        this.playlist = this.playlistsService.createPlaylist()
+      } else {
+        this.playlist = this.playlistsService.createPlaylist();
       }
     })
   }
 
+  save(valid, playlist) {
+    if (!valid) {
+      return;
+    }
+    this.playlistsService.savePlaylist(playlist)
+    .subscribe(playlist => {
+      this.router.navigate(['playlist', playlist.id]);
+    })
+  }
 }

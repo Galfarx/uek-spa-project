@@ -6,7 +6,7 @@ import { MusicSearchService } from './music-search.service'
   template: `
     <div class="card-deck card-deck-justify">
      <album-card [album]="album" class="card"
-                 [routerLink]="['album', album.id]" 
+                 [routerLink]="['album', album.id]"
                  *ngFor="let album of albums | async "></album-card>
     </div>
   `,
@@ -25,5 +25,4 @@ export class AlbumListComponent implements OnInit {
   ngOnInit() {
     this.albums = this.musicSearch.getAlbumsStream()
   }
-
 }
