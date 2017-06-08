@@ -19,14 +19,14 @@ export class MusicSearchService {
   }
 
   getAlbum(id) {
-    const url = `https://api.spotify.com/v1/albums/${id}`;
+    const url = `http://localhost:3000/albums/${id}`;
 
     return this.http.get(url)
       .map((response: Response) => response.json());
   }
 
   search(query) {
-    const url = `https://api.spotify.com/v1/search?type=album&market=PL&query=${query}`;
+    const url = `http://localhost:3000/albums?q=${query}`;
 
     this.http.get(url)
       .map((response: Response) => {
