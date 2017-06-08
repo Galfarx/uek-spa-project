@@ -1,28 +1,42 @@
-# Angular2
+# UEK SPA Spotify
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
-## Development server
+## Opis projektu
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Aplikacja wykonana w ramach projektu miała za zadanie realizować poniższe funkcjonalności:
 
-## Code scaffolding
+1. wyszukiwanie albumów z bazy Spotify
+1. wyświetlanie okładek albumów muzycznych
+1. wyświetlanie szczegółów dotyczących poszczególnych albumów: lista utworów w albumie, wykonawca itd
+1. tworzenie własnych playlist złożonych z różnych utworów
+1. możliwość ustawienia playlisty jako ulubionej
+1. możliwość dodania/etycji/usunięcia utworu z playlisty
+1. odtworzenie wybranego utworu z poziomu przeglądarki
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+## Wykorzystane technologie (wymagania)
 
-## Build
+* [Angular](https://angular.io/) version 4.0.0
+* [Node.js](https://nodejs.org/) version 7.10.0
+* [NPM](https://www.npmjs.com/) version 4.2.0
+* [JSON Server](https://github.com/typicode/json-server) version 0.10.1
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Instalacja
 
-## Running unit tests
+`npm install -g @angular/cli@latest`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+`npm install -g json-server`
 
-## Running end-to-end tests
+`npm install`
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+`json-server --watch ./mockup/spotify_endpoints.json`
 
-## Further help
+`ng serve`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Przebieg projektu
+
+W ramach rozwoju projektu napotkaliśmy na szareg przeciwności w tym na kluczową - zmianę sposobu autoryzacji i autentykacji w wykorzystywanym API. Wspomniana zmiana wymuszała konieczność użycia protokołu OAUth2.0. W związku z powyższą przeszkodą, w ramach rozwoju projektu podjęliśmy decyzję o wystawieniu własnego API, imitującego działanie pierwotnie założonego.
+
+## Autorzy
+
+* Mateusz Lis
+* Dominik Kubis
