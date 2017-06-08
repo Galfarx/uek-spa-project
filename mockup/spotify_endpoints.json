@@ -1,0 +1,5493 @@
+{
+    "playlists": [
+        {
+            "name": "Playlista 1",
+            "tracks": [
+
+            ],
+            "color": "#4DFFAF",
+            "favourite": true,
+            "description": "Expedita voluptatem voluptatem eaque qui fugiat nihil cum fugit. Laboriosam atque facilis qui quidem veniam voluptates.",
+            "category": "Top",
+            "id": 1
+        },
+        {
+            "name": "Playlista 2",
+            "tracks": [
+
+            ],
+            "color": "#5C4235",
+            "favourite": true,
+            "description": "Expedita laborum reiciendis fugit possimus corporis et.",
+            "category": "Filmowa",
+            "id": 2
+        },
+        {
+            "name": "Playlista 3",
+            "tracks": [
+
+            ],
+            "color": "#D05F16",
+            "favourite": false,
+            "description": "Enim mollitia fugit iure accusamus dignissimos. Dolores perspiciatis dignissimos rerum. Est nisi velit est illum qui soluta.",
+            "category": "Zagraniczne",
+            "id": 3
+        },
+        {
+            "name": "Playlista 4",
+            "tracks": [
+
+            ],
+            "color": "#D71645",
+            "favourite": true,
+            "description": "Nostrum ea ad voluptate qui accusantium et. Minima delectus ipsam et et et fuga aut. Natus ut provident saepe nihil. Omnis et dignissimos aut eos est.",
+            "category": "Rockowa",
+            "id": 4
+        },
+        {
+            "name": "Playlista 5",
+            "tracks": [
+
+            ],
+            "color": "#F74480",
+            "favourite": true,
+            "description": "Nemo vero sit et explicabo et est. Consequuntur rerum et officiis ipsa distinctio. Et autem inventore esse reiciendis cum. Provident magni sit natus ratione unde provident.",
+            "category": "Top",
+            "id": 5
+        },
+        {
+            "name": "Playlista 6",
+            "tracks": [
+
+            ],
+            "color": "#479F3E",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 6
+        },
+        {
+            "name": "Playlista 7",
+            "tracks": [
+
+            ],
+            "color": "#F26CC7",
+            "favourite": true,
+            "description": "Itaque dolores voluptatibus officiis. Et consequuntur id mollitia similique ut. Porro dolor dolore consequatur voluptatem quos officiis. Earum voluptas deleniti perferendis recusandae ad dicta aut distinctio.",
+            "category": "Polskie",
+            "id": 7
+        },
+        {
+            "name": "Playlista 8",
+            "tracks": [
+
+            ],
+            "color": "#495408",
+            "favourite": false,
+            "description": "Recusandae eos enim omnis eos qui veritatis. Expedita quidem nesciunt nam reprehenderit id incidunt est illum.",
+            "category": "Rockowa",
+            "id": 8
+        },
+        {
+            "name": "Playlista 9",
+            "tracks": [
+
+            ],
+            "color": "#4B93EF",
+            "favourite": false,
+            "description": "Beatae laudantium deserunt consequatur. Et architecto harum qui aperiam.",
+            "category": "Polskie",
+            "id": 9
+        },
+        {
+            "name": "Playlista 10",
+            "tracks": [
+
+            ],
+            "color": "#532A48",
+            "favourite": true,
+            "description": "Magni quidem odio delectus animi eveniet eum. Quidem qui nulla iure quia.",
+            "category": "Filmowa",
+            "id": 10
+        },
+        {
+            "name": "Playlista 11",
+            "tracks": [
+
+            ],
+            "color": "#518BAC",
+            "favourite": true,
+            "description": "Nam quidem deserunt in quia qui excepturi. Ut dolorum nostrum est ea. Inventore neque est rerum omnis.",
+            "category": "Polskie",
+            "id": 11
+        },
+        {
+            "name": "Playlista 12",
+            "tracks": [
+
+            ],
+            "color": "#FA210C",
+            "favourite": true,
+            "description": "Consequatur rerum rerum necessitatibus placeat quisquam. Dicta aliquid eius quaerat repudiandae sed eaque.",
+            "category": "Inna",
+            "id": 12
+        },
+        {
+            "name": "Playlista 13",
+            "tracks": [
+
+            ],
+            "color": "#9BC46F",
+            "favourite": true,
+            "description": "At ut dolor explicabo aliquam laborum impedit. Minima excepturi unde dolorem adipisci soluta laudantium sed. Rem corrupti aut saepe officia. Laborum totam nulla omnis.",
+            "category": "Zagraniczne",
+            "id": 13
+        },
+        {
+            "name": "Playlista 14",
+            "tracks": [
+
+            ],
+            "color": "#EB1E66",
+            "favourite": true,
+            "description": "Exercitationem voluptates nesciunt vitae pariatur nulla dolor. Quia sed ut aut veritatis at iure. Voluptatem adipisci culpa aperiam. Adipisci sint et rerum minima.",
+            "category": "Inna",
+            "id": 14
+        },
+        {
+            "name": "Playlista 15",
+            "tracks": [
+
+            ],
+            "color": "#97DAEC",
+            "favourite": false,
+            "description": "Et omnis illo itaque molestias illo. Doloremque molestias vitae velit quia cum quia aut. Neque ducimus occaecati suscipit omnis. Eius itaque nobis dicta excepturi deserunt quia.",
+            "category": "Filmowa",
+            "id": 15
+        },
+        {
+            "name": "Playlista 16",
+            "tracks": [
+
+            ],
+            "color": "#5BEEF2",
+            "favourite": true,
+            "description": "Labore distinctio ea quibusdam dolor nemo.",
+            "category": "Polskie",
+            "id": 16
+        },
+        {
+            "name": "Playlista 17",
+            "tracks": [
+
+            ],
+            "color": "#0E73B5",
+            "favourite": false,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 17
+        },
+        {
+            "name": "Playlista 18",
+            "tracks": [
+
+            ],
+            "color": "#7B4F36",
+            "favourite": false,
+            "description": "Recusandae id fuga sit non laborum non. Qui ipsam et autem expedita vel fuga quia. Perferendis molestias ut quaerat dicta maiores qui molestias. Illo ullam et fuga molestiae at id.",
+            "category": "Inna",
+            "id": 18
+        },
+        {
+            "name": "Playlista 19",
+            "tracks": [
+
+            ],
+            "color": "#742E5C",
+            "favourite": false,
+            "description": "Aperiam et eos enim asperiores. Earum nemo non dicta porro numquam officiis ullam. Ea nihil quod cumque in consequatur. Cumque qui dolores cumque reprehenderit voluptatibus ullam porro. Voluptas eum consequatur vel soluta. Unde sunt qui libero deserunt quia qui corporis.",
+            "category": "Zagraniczne",
+            "id": 19
+        },
+        {
+            "name": "Playlista 20",
+            "tracks": [
+
+            ],
+            "color": "#2CCA70",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 20
+        },
+        {
+            "name": "Playlista 21",
+            "tracks": [
+
+            ],
+            "color": "#069DC5",
+            "favourite": true,
+            "description": "Placeat eum neque accusamus soluta hic placeat. Aut totam aut at fuga cum. Officia delectus pariatur harum omnis dicta. Incidunt magni optio sint est laborum consequuntur et distinctio. Eos et quod velit aut tenetur omnis.",
+            "category": "Filmowa",
+            "id": 21
+        },
+        {
+            "name": "Playlista 22",
+            "tracks": [
+
+            ],
+            "color": "#D7D687",
+            "favourite": false,
+            "description": "Quia nesciunt consectetur architecto cum deleniti odio molestiae. Fugiat quisquam ab quia magni sed provident dicta.",
+            "category": "Inna",
+            "id": 22
+        },
+        {
+            "name": "Playlista 23",
+            "tracks": [
+
+            ],
+            "color": "#EE7D71",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 23
+        },
+        {
+            "name": "Playlista 24",
+            "tracks": [
+
+            ],
+            "color": "#1B0C53",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 24
+        },
+        {
+            "name": "Playlista 25",
+            "tracks": [
+
+            ],
+            "color": "#FCAA8F",
+            "favourite": false,
+            "description": "",
+            "category": "Filmowa",
+            "id": 25
+        },
+        {
+            "name": "Playlista 26",
+            "tracks": [
+
+            ],
+            "color": "#93A61D",
+            "favourite": true,
+            "description": "Dolor ex fugit doloremque eligendi quo qui. Omnis aut id rerum sit magnam et. Voluptas maiores ea a assumenda porro ut non. Consequatur et odit praesentium consectetur voluptatem quia. Doloribus quod mollitia tenetur iusto distinctio ex. Ut voluptas non tenetur.",
+            "category": "Klasyczna",
+            "id": 26
+        },
+        {
+            "name": "Playlista 27",
+            "tracks": [
+
+            ],
+            "color": "#2889B6",
+            "favourite": false,
+            "description": "Eos ut quo ullam et est voluptas non. Hic sed laboriosam dolorem nobis voluptas. Autem non voluptas quaerat et commodi et.",
+            "category": "Klasyczna",
+            "id": 27
+        },
+        {
+            "name": "Playlista 28",
+            "tracks": [
+
+            ],
+            "color": "#243776",
+            "favourite": true,
+            "description": "Doloribus magni alias laudantium et. Placeat est aut ea quis. Numquam eaque dolorem consectetur quo.",
+            "category": "Zagraniczne",
+            "id": 28
+        },
+        {
+            "name": "Playlista 29",
+            "tracks": [
+
+            ],
+            "color": "#E43137",
+            "favourite": true,
+            "description": "Incidunt eum quia voluptatibus sint molestiae delectus id perspiciatis. Id minima nihil sunt. Vero praesentium officia totam asperiores consequatur doloribus adipisci. Aut dolorem non assumenda et neque qui ex. Consequatur et nulla aut et aut fugiat.",
+            "category": "Polskie",
+            "id": 29
+        },
+        {
+            "name": "Playlista 30",
+            "tracks": [
+
+            ],
+            "color": "#15D857",
+            "favourite": true,
+            "description": "Voluptatibus non aliquid voluptatem et perspiciatis consequatur quia. Occaecati dolor voluptatem repudiandae. Sapiente facilis quam ut illum et similique. Enim fugiat vel rerum qui aut.",
+            "category": "Zagraniczne",
+            "id": 30
+        },
+        {
+            "name": "Playlista 31",
+            "tracks": [
+
+            ],
+            "color": "#E0D85C",
+            "favourite": false,
+            "description": "Voluptatum magnam et modi itaque assumenda dolorem. Tempore possimus accusamus quia neque numquam.",
+            "category": "Filmowa",
+            "id": 31
+        },
+        {
+            "name": "Playlista 32",
+            "tracks": [
+
+            ],
+            "color": "#311B71",
+            "favourite": true,
+            "description": "Rerum debitis velit eos tenetur veniam quam voluptatum. Nam id ut velit in hic reiciendis sed voluptatum.",
+            "category": "Zagraniczne",
+            "id": 32
+        },
+        {
+            "name": "Playlista 33",
+            "tracks": [
+
+            ],
+            "color": "#292315",
+            "favourite": false,
+            "description": "In delectus mollitia doloribus aspernatur delectus. Iure aut officia nulla vitae. Placeat accusamus non dolor placeat et voluptatem suscipit consequatur.",
+            "category": "Top",
+            "id": 33
+        },
+        {
+            "name": "Playlista 34",
+            "tracks": [
+
+            ],
+            "color": "#FC41ED",
+            "favourite": true,
+            "description": "Non molestiae et ut cupiditate. Facere iste dolor amet aut debitis quia. Blanditiis ipsa molestias laudantium aut. Aspernatur repellat omnis quo aut earum reiciendis deleniti.",
+            "category": "Filmowa",
+            "id": 34
+        },
+        {
+            "name": "Playlista 35",
+            "tracks": [
+
+            ],
+            "color": "#3C7F40",
+            "favourite": true,
+            "description": "Est quo illo hic aut. Et non earum illum sunt eaque maiores. Reiciendis vero repellat quae consectetur. Numquam sit ipsum enim est aliquid iusto. Nobis facilis quia maiores debitis nihil.",
+            "category": "Polskie",
+            "id": 35
+        },
+        {
+            "name": "Playlista 36",
+            "tracks": [
+
+            ],
+            "color": "#CD7F4A",
+            "favourite": false,
+            "description": "Odio sit hic amet aut. Esse deserunt qui omnis accusamus ut.",
+            "category": "Rockowa",
+            "id": 36
+        },
+        {
+            "name": "Playlista 37",
+            "tracks": [
+
+            ],
+            "color": "#D684B3",
+            "favourite": false,
+            "description": "Autem adipisci distinctio facilis hic adipisci laborum in consequatur. Eum vel sint tenetur totam.",
+            "category": "Klasyczna",
+            "id": 37
+        },
+        {
+            "name": "Playlista 38",
+            "tracks": [
+
+            ],
+            "color": "#50B9CE",
+            "favourite": false,
+            "description": "Aperiam nihil vitae itaque magni. Hic hic amet ipsum architecto. Animi nihil dolorum quo vel quaerat voluptates voluptas.",
+            "category": "Filmowa",
+            "id": 38
+        },
+        {
+            "name": "Playlista 39",
+            "tracks": [
+
+            ],
+            "color": "#E0D051",
+            "favourite": true,
+            "description": "Quia amet aut at et culpa. Ut et in rerum omnis mollitia itaque expedita dolor. Eos quis aut nostrum sint voluptatibus praesentium quo. Nobis perspiciatis quia quia quia aut voluptatem similique. Fuga et provident ipsa omnis iste animi.",
+            "category": "Polskie",
+            "id": 39
+        },
+        {
+            "name": "Playlista 40",
+            "tracks": [
+
+            ],
+            "color": "#D4BE03",
+            "favourite": true,
+            "description": "Perspiciatis et eveniet optio eum distinctio eum optio dignissimos. Facilis a sed perferendis et. Occaecati voluptatem officia et corporis placeat praesentium.",
+            "category": "Top",
+            "id": 40
+        },
+        {
+            "name": "Playlista 41",
+            "tracks": [
+
+            ],
+            "color": "#852F05",
+            "favourite": false,
+            "description": "Itaque impedit id pariatur. Quaerat consectetur vitae nostrum et. Mollitia nostrum omnis accusantium dolor molestiae. Expedita alias error quos cumque. Quaerat quasi rerum ut voluptas voluptatibus.",
+            "category": "Top",
+            "id": 41
+        },
+        {
+            "name": "Playlista 42",
+            "tracks": [
+
+            ],
+            "color": "#051C9E",
+            "favourite": true,
+            "description": "",
+            "category": "Polskie",
+            "id": 42
+        },
+        {
+            "name": "Playlista 43",
+            "tracks": [
+
+            ],
+            "color": "#E2405C",
+            "favourite": false,
+            "description": "Voluptas aperiam ut sint tempora et excepturi veniam. Laboriosam in facilis perspiciatis. Accusantium et saepe non unde maiores qui harum. Laboriosam non itaque enim ipsa. Voluptatibus laboriosam repellendus natus necessitatibus repellat.",
+            "category": "Zagraniczne",
+            "id": 43
+        },
+        {
+            "name": "Playlista 44",
+            "tracks": [
+
+            ],
+            "color": "#4A2F1B",
+            "favourite": false,
+            "description": "Id sed eum eaque. Unde quia vero sunt maiores sunt aut error. Natus veniam qui et et qui quibusdam. Atque expedita eos nesciunt modi.",
+            "category": "Filmowa",
+            "id": 44
+        },
+        {
+            "name": "Playlista 45",
+            "tracks": [
+
+            ],
+            "color": "#4A9E9D",
+            "favourite": false,
+            "description": "Rerum perspiciatis ea labore aut saepe molestiae sunt sit. Ut vitae laborum consequatur veritatis nostrum. In ipsam et velit nobis et magnam.",
+            "category": "Klasyczna",
+            "id": 45
+        },
+        {
+            "name": "Playlista 46",
+            "tracks": [
+
+            ],
+            "color": "#3BAE80",
+            "favourite": true,
+            "description": "Culpa veniam voluptatibus est nam animi laudantium. Aliquid eaque recusandae voluptatem aut. Error adipisci eius pariatur voluptates et repellendus dolor.",
+            "category": "Klasyczna",
+            "id": 46
+        },
+        {
+            "name": "Playlista 47",
+            "tracks": [
+
+            ],
+            "color": "#F8DC26",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 47
+        },
+        {
+            "name": "Playlista 48",
+            "tracks": [
+
+            ],
+            "color": "#0E6AD5",
+            "favourite": false,
+            "description": "Numquam illo ea est animi deserunt. Veritatis quos qui voluptas nulla ea sunt.",
+            "category": "Inna",
+            "id": 48
+        },
+        {
+            "name": "Playlista 49",
+            "tracks": [
+
+            ],
+            "color": "#3817D2",
+            "favourite": true,
+            "description": "Exercitationem qui sit veritatis illum autem. Voluptatem incidunt harum modi adipisci. Pariatur officiis vel non excepturi consequuntur.",
+            "category": "Top",
+            "id": 49
+        },
+        {
+            "name": "Playlista 50",
+            "tracks": [
+
+            ],
+            "color": "#399656",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 50
+        },
+        {
+            "name": "Playlista 51",
+            "tracks": [
+
+            ],
+            "color": "#0E6DF2",
+            "favourite": true,
+            "description": "Ipsum iste voluptatem illum nihil et. Earum ad quia consequatur sit.",
+            "category": "Klasyczna",
+            "id": 51
+        },
+        {
+            "name": "Playlista 52",
+            "tracks": [
+
+            ],
+            "color": "#857BD4",
+            "favourite": true,
+            "description": "",
+            "category": "Top",
+            "id": 52
+        },
+        {
+            "name": "Playlista 53",
+            "tracks": [
+
+            ],
+            "color": "#D4BD1D",
+            "favourite": false,
+            "description": "Reprehenderit iste qui sunt. Omnis et optio fugiat omnis.",
+            "category": "Top",
+            "id": 53
+        },
+        {
+            "name": "Playlista 54",
+            "tracks": [
+
+            ],
+            "color": "#27674D",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 54
+        },
+        {
+            "name": "Playlista 55",
+            "tracks": [
+
+            ],
+            "color": "#C5B9CA",
+            "favourite": false,
+            "description": "Dolorem vel sint beatae est perspiciatis architecto magni. Alias iure quis expedita consequatur sunt.",
+            "category": "Inna",
+            "id": 55
+        },
+        {
+            "name": "Playlista 56",
+            "tracks": [
+
+            ],
+            "color": "#F283E0",
+            "favourite": true,
+            "description": "Perferendis nostrum quae et rerum cupiditate quis. Facilis voluptatum eveniet laudantium aut aut. Quasi eum dolore totam totam doloremque velit. Id aut eum et deleniti cumque aut libero.",
+            "category": "Polskie",
+            "id": 56
+        },
+        {
+            "name": "Playlista 57",
+            "tracks": [
+
+            ],
+            "color": "#7C41C9",
+            "favourite": true,
+            "description": "Quibusdam ex consequuntur error. Quo aut corrupti ut unde. Quis qui ut sequi sit voluptates.",
+            "category": "Polskie",
+            "id": 57
+        },
+        {
+            "name": "Playlista 58",
+            "tracks": [
+
+            ],
+            "color": "#AF4F3B",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 58
+        },
+        {
+            "name": "Playlista 59",
+            "tracks": [
+
+            ],
+            "color": "#79DAAD",
+            "favourite": false,
+            "description": "Cum nobis omnis aut saepe at odit aut. Facere qui quam temporibus laborum consectetur dignissimos voluptatum non. Ab maiores dolorem sunt consequatur ut qui itaque in.",
+            "category": "Top",
+            "id": 59
+        },
+        {
+            "name": "Playlista 60",
+            "tracks": [
+
+            ],
+            "color": "#DC2E62",
+            "favourite": false,
+            "description": "Voluptatum perferendis alias quia similique non repellat. Possimus laborum sint veritatis omnis voluptas culpa accusantium. Repellat nihil nesciunt alias in voluptates. Enim dolorem fugit quam et consectetur quisquam facilis rerum.",
+            "category": "Polskie",
+            "id": 60
+        },
+        {
+            "name": "Playlista 61",
+            "tracks": [
+
+            ],
+            "color": "#A77BE5",
+            "favourite": false,
+            "description": "Expedita quo aut doloremque occaecati possimus est quaerat. Dolores dolorem repudiandae explicabo ea occaecati. Quo quia maiores delectus aliquid earum. Distinctio minus quae temporibus. Consequatur eveniet voluptate quo dolorum sed sapiente sunt.",
+            "category": "Zagraniczne",
+            "id": 61
+        },
+        {
+            "name": "Playlista 62",
+            "tracks": [
+
+            ],
+            "color": "#1502C7",
+            "favourite": true,
+            "description": "Ipsam eius aperiam qui. Deleniti ullam quos placeat et provident est sunt.",
+            "category": "Filmowa",
+            "id": 62
+        },
+        {
+            "name": "Playlista 63",
+            "tracks": [
+
+            ],
+            "color": "#3DF8CA",
+            "favourite": true,
+            "description": "Consequatur sunt non nihil itaque qui consectetur. Quasi pariatur fuga aperiam quaerat temporibus sapiente.",
+            "category": "Zagraniczne",
+            "id": 63
+        },
+        {
+            "name": "Playlista 64",
+            "tracks": [
+
+            ],
+            "color": "#A1D58A",
+            "favourite": false,
+            "description": "Soluta officia laboriosam nobis quisquam dolor sed sunt. Eaque accusantium odio laboriosam impedit. Ipsam quos neque tempora dolores. Pariatur veritatis repellat eum.",
+            "category": "Top",
+            "id": 64
+        },
+        {
+            "name": "Playlista 65",
+            "tracks": [
+
+            ],
+            "color": "#F1A7DA",
+            "favourite": true,
+            "description": "Ex eos numquam quibusdam aperiam. Sed voluptates vel in ipsum nostrum eligendi. Quas doloribus non beatae necessitatibus itaque totam repudiandae.",
+            "category": "Polskie",
+            "id": 65
+        },
+        {
+            "name": "Playlista 66",
+            "tracks": [
+
+            ],
+            "color": "#500D0B",
+            "favourite": false,
+            "description": "Voluptatem cupiditate et illum dolor quod ut exercitationem. Qui nesciunt doloribus reprehenderit culpa non omnis. Iste dolores vel illo cupiditate asperiores. Ea ut accusamus ea est modi vel.",
+            "category": "Filmowa",
+            "id": 66
+        },
+        {
+            "name": "Playlista 67",
+            "tracks": [
+
+            ],
+            "color": "#873A6D",
+            "favourite": true,
+            "description": "Veritatis ullam repellendus illo id. Magni reprehenderit ut voluptas nulla mollitia ex sit. Vitae unde sit voluptate non eos velit itaque. Architecto beatae sit nihil enim. Qui voluptatem libero aliquid ut quibusdam distinctio placeat. Unde quo repudiandae quasi impedit in repellendus in distinctio.",
+            "category": "Rockowa",
+            "id": 67
+        },
+        {
+            "name": "Playlista 68",
+            "tracks": [
+
+            ],
+            "color": "#2C2EA5",
+            "favourite": true,
+            "description": "Consequatur quos est ut ut. Consequatur minus saepe ad molestias aut sunt. Quaerat aut at qui voluptatem sed soluta architecto. Voluptatem est non non at vel. Molestiae mollitia repellendus veritatis ut sit dolorem ut.",
+            "category": "Top",
+            "id": 68
+        },
+        {
+            "name": "Playlista 69",
+            "tracks": [
+
+            ],
+            "color": "#775437",
+            "favourite": false,
+            "description": "Voluptatem quibusdam similique aut et consequatur. Non reiciendis et suscipit libero et. Accusantium impedit error eos distinctio repellendus maxime sunt.",
+            "category": "Zagraniczne",
+            "id": 69
+        },
+        {
+            "name": "Playlista 70",
+            "tracks": [
+
+            ],
+            "color": "#AFA501",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 70
+        },
+        {
+            "name": "Playlista 71",
+            "tracks": [
+
+            ],
+            "color": "#88C1C1",
+            "favourite": true,
+            "description": "Sunt architecto praesentium nihil cumque eaque sunt. Aut voluptas voluptatibus ut. Error aspernatur ipsum mollitia ea vero. Doloremque eius non occaecati ullam exercitationem eligendi.",
+            "category": "Zagraniczne",
+            "id": 71
+        },
+        {
+            "name": "Playlista 72",
+            "tracks": [
+
+            ],
+            "color": "#3F4397",
+            "favourite": false,
+            "description": "",
+            "category": "Filmowa",
+            "id": 72
+        },
+        {
+            "name": "Playlista 73",
+            "tracks": [
+
+            ],
+            "color": "#83A86A",
+            "favourite": true,
+            "description": "",
+            "category": "Top",
+            "id": 73
+        },
+        {
+            "name": "Playlista 74",
+            "tracks": [
+
+            ],
+            "color": "#B4BE32",
+            "favourite": true,
+            "description": "Facere vero natus asperiores. Id nostrum quod dolorum. Et alias aut a aspernatur laudantium aliquid.",
+            "category": "Top",
+            "id": 74
+        },
+        {
+            "name": "Playlista 75",
+            "tracks": [
+
+            ],
+            "color": "#657A45",
+            "favourite": true,
+            "description": "Et et aspernatur ipsum ut cum dolorum dolor quis.",
+            "category": "Klasyczna",
+            "id": 75
+        },
+        {
+            "name": "Playlista 76",
+            "tracks": [
+
+            ],
+            "color": "#D23188",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 76
+        },
+        {
+            "name": "Playlista 77",
+            "tracks": [
+
+            ],
+            "color": "#AB90CD",
+            "favourite": true,
+            "description": "Hic qui minus et aspernatur eaque. Suscipit aut odio omnis. Dolorem provident magni alias repudiandae voluptate aut.",
+            "category": "Top",
+            "id": 77
+        },
+        {
+            "name": "Playlista 78",
+            "tracks": [
+
+            ],
+            "color": "#78A9E6",
+            "favourite": false,
+            "description": "Et quas est eos iusto quos sed dignissimos.",
+            "category": "Polskie",
+            "id": 78
+        },
+        {
+            "name": "Playlista 79",
+            "tracks": [
+
+            ],
+            "color": "#AE9B7C",
+            "favourite": true,
+            "description": "Nam facere eos consequatur aut maiores sint sit necessitatibus.",
+            "category": "Filmowa",
+            "id": 79
+        },
+        {
+            "name": "Playlista 80",
+            "tracks": [
+
+            ],
+            "color": "#326AC8",
+            "favourite": false,
+            "description": "Nostrum molestiae sint non vel tempora libero. Ipsum odio quis cum dolorum autem et consequatur. Ut quia eligendi dolore. Voluptatibus possimus culpa error corrupti saepe. Culpa officia beatae quas.",
+            "category": "Top",
+            "id": 80
+        },
+        {
+            "name": "Playlista 81",
+            "tracks": [
+
+            ],
+            "color": "#1A02EF",
+            "favourite": true,
+            "description": "Delectus animi a dolorem fugit similique totam. Repellat quae excepturi expedita nesciunt voluptas commodi consectetur.",
+            "category": "Filmowa",
+            "id": 81
+        },
+        {
+            "name": "Playlista 82",
+            "tracks": [
+
+            ],
+            "color": "#79F592",
+            "favourite": false,
+            "description": "Esse nihil aliquid sint libero neque sequi beatae. Eligendi nam iusto at consequatur necessitatibus a tenetur.",
+            "category": "Klasyczna",
+            "id": 82
+        },
+        {
+            "name": "Playlista 83",
+            "tracks": [
+
+            ],
+            "color": "#0C53C5",
+            "favourite": false,
+            "description": "Voluptatem sunt ipsum repellat officiis. Et omnis ut facilis eos amet qui. Natus rerum est atque laudantium omnis omnis.",
+            "category": "Klasyczna",
+            "id": 83
+        },
+        {
+            "name": "Playlista 84",
+            "tracks": [
+
+            ],
+            "color": "#209E03",
+            "favourite": false,
+            "description": "Aliquid debitis et non in et accusantium aut reiciendis. Cumque et enim modi sit architecto. Alias consequatur et repellendus voluptatem sequi quae. Optio velit quaerat facilis voluptatem sed perferendis.",
+            "category": "Filmowa",
+            "id": 84
+        },
+        {
+            "name": "Playlista 85",
+            "tracks": [
+
+            ],
+            "color": "#983B58",
+            "favourite": true,
+            "description": "Voluptatem illo non vel rem tempore. Tempora et est cum ut praesentium aut rerum. Suscipit optio quia eligendi.",
+            "category": "Filmowa",
+            "id": 85
+        },
+        {
+            "name": "Playlista 86",
+            "tracks": [
+
+            ],
+            "color": "#AC8692",
+            "favourite": false,
+            "description": "Aperiam ipsam voluptatem earum deleniti qui. Ducimus quia soluta veniam aperiam. Velit natus doloremque in architecto consequatur dolorem ipsam.",
+            "category": "Top",
+            "id": 86
+        },
+        {
+            "name": "Playlista 87",
+            "tracks": [
+
+            ],
+            "color": "#EDB75F",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 87
+        },
+        {
+            "name": "Playlista 88",
+            "tracks": [
+
+            ],
+            "color": "#D0DD62",
+            "favourite": false,
+            "description": "Soluta enim voluptatum nihil aliquam. Laborum rerum consequatur velit. Voluptatem sunt laborum quo sapiente laudantium qui. Qui pariatur porro velit natus soluta.",
+            "category": "Filmowa",
+            "id": 88
+        },
+        {
+            "name": "Playlista 89",
+            "tracks": [
+
+            ],
+            "color": "#A09027",
+            "favourite": true,
+            "description": "Consectetur saepe quidem quo cupiditate aut dolor. Natus nesciunt in architecto atque qui corrupti tenetur. Dignissimos quia nihil aliquid et impedit.",
+            "category": "Zagraniczne",
+            "id": 89
+        },
+        {
+            "name": "Playlista 90",
+            "tracks": [
+
+            ],
+            "color": "#0F32D4",
+            "favourite": true,
+            "description": "Nesciunt rerum facere consequatur placeat veniam quo asperiores consequatur.",
+            "category": "Rockowa",
+            "id": 90
+        },
+        {
+            "name": "Playlista 91",
+            "tracks": [
+
+            ],
+            "color": "#1C47FE",
+            "favourite": true,
+            "description": "Et dolorem dolores eos et vel adipisci aut rerum. Consectetur rerum quae rerum porro iure.",
+            "category": "Filmowa",
+            "id": 91
+        },
+        {
+            "name": "Playlista 92",
+            "tracks": [
+
+            ],
+            "color": "#96F3C7",
+            "favourite": false,
+            "description": "At occaecati molestiae voluptatem doloremque praesentium exercitationem ea. Eligendi nulla aut unde qui cupiditate deserunt.",
+            "category": "Filmowa",
+            "id": 92
+        },
+        {
+            "name": "Playlista 93",
+            "tracks": [
+
+            ],
+            "color": "#39E480",
+            "favourite": true,
+            "description": "Voluptate veniam molestiae velit nihil numquam. Dolorum rem asperiores et itaque ut.",
+            "category": "Rockowa",
+            "id": 93
+        },
+        {
+            "name": "Playlista 94",
+            "tracks": [
+
+            ],
+            "color": "#BB9894",
+            "favourite": true,
+            "description": "Enim dolores eos ut consequatur. Non esse delectus aspernatur. Odit facilis officiis fuga eveniet ea fuga. Cum in omnis commodi sit.",
+            "category": "Filmowa",
+            "id": 94
+        },
+        {
+            "name": "Playlista 95",
+            "tracks": [
+
+            ],
+            "color": "#A3E4F7",
+            "favourite": false,
+            "description": "Recusandae aliquid in quia non maiores accusantium repudiandae. Voluptate fuga nostrum accusamus praesentium nam debitis.",
+            "category": "Filmowa",
+            "id": 95
+        },
+        {
+            "name": "Playlista 96",
+            "tracks": [
+
+            ],
+            "color": "#8CB66C",
+            "favourite": false,
+            "description": "Autem et corrupti iure voluptates tempora ut facilis quia. Dolorum et at quae rem aut dolorum. Rerum porro non aut. Sed architecto quisquam reiciendis deserunt. Necessitatibus numquam molestiae aspernatur ex soluta. Culpa esse odio dicta voluptatibus odio laudantium officia.",
+            "category": "Filmowa",
+            "id": 96
+        },
+        {
+            "name": "Playlista 97",
+            "tracks": [
+
+            ],
+            "color": "#C7DA76",
+            "favourite": false,
+            "description": "Odio voluptas dolorem tempora esse eos omnis eum est. Et necessitatibus molestiae labore sunt.",
+            "category": "Filmowa",
+            "id": 97
+        },
+        {
+            "name": "Playlista 98",
+            "tracks": [
+
+            ],
+            "color": "#C58ABF",
+            "favourite": true,
+            "description": "",
+            "category": "Polskie",
+            "id": 98
+        },
+        {
+            "name": "Playlista 99",
+            "tracks": [
+
+            ],
+            "color": "#A13BEF",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 99
+        },
+        {
+            "name": "Playlista 100",
+            "tracks": [
+
+            ],
+            "color": "#659509",
+            "favourite": false,
+            "description": "Ullam ut eius magnam maxime incidunt totam et. Et omnis nesciunt dolorum reiciendis sunt. Voluptatem eveniet tempora doloribus magnam eveniet.",
+            "category": "Inna",
+            "id": 100
+        },
+        {
+            "name": "Playlista 101",
+            "tracks": [
+
+            ],
+            "color": "#EF7B0D",
+            "favourite": false,
+            "description": "Optio distinctio ipsum consequatur perferendis. Aperiam sit pariatur et et. Adipisci qui id quae officiis repellat. Iure accusantium ex dolores ab id sit sapiente modi.",
+            "category": "Filmowa",
+            "id": 101
+        },
+        {
+            "name": "Playlista 102",
+            "tracks": [
+
+            ],
+            "color": "#FBA15F",
+            "favourite": false,
+            "description": "Voluptatum sunt repudiandae deleniti corporis sit. Eum possimus et provident facere voluptatem vero repudiandae nostrum. Qui cum architecto qui deleniti voluptatem esse in.",
+            "category": "Inna",
+            "id": 102
+        },
+        {
+            "name": "Playlista 103",
+            "tracks": [
+
+            ],
+            "color": "#C24BBC",
+            "favourite": false,
+            "description": "Dignissimos nam et ea sint. Amet consequatur molestiae praesentium qui suscipit. Et ullam perspiciatis eveniet voluptatem.",
+            "category": "Top",
+            "id": 103
+        },
+        {
+            "name": "Playlista 104",
+            "tracks": [
+
+            ],
+            "color": "#C06959",
+            "favourite": true,
+            "description": "Eum voluptatem et quia eum consequatur cumque iusto. Libero qui unde esse ut et animi. Nihil quia ut non ea nemo.",
+            "category": "Polskie",
+            "id": 104
+        },
+        {
+            "name": "Playlista 105",
+            "tracks": [
+
+            ],
+            "color": "#F4BE3F",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 105
+        },
+        {
+            "name": "Playlista 106",
+            "tracks": [
+
+            ],
+            "color": "#D7DFA2",
+            "favourite": true,
+            "description": "",
+            "category": "Top",
+            "id": 106
+        },
+        {
+            "name": "Playlista 107",
+            "tracks": [
+
+            ],
+            "color": "#400E0C",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 107
+        },
+        {
+            "name": "Playlista 108",
+            "tracks": [
+
+            ],
+            "color": "#2DC27A",
+            "favourite": true,
+            "description": "Deserunt nostrum beatae rerum nesciunt laudantium iste. In est aliquam id quos. Nostrum maxime deserunt rerum non deserunt. Et soluta unde earum numquam nesciunt qui. Sed accusantium aut et tempore. Natus quibusdam quos et deserunt alias id rem consectetur.",
+            "category": "Klasyczna",
+            "id": 108
+        },
+        {
+            "name": "Playlista 109",
+            "tracks": [
+
+            ],
+            "color": "#C847C2",
+            "favourite": false,
+            "description": "Reiciendis dolores consequatur saepe sapiente eligendi aut consectetur. Perferendis consequatur non quis labore non quia. Sit aut non est consequatur alias corrupti quis. Suscipit velit iusto ratione cum id consectetur veritatis. Maiores repudiandae ea adipisci nulla. Autem cum rerum a repudiandae.",
+            "category": "Zagraniczne",
+            "id": 109
+        },
+        {
+            "name": "Playlista 110",
+            "tracks": [
+
+            ],
+            "color": "#5C33F9",
+            "favourite": false,
+            "description": "Vero quibusdam distinctio deleniti sequi non eum perspiciatis. Esse accusantium quas voluptate et.",
+            "category": "Klasyczna",
+            "id": 110
+        },
+        {
+            "name": "Playlista 111",
+            "tracks": [
+
+            ],
+            "color": "#F312B0",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 111
+        },
+        {
+            "name": "Playlista 112",
+            "tracks": [
+
+            ],
+            "color": "#71FEA2",
+            "favourite": true,
+            "description": "Expedita ea itaque eius sed aliquid harum. Iure necessitatibus sed et sit dolores.",
+            "category": "Filmowa",
+            "id": 112
+        },
+        {
+            "name": "Playlista 113",
+            "tracks": [
+
+            ],
+            "color": "#FAD961",
+            "favourite": true,
+            "description": "Perspiciatis libero ad harum animi iste hic. Eaque cum veritatis tenetur ducimus dolorem at incidunt dolorum. In quia non quae praesentium assumenda et a. Voluptas sed omnis ad unde voluptatum.",
+            "category": "Rockowa",
+            "id": 113
+        },
+        {
+            "name": "Playlista 114",
+            "tracks": [
+
+            ],
+            "color": "#5B97D0",
+            "favourite": true,
+            "description": "Velit excepturi ut quia voluptates nulla autem sequi.",
+            "category": "Filmowa",
+            "id": 114
+        },
+        {
+            "name": "Playlista 115",
+            "tracks": [
+
+            ],
+            "color": "#A6DD4F",
+            "favourite": false,
+            "description": "Quia non autem reprehenderit blanditiis. Impedit voluptatem exercitationem accusantium et sit non reprehenderit. Voluptas dolores itaque itaque unde praesentium.",
+            "category": "Polskie",
+            "id": 115
+        },
+        {
+            "name": "Playlista 116",
+            "tracks": [
+
+            ],
+            "color": "#D16521",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 116
+        },
+        {
+            "name": "Playlista 117",
+            "tracks": [
+
+            ],
+            "color": "#E3167A",
+            "favourite": false,
+            "description": "",
+            "category": "Filmowa",
+            "id": 117
+        },
+        {
+            "name": "Playlista 118",
+            "tracks": [
+
+            ],
+            "color": "#75FA42",
+            "favourite": false,
+            "description": "Voluptatem non qui sint at optio fuga cumque. Repellat sunt iure commodi blanditiis veritatis cupiditate. Et dolorum qui aliquid fugiat placeat. Nostrum sed dolores velit repellendus et dolores inventore.",
+            "category": "Klasyczna",
+            "id": 118
+        },
+        {
+            "name": "Playlista 119",
+            "tracks": [
+
+            ],
+            "color": "#D97734",
+            "favourite": false,
+            "description": "Aut assumenda voluptate voluptatem voluptas inventore.",
+            "category": "Polskie",
+            "id": 119
+        },
+        {
+            "name": "Playlista 120",
+            "tracks": [
+
+            ],
+            "color": "#C0DEBD",
+            "favourite": true,
+            "description": "Quidem assumenda modi est illo. Est totam aspernatur maiores fugit qui est porro. Voluptatem quasi atque est laborum eius.",
+            "category": "Klasyczna",
+            "id": 120
+        },
+        {
+            "name": "Playlista 121",
+            "tracks": [
+
+            ],
+            "color": "#A2C377",
+            "favourite": true,
+            "description": "Vitae harum porro expedita et natus suscipit dolores. Suscipit similique et id id delectus consectetur. Tempore cumque maxime vitae quae quam at nostrum non. Libero beatae tenetur eum aut minima fugiat nihil. Non est maiores non nemo deleniti voluptas consectetur. Perferendis aut non sint hic dolorum vero.",
+            "category": "Polskie",
+            "id": 121
+        },
+        {
+            "name": "Playlista 122",
+            "tracks": [
+
+            ],
+            "color": "#7CEE9C",
+            "favourite": true,
+            "description": "Voluptatem velit sapiente quasi suscipit qui quo voluptas. Omnis quae et rem voluptas rerum eligendi totam. Fugiat quae ut velit impedit et vel voluptatem quisquam.",
+            "category": "Top",
+            "id": 122
+        },
+        {
+            "name": "Playlista 123",
+            "tracks": [
+
+            ],
+            "color": "#DF74AC",
+            "favourite": false,
+            "description": "Facilis aut distinctio ullam tempora possimus perferendis. Sint dolorem illum sequi et.",
+            "category": "Top",
+            "id": 123
+        },
+        {
+            "name": "Playlista 124",
+            "tracks": [
+
+            ],
+            "color": "#BDABCB",
+            "favourite": true,
+            "description": "Ea corrupti et qui et reiciendis. Animi praesentium amet voluptates officiis. Exercitationem non omnis est ab.",
+            "category": "Polskie",
+            "id": 124
+        },
+        {
+            "name": "Playlista 125",
+            "tracks": [
+
+            ],
+            "color": "#1C1705",
+            "favourite": false,
+            "description": "Molestiae temporibus veniam et officia veritatis aliquam. Non vero sed ipsa esse architecto autem. Mollitia dolore temporibus incidunt voluptatum ut aut eum. Nemo cupiditate expedita vel autem.",
+            "category": "Top",
+            "id": 125
+        },
+        {
+            "name": "Playlista 126",
+            "tracks": [
+
+            ],
+            "color": "#446BE4",
+            "favourite": false,
+            "description": "Illo quae dolorem modi iste itaque ut ut laudantium. Ex omnis eum adipisci ab voluptatum. Aliquid nesciunt autem aperiam fugiat.",
+            "category": "Filmowa",
+            "id": 126
+        },
+        {
+            "name": "Playlista 127",
+            "tracks": [
+
+            ],
+            "color": "#6FDDC9",
+            "favourite": true,
+            "description": "Iusto in quis eveniet modi fugiat earum. Odit dolores corporis quis molestiae. Magnam molestiae possimus id. Non veritatis ut id.",
+            "category": "Rockowa",
+            "id": 127
+        },
+        {
+            "name": "Playlista 128",
+            "tracks": [
+
+            ],
+            "color": "#E12BD8",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 128
+        },
+        {
+            "name": "Playlista 129",
+            "tracks": [
+
+            ],
+            "color": "#CC63E8",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 129
+        },
+        {
+            "name": "Playlista 130",
+            "tracks": [
+
+            ],
+            "color": "#81DA30",
+            "favourite": true,
+            "description": "Est molestias tenetur omnis quo. Vel excepturi eius odio cupiditate. Ut ipsam est porro aperiam beatae commodi optio ut. Harum error molestias ad quis.",
+            "category": "Rockowa",
+            "id": 130
+        },
+        {
+            "name": "Playlista 131",
+            "tracks": [
+
+            ],
+            "color": "#72DCB7",
+            "favourite": false,
+            "description": "",
+            "category": "Rockowa",
+            "id": 131
+        },
+        {
+            "name": "Playlista 132",
+            "tracks": [
+
+            ],
+            "color": "#D715D6",
+            "favourite": true,
+            "description": "Voluptatem sit numquam ut quia at. Ea unde natus laborum deserunt. Magnam qui pariatur voluptatem natus tempora qui ut. Maiores quo voluptates dolor exercitationem reprehenderit enim. Eveniet rerum voluptatem adipisci nam et ea.",
+            "category": "Polskie",
+            "id": 132
+        },
+        {
+            "name": "Playlista 133",
+            "tracks": [
+
+            ],
+            "color": "#35E346",
+            "favourite": true,
+            "description": "Eos quis fugiat voluptatem voluptas qui blanditiis. Porro vitae quo ea ex. Voluptates doloribus ex incidunt eligendi aut modi ut. Est consectetur accusamus adipisci architecto. Aut quo aliquid dolores harum eveniet necessitatibus.",
+            "category": "Top",
+            "id": 133
+        },
+        {
+            "name": "Playlista 134",
+            "tracks": [
+
+            ],
+            "color": "#0E768D",
+            "favourite": false,
+            "description": "Nostrum nulla debitis explicabo. Voluptatibus atque nesciunt quidem molestiae. Repellendus qui quam maxime eaque consequuntur. Temporibus harum id neque. Assumenda error saepe quae maxime quam.",
+            "category": "Zagraniczne",
+            "id": 134
+        },
+        {
+            "name": "Playlista 135",
+            "tracks": [
+
+            ],
+            "color": "#CEB979",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 135
+        },
+        {
+            "name": "Playlista 136",
+            "tracks": [
+
+            ],
+            "color": "#7FF42B",
+            "favourite": true,
+            "description": "Dolor corrupti quisquam sunt ut. Et et quibusdam in enim. Nulla voluptatum minus distinctio consectetur.",
+            "category": "Inna",
+            "id": 136
+        },
+        {
+            "name": "Playlista 137",
+            "tracks": [
+
+            ],
+            "color": "#A10AB5",
+            "favourite": true,
+            "description": "",
+            "category": "Top",
+            "id": 137
+        },
+        {
+            "name": "Playlista 138",
+            "tracks": [
+
+            ],
+            "color": "#E55058",
+            "favourite": true,
+            "description": "Quia et laborum dicta temporibus. Omnis vel corrupti dolorum a. Eum aut consequatur doloremque cumque in possimus at dolores.",
+            "category": "Zagraniczne",
+            "id": 138
+        },
+        {
+            "name": "Playlista 139",
+            "tracks": [
+
+            ],
+            "color": "#B12F05",
+            "favourite": false,
+            "description": "Magni impedit est quisquam pariatur sed distinctio. Quam aut quos quia aspernatur ratione. Dolore quo et sint.",
+            "category": "Inna",
+            "id": 139
+        },
+        {
+            "name": "Playlista 140",
+            "tracks": [
+
+            ],
+            "color": "#413CCD",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 140
+        },
+        {
+            "name": "Playlista 141",
+            "tracks": [
+
+            ],
+            "color": "#D17790",
+            "favourite": true,
+            "description": "Commodi officiis dolor et ipsam enim. Maiores ad modi id exercitationem blanditiis dicta distinctio. Quasi autem quis dolores explicabo facilis.",
+            "category": "Inna",
+            "id": 141
+        },
+        {
+            "name": "Playlista 142",
+            "tracks": [
+
+            ],
+            "color": "#50DCCE",
+            "favourite": true,
+            "description": "Ut repudiandae quisquam voluptatum error rerum autem quo. Reprehenderit et impedit blanditiis nesciunt temporibus aut mollitia.",
+            "category": "Inna",
+            "id": 142
+        },
+        {
+            "name": "Playlista 143",
+            "tracks": [
+
+            ],
+            "color": "#88778B",
+            "favourite": true,
+            "description": "Porro aperiam ad tempore aut modi perferendis quis. Voluptatem quia laborum facere et dolorem. Qui aut temporibus temporibus earum.",
+            "category": "Inna",
+            "id": 143
+        },
+        {
+            "name": "Playlista 144",
+            "tracks": [
+
+            ],
+            "color": "#8AF841",
+            "favourite": false,
+            "description": "Corrupti nesciunt voluptatem enim aliquam. Aliquam optio sit ut dolor. Eos quisquam voluptatem reprehenderit labore.",
+            "category": "Polskie",
+            "id": 144
+        },
+        {
+            "name": "Playlista 145",
+            "tracks": [
+
+            ],
+            "color": "#470C2C",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 145
+        },
+        {
+            "name": "Playlista 146",
+            "tracks": [
+
+            ],
+            "color": "#B0DED7",
+            "favourite": true,
+            "description": "Suscipit voluptatem totam deleniti provident aliquam qui. At sed explicabo doloremque.",
+            "category": "Rockowa",
+            "id": 146
+        },
+        {
+            "name": "Playlista 147",
+            "tracks": [
+
+            ],
+            "color": "#6128DF",
+            "favourite": true,
+            "description": "Perspiciatis enim atque nulla quia repudiandae nam itaque enim. Quis enim ut enim dolores enim nostrum.",
+            "category": "Rockowa",
+            "id": 147
+        },
+        {
+            "name": "Playlista 148",
+            "tracks": [
+
+            ],
+            "color": "#E26E63",
+            "favourite": false,
+            "description": "Dolorem illum quod distinctio a soluta cum. Voluptas sint asperiores a possimus consequatur.",
+            "category": "Polskie",
+            "id": 148
+        },
+        {
+            "name": "Playlista 149",
+            "tracks": [
+
+            ],
+            "color": "#7FDFFC",
+            "favourite": true,
+            "description": "Molestias voluptatibus molestiae eum sit cum deleniti. Rerum quis est cupiditate blanditiis tempora quia sint molestias. Facilis et incidunt quia reiciendis.",
+            "category": "Inna",
+            "id": 149
+        },
+        {
+            "name": "Playlista 150",
+            "tracks": [
+
+            ],
+            "color": "#EDBA33",
+            "favourite": false,
+            "description": "Sed libero distinctio aliquam voluptates. Tempora minus sit qui libero.",
+            "category": "Klasyczna",
+            "id": 150
+        },
+        {
+            "name": "Playlista 151",
+            "tracks": [
+
+            ],
+            "color": "#1C5485",
+            "favourite": true,
+            "description": "Tempora minima laboriosam dolores sed aliquam omnis eum. Ea ducimus ut natus consectetur. Ut excepturi quod est voluptatem officia quia qui. Voluptatibus nulla repudiandae hic occaecati. Quo porro dolorem unde magni reiciendis perferendis adipisci quia. Velit rerum quae corporis occaecati omnis.",
+            "category": "Klasyczna",
+            "id": 151
+        },
+        {
+            "name": "Playlista 152",
+            "tracks": [
+
+            ],
+            "color": "#1D9162",
+            "favourite": false,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 152
+        },
+        {
+            "name": "Playlista 153",
+            "tracks": [
+
+            ],
+            "color": "#555EA2",
+            "favourite": false,
+            "description": "Pariatur ut libero pariatur inventore. Est facere commodi nostrum nulla veritatis deserunt harum beatae.",
+            "category": "Inna",
+            "id": 153
+        },
+        {
+            "name": "Playlista 154",
+            "tracks": [
+
+            ],
+            "color": "#A44321",
+            "favourite": false,
+            "description": "Perspiciatis animi accusantium dicta et sint. Nam qui voluptatum qui quos.",
+            "category": "Zagraniczne",
+            "id": 154
+        },
+        {
+            "name": "Playlista 155",
+            "tracks": [
+
+            ],
+            "color": "#3B1A51",
+            "favourite": false,
+            "description": "Id quo et occaecati voluptas vitae ratione. Atque deleniti a et aut reiciendis. Vitae possimus ullam quo veniam.",
+            "category": "Rockowa",
+            "id": 155
+        },
+        {
+            "name": "Playlista 156",
+            "tracks": [
+
+            ],
+            "color": "#63915A",
+            "favourite": true,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 156
+        },
+        {
+            "name": "Playlista 157",
+            "tracks": [
+
+            ],
+            "color": "#49732C",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 157
+        },
+        {
+            "name": "Playlista 158",
+            "tracks": [
+
+            ],
+            "color": "#BB8556",
+            "favourite": false,
+            "description": "Impedit provident ab qui possimus vel aliquid et. Voluptates harum sapiente expedita quod explicabo in accusamus veritatis.",
+            "category": "Filmowa",
+            "id": 158
+        },
+        {
+            "name": "Playlista 159",
+            "tracks": [
+
+            ],
+            "color": "#03188C",
+            "favourite": true,
+            "description": "Quisquam quibusdam ut nihil qui. At odit eaque autem eligendi odit quia aspernatur.",
+            "category": "Top",
+            "id": 159
+        },
+        {
+            "name": "Playlista 160",
+            "tracks": [
+
+            ],
+            "color": "#30867A",
+            "favourite": false,
+            "description": "Magni magni iste voluptate totam.",
+            "category": "Polskie",
+            "id": 160
+        },
+        {
+            "name": "Playlista 161",
+            "tracks": [
+
+            ],
+            "color": "#ED40A2",
+            "favourite": true,
+            "description": "Non distinctio eum eos suscipit magni voluptates ipsum. Repellendus nihil assumenda porro non mollitia autem voluptatibus. Numquam cupiditate natus quod libero.",
+            "category": "Rockowa",
+            "id": 161
+        },
+        {
+            "name": "Playlista 162",
+            "tracks": [
+
+            ],
+            "color": "#830BC6",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 162
+        },
+        {
+            "name": "Playlista 163",
+            "tracks": [
+
+            ],
+            "color": "#4C8081",
+            "favourite": false,
+            "description": "Fuga nesciunt quia quo dicta dolores. Et rem corporis numquam excepturi magnam corporis voluptate error. Blanditiis alias odio autem nihil eveniet eum voluptatem. Eos pariatur est voluptatem asperiores aut earum vel.",
+            "category": "Polskie",
+            "id": 163
+        },
+        {
+            "name": "Playlista 164",
+            "tracks": [
+
+            ],
+            "color": "#9702C1",
+            "favourite": true,
+            "description": "Earum qui blanditiis pariatur voluptatum. Officiis in ab est reprehenderit.",
+            "category": "Klasyczna",
+            "id": 164
+        },
+        {
+            "name": "Playlista 165",
+            "tracks": [
+
+            ],
+            "color": "#0A4CD0",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 165
+        },
+        {
+            "name": "Playlista 166",
+            "tracks": [
+
+            ],
+            "color": "#A06DD0",
+            "favourite": false,
+            "description": "Qui omnis sit qui eos occaecati commodi. Accusantium consectetur velit quo. Consequatur autem atque dolores. Blanditiis quos quia ipsum ut labore ab sit.",
+            "category": "Zagraniczne",
+            "id": 166
+        },
+        {
+            "name": "Playlista 167",
+            "tracks": [
+
+            ],
+            "color": "#A6C9F9",
+            "favourite": false,
+            "description": "Praesentium ab sint mollitia eos. Vero laudantium voluptatem quia ipsum.",
+            "category": "Rockowa",
+            "id": 167
+        },
+        {
+            "name": "Playlista 168",
+            "tracks": [
+
+            ],
+            "color": "#599D92",
+            "favourite": false,
+            "description": "Ab molestiae aut pariatur asperiores tempora sunt. Recusandae et quasi consectetur voluptatum corporis officia voluptas. Occaecati repellat corrupti possimus autem.",
+            "category": "Top",
+            "id": 168
+        },
+        {
+            "name": "Playlista 169",
+            "tracks": [
+
+            ],
+            "color": "#CF742E",
+            "favourite": false,
+            "description": "Blanditiis est et temporibus. Dolore sit consequatur eos veritatis non. Ab placeat in quas porro possimus nihil fuga.",
+            "category": "Top",
+            "id": 169
+        },
+        {
+            "name": "Playlista 170",
+            "tracks": [
+
+            ],
+            "color": "#7D265A",
+            "favourite": true,
+            "description": "Recusandae ea eum molestiae consequuntur earum. Occaecati unde fuga ipsam. Aut consequatur ut consequatur quis. Odit iure dolor dolorem harum. Voluptas ab corrupti magni rem expedita et voluptatem dolores.",
+            "category": "Polskie",
+            "id": 170
+        },
+        {
+            "name": "Playlista 171",
+            "tracks": [
+
+            ],
+            "color": "#D30801",
+            "favourite": true,
+            "description": "Excepturi veniam ut suscipit et rerum. Culpa ut quis impedit.",
+            "category": "Top",
+            "id": 171
+        },
+        {
+            "name": "Playlista 172",
+            "tracks": [
+
+            ],
+            "color": "#401E47",
+            "favourite": false,
+            "description": "Modi animi adipisci non cum voluptatem ut. Et est et suscipit aut inventore.",
+            "category": "Rockowa",
+            "id": 172
+        },
+        {
+            "name": "Playlista 173",
+            "tracks": [
+
+            ],
+            "color": "#D0684C",
+            "favourite": true,
+            "description": "Natus et inventore reprehenderit quibusdam iusto. Asperiores maxime hic similique rerum repellendus esse. Id qui ducimus sed ipsam et mollitia. Non consequatur quis aliquid dolore error aut dolorum porro. Vitae sequi nobis facilis perspiciatis debitis et. Quis ut illo dolorem quibusdam rerum reprehenderit.",
+            "category": "Inna",
+            "id": 173
+        },
+        {
+            "name": "Playlista 174",
+            "tracks": [
+
+            ],
+            "color": "#62CE4F",
+            "favourite": true,
+            "description": "Quisquam laboriosam aut et aliquid minus et soluta. Impedit qui repudiandae quas labore omnis et. Sit est et quo suscipit ad et.",
+            "category": "Top",
+            "id": 174
+        },
+        {
+            "name": "Playlista 175",
+            "tracks": [
+
+            ],
+            "color": "#EF20FE",
+            "favourite": false,
+            "description": "Quos exercitationem error enim neque eius aut.",
+            "category": "Klasyczna",
+            "id": 175
+        },
+        {
+            "name": "Playlista 176",
+            "tracks": [
+
+            ],
+            "color": "#DBB698",
+            "favourite": false,
+            "description": "Ut qui illo earum ut consequatur. Culpa itaque sed temporibus labore recusandae. Accusamus iure odio eaque sed est eveniet.",
+            "category": "Polskie",
+            "id": 176
+        },
+        {
+            "name": "Playlista 177",
+            "tracks": [
+
+            ],
+            "color": "#6F2C33",
+            "favourite": true,
+            "description": "Sequi enim magnam velit voluptatem eum ea aliquid quod. Dignissimos fuga modi eum occaecati.",
+            "category": "Filmowa",
+            "id": 177
+        },
+        {
+            "name": "Playlista 178",
+            "tracks": [
+
+            ],
+            "color": "#039ADB",
+            "favourite": true,
+            "description": "Non libero minus tempore voluptate.",
+            "category": "Inna",
+            "id": 178
+        },
+        {
+            "name": "Playlista 179",
+            "tracks": [
+
+            ],
+            "color": "#9D465F",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 179
+        },
+        {
+            "name": "Playlista 180",
+            "tracks": [
+
+            ],
+            "color": "#34ED88",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 180
+        },
+        {
+            "name": "Playlista 181",
+            "tracks": [
+
+            ],
+            "color": "#A59611",
+            "favourite": true,
+            "description": "Qui cumque deleniti totam debitis autem quibusdam. Voluptatem hic voluptas incidunt deleniti dolores dolores voluptatem. Maiores exercitationem est aut maxime et excepturi.",
+            "category": "Klasyczna",
+            "id": 181
+        },
+        {
+            "name": "Playlista 182",
+            "tracks": [
+
+            ],
+            "color": "#76897E",
+            "favourite": true,
+            "description": "Expedita sed itaque maxime. Et vel ut dignissimos dolor soluta qui iure ea. Error aut voluptatum explicabo. Aut sed dolorem quis perspiciatis consequatur assumenda. Aspernatur consectetur nobis voluptates animi sit vitae. Consequatur doloribus alias sit sapiente labore cumque dolores sequi.",
+            "category": "Polskie",
+            "id": 182
+        },
+        {
+            "name": "Playlista 183",
+            "tracks": [
+
+            ],
+            "color": "#91CE23",
+            "favourite": false,
+            "description": "Est eligendi ducimus fugiat veniam sequi. Animi eligendi quos nobis voluptatem. Ipsum quia quam et eos.",
+            "category": "Top",
+            "id": 183
+        },
+        {
+            "name": "Playlista 184",
+            "tracks": [
+
+            ],
+            "color": "#EFF1BE",
+            "favourite": false,
+            "description": "Cum et dolorum natus hic. Natus voluptatibus voluptatem reprehenderit. Adipisci dolorum necessitatibus sed debitis. Harum voluptate et asperiores vel cupiditate molestiae perspiciatis. Voluptatem ut voluptas eos sit explicabo omnis. Laudantium est veniam consequatur magni.",
+            "category": "Polskie",
+            "id": 184
+        },
+        {
+            "name": "Playlista 185",
+            "tracks": [
+
+            ],
+            "color": "#5EFC19",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 185
+        },
+        {
+            "name": "Playlista 186",
+            "tracks": [
+
+            ],
+            "color": "#BD8EA8",
+            "favourite": true,
+            "description": "Vel qui tempore ut quod est. Consequatur pariatur saepe qui illum nihil non error. Est eveniet vel quo illum hic dolores ipsam. Blanditiis architecto natus voluptate rerum minus.",
+            "category": "Inna",
+            "id": 186
+        },
+        {
+            "name": "Playlista 187",
+            "tracks": [
+
+            ],
+            "color": "#35A56F",
+            "favourite": true,
+            "description": "Dolores nam quod aliquam deserunt. Deserunt ut blanditiis ut reprehenderit. Recusandae sunt aperiam facilis in.",
+            "category": "Rockowa",
+            "id": 187
+        },
+        {
+            "name": "Playlista 188",
+            "tracks": [
+
+            ],
+            "color": "#4D8F9D",
+            "favourite": false,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 188
+        },
+        {
+            "name": "Playlista 189",
+            "tracks": [
+
+            ],
+            "color": "#31ECD0",
+            "favourite": false,
+            "description": "Temporibus error sed inventore quia a enim eligendi. Quo et omnis praesentium deleniti nam velit. Rerum quae error voluptate laborum eligendi eligendi repellat. Reprehenderit id quisquam molestiae sit distinctio. Eveniet qui accusamus porro.",
+            "category": "Filmowa",
+            "id": 189
+        },
+        {
+            "name": "Playlista 190",
+            "tracks": [
+
+            ],
+            "color": "#FA6731",
+            "favourite": true,
+            "description": "Quod officia necessitatibus enim quibusdam qui maiores. Aperiam amet ut iste occaecati.",
+            "category": "Inna",
+            "id": 190
+        },
+        {
+            "name": "Playlista 191",
+            "tracks": [
+
+            ],
+            "color": "#EECC02",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 191
+        },
+        {
+            "name": "Playlista 192",
+            "tracks": [
+
+            ],
+            "color": "#282541",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 192
+        },
+        {
+            "name": "Playlista 193",
+            "tracks": [
+
+            ],
+            "color": "#F0F890",
+            "favourite": true,
+            "description": "Soluta cum beatae accusantium modi dolor veniam neque. Quo hic vel sed illo ex. Aliquid libero non ut officia quaerat nihil.",
+            "category": "Klasyczna",
+            "id": 193
+        },
+        {
+            "name": "Playlista 194",
+            "tracks": [
+
+            ],
+            "color": "#97ED55",
+            "favourite": true,
+            "description": "Soluta occaecati dolor quasi dolores nobis.",
+            "category": "Rockowa",
+            "id": 194
+        },
+        {
+            "name": "Playlista 195",
+            "tracks": [
+
+            ],
+            "color": "#C342E8",
+            "favourite": false,
+            "description": "Aut voluptatibus blanditiis unde. Sint voluptatem praesentium molestiae cupiditate explicabo. Beatae numquam numquam voluptatem corrupti ratione reprehenderit. Nesciunt molestiae fugiat quo praesentium laborum eligendi. Iusto et reprehenderit voluptate laborum. Sapiente sunt esse et nihil aliquam quidem dolores.",
+            "category": "Polskie",
+            "id": 195
+        },
+        {
+            "name": "Playlista 196",
+            "tracks": [
+
+            ],
+            "color": "#D5A239",
+            "favourite": true,
+            "description": "Ea eveniet aut quos aut earum expedita praesentium. Est cumque qui rerum. Assumenda corrupti velit ex porro aspernatur. Sunt tempore laboriosam necessitatibus dicta tempore dolores molestiae.",
+            "category": "Filmowa",
+            "id": 196
+        },
+        {
+            "name": "Playlista 197",
+            "tracks": [
+
+            ],
+            "color": "#E372C4",
+            "favourite": false,
+            "description": "Ad atque harum perferendis officia. Vero rerum et voluptas soluta. Voluptas saepe praesentium reprehenderit repudiandae. Saepe consequatur ipsa necessitatibus nostrum velit. Quas iste occaecati aliquam dolorem quis dolor velit. Facilis adipisci sequi alias ducimus.",
+            "category": "Top",
+            "id": 197
+        },
+        {
+            "name": "Playlista 198",
+            "tracks": [
+
+            ],
+            "color": "#698433",
+            "favourite": true,
+            "description": "Ut aut nihil qui sed rem. Voluptas doloremque veritatis aut ipsa numquam at ratione qui. Suscipit impedit voluptatem rerum ut.",
+            "category": "Klasyczna",
+            "id": 198
+        },
+        {
+            "name": "Playlista 199",
+            "tracks": [
+
+            ],
+            "color": "#F267E3",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 199
+        },
+        {
+            "name": "Playlista 200",
+            "tracks": [
+
+            ],
+            "color": "#78F775",
+            "favourite": true,
+            "description": "Sunt nisi reprehenderit sed et sint quod qui fugiat. Consequatur alias fugiat et provident omnis dolor ut corporis. Praesentium temporibus illo voluptates praesentium. Illum labore consequatur maiores iusto illo consequatur sint atque. Omnis voluptas iste deleniti tempore fugit assumenda eius. Impedit facilis voluptatibus ut nihil nesciunt laboriosam.",
+            "category": "Polskie",
+            "id": 200
+        },
+        {
+            "name": "Playlista 201",
+            "tracks": [
+
+            ],
+            "color": "#79DBBE",
+            "favourite": true,
+            "description": "Et labore consequuntur qui in amet qui quae. Expedita maxime ut et nesciunt tenetur cupiditate. Quos dolorem odio amet fuga eos soluta laudantium. Qui ipsam exercitationem et modi.",
+            "category": "Klasyczna",
+            "id": 201
+        },
+        {
+            "name": "Playlista 202",
+            "tracks": [
+
+            ],
+            "color": "#EAA326",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 202
+        },
+        {
+            "name": "Playlista 203",
+            "tracks": [
+
+            ],
+            "color": "#5DDEBE",
+            "favourite": true,
+            "description": "Sed incidunt est veritatis quibusdam impedit soluta iste.",
+            "category": "Inna",
+            "id": 203
+        },
+        {
+            "name": "Playlista 204",
+            "tracks": [
+
+            ],
+            "color": "#D7FD6F",
+            "favourite": true,
+            "description": "Aperiam labore dolorem at vero quo neque iusto. Voluptate perferendis nisi totam qui. Quia saepe perferendis ab pariatur quod enim ut. Consequatur nam quibusdam mollitia maxime veniam rerum fugiat. Dolorem iste aspernatur perferendis voluptatum voluptatem. At fuga saepe ex odio.",
+            "category": "Inna",
+            "id": 204
+        },
+        {
+            "name": "Playlista 205",
+            "tracks": [
+
+            ],
+            "color": "#A3C347",
+            "favourite": false,
+            "description": "Accusamus eos sit eligendi omnis totam dolor eligendi. Tempore numquam voluptatem ut perferendis autem dolorum nihil. Praesentium enim veritatis repellat voluptates facilis sed dolorum. Fuga ab temporibus accusamus ut voluptatem sed voluptas.",
+            "category": "Rockowa",
+            "id": 205
+        },
+        {
+            "name": "Playlista 206",
+            "tracks": [
+
+            ],
+            "color": "#2CB2A4",
+            "favourite": true,
+            "description": "Quia error qui atque laborum. Id non cum culpa illo ipsa.",
+            "category": "Polskie",
+            "id": 206
+        },
+        {
+            "name": "Playlista 207",
+            "tracks": [
+
+            ],
+            "color": "#8C7920",
+            "favourite": true,
+            "description": "Aperiam molestiae ad laboriosam fugiat. Voluptatem qui omnis delectus debitis ratione. Est sint et cum recusandae sint.",
+            "category": "Zagraniczne",
+            "id": 207
+        },
+        {
+            "name": "Playlista 208",
+            "tracks": [
+
+            ],
+            "color": "#E70B53",
+            "favourite": true,
+            "description": "Cupiditate voluptates beatae nesciunt sit. Ratione quaerat nostrum libero impedit esse. Modi aut et iste rerum laborum.",
+            "category": "Klasyczna",
+            "id": 208
+        },
+        {
+            "name": "Playlista 209",
+            "tracks": [
+
+            ],
+            "color": "#C07890",
+            "favourite": false,
+            "description": "Doloribus in beatae eligendi tempora aut et. Necessitatibus numquam dolor natus deleniti inventore cum esse aliquam. Libero porro accusantium corporis ut eligendi eos et in. Quidem sequi qui unde ex.",
+            "category": "Zagraniczne",
+            "id": 209
+        },
+        {
+            "name": "Playlista 210",
+            "tracks": [
+
+            ],
+            "color": "#18FAC3",
+            "favourite": false,
+            "description": "Eos illo voluptas rerum.",
+            "category": "Rockowa",
+            "id": 210
+        },
+        {
+            "name": "Playlista 211",
+            "tracks": [
+
+            ],
+            "color": "#B9828B",
+            "favourite": false,
+            "description": "Fuga magnam eius saepe beatae magnam optio quaerat dolore. Aut aliquam excepturi quasi enim ratione vitae voluptatibus. Laudantium temporibus velit perferendis exercitationem animi.",
+            "category": "Zagraniczne",
+            "id": 211
+        },
+        {
+            "name": "Playlista 212",
+            "tracks": [
+
+            ],
+            "color": "#AEB4CA",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 212
+        },
+        {
+            "name": "Playlista 213",
+            "tracks": [
+
+            ],
+            "color": "#CE6BAA",
+            "favourite": false,
+            "description": "Dolore necessitatibus et et quae commodi. Fugiat maiores nihil corrupti consequatur consequatur voluptates.",
+            "category": "Filmowa",
+            "id": 213
+        },
+        {
+            "name": "Playlista 214",
+            "tracks": [
+
+            ],
+            "color": "#20982C",
+            "favourite": true,
+            "description": "Quae doloremque rerum hic officia qui. Aliquid nisi dolor qui fuga aut cum fuga.",
+            "category": "Filmowa",
+            "id": 214
+        },
+        {
+            "name": "Playlista 215",
+            "tracks": [
+
+            ],
+            "color": "#2B705D",
+            "favourite": true,
+            "description": "Rerum hic provident veritatis placeat beatae voluptas.",
+            "category": "Inna",
+            "id": 215
+        },
+        {
+            "name": "Playlista 216",
+            "tracks": [
+
+            ],
+            "color": "#A3B4D5",
+            "favourite": false,
+            "description": "Nihil fugiat officia recusandae eius necessitatibus deserunt et. Beatae ea veritatis totam praesentium. Praesentium accusamus enim doloribus nisi facere.",
+            "category": "Filmowa",
+            "id": 216
+        },
+        {
+            "name": "Playlista 217",
+            "tracks": [
+
+            ],
+            "color": "#823B33",
+            "favourite": true,
+            "description": "Pariatur rerum voluptatem occaecati itaque qui. Dolores dolorum quam dolorem. Et commodi ea sed dolorem officiis quo natus.",
+            "category": "Zagraniczne",
+            "id": 217
+        },
+        {
+            "name": "Playlista 218",
+            "tracks": [
+
+            ],
+            "color": "#3F8014",
+            "favourite": false,
+            "description": "Omnis repellat aliquam aut nostrum nostrum delectus dolore et. Et dolorem quo dicta amet laudantium.",
+            "category": "Inna",
+            "id": 218
+        },
+        {
+            "name": "Playlista 219",
+            "tracks": [
+
+            ],
+            "color": "#64AF9B",
+            "favourite": true,
+            "description": "Quisquam quae suscipit est a corporis fuga. Qui natus voluptatem voluptas et quam.",
+            "category": "Zagraniczne",
+            "id": 219
+        },
+        {
+            "name": "Playlista 220",
+            "tracks": [
+
+            ],
+            "color": "#5EF7A1",
+            "favourite": true,
+            "description": "Occaecati aliquam enim aut nisi eum cum voluptatum ipsam. Consectetur ipsam et dolorum laboriosam nihil voluptates quod ea. Eaque similique est dolores deleniti. Ad et enim cumque nostrum.",
+            "category": "Klasyczna",
+            "id": 220
+        },
+        {
+            "name": "Playlista 221",
+            "tracks": [
+
+            ],
+            "color": "#7A4DC1",
+            "favourite": true,
+            "description": "Aut et earum assumenda est. Facilis eius quaerat quia vel. Inventore quam est earum provident. Est ea velit quas sit sint. Iure consequatur qui reiciendis ipsa veniam iusto in. Sit voluptas dolorem rerum quam.",
+            "category": "Inna",
+            "id": 221
+        },
+        {
+            "name": "Playlista 222",
+            "tracks": [
+
+            ],
+            "color": "#3FA599",
+            "favourite": false,
+            "description": "Voluptatum nihil at ut.",
+            "category": "Polskie",
+            "id": 222
+        },
+        {
+            "name": "Playlista 223",
+            "tracks": [
+
+            ],
+            "color": "#1CD117",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 223
+        },
+        {
+            "name": "Playlista 224",
+            "tracks": [
+
+            ],
+            "color": "#C72357",
+            "favourite": true,
+            "description": "Totam soluta ut qui tempore sequi. Quidem saepe voluptatum perferendis expedita ducimus est. Voluptatem in eius quasi sit voluptas nam corporis dolorem.",
+            "category": "Top",
+            "id": 224
+        },
+        {
+            "name": "Playlista 225",
+            "tracks": [
+
+            ],
+            "color": "#563768",
+            "favourite": false,
+            "description": "Vel eos non vero et minus quidem a. Impedit est quod repellat ut quas.",
+            "category": "Top",
+            "id": 225
+        },
+        {
+            "name": "Playlista 226",
+            "tracks": [
+
+            ],
+            "color": "#0C2956",
+            "favourite": true,
+            "description": "Minima expedita porro vel pariatur totam sapiente. Ex dolorem nemo laboriosam accusantium. Odio unde ipsum repellendus praesentium rerum rerum perspiciatis.",
+            "category": "Rockowa",
+            "id": 226
+        },
+        {
+            "name": "Playlista 227",
+            "tracks": [
+
+            ],
+            "color": "#A52820",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 227
+        },
+        {
+            "name": "Playlista 228",
+            "tracks": [
+
+            ],
+            "color": "#501982",
+            "favourite": false,
+            "description": "Laborum veniam corrupti delectus consequuntur laboriosam. Sunt ut nihil et cupiditate quo et ad quia. Quos voluptas architecto nobis consequuntur voluptas. Accusamus sequi quasi eligendi.",
+            "category": "Zagraniczne",
+            "id": 228
+        },
+        {
+            "name": "Playlista 229",
+            "tracks": [
+
+            ],
+            "color": "#33485B",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 229
+        },
+        {
+            "name": "Playlista 230",
+            "tracks": [
+
+            ],
+            "color": "#2FA132",
+            "favourite": false,
+            "description": "Nemo perferendis odit necessitatibus possimus optio. Consequatur nisi et sed placeat optio aliquid. Ratione voluptatibus assumenda et alias nemo quas facilis quia.",
+            "category": "Inna",
+            "id": 230
+        },
+        {
+            "name": "Playlista 231",
+            "tracks": [
+
+            ],
+            "color": "#21A8CE",
+            "favourite": false,
+            "description": "Exercitationem quia asperiores consectetur aperiam occaecati enim. Tenetur rerum accusantium in libero nemo voluptates neque magni.",
+            "category": "Top",
+            "id": 231
+        },
+        {
+            "name": "Playlista 232",
+            "tracks": [
+
+            ],
+            "color": "#DA33AF",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 232
+        },
+        {
+            "name": "Playlista 233",
+            "tracks": [
+
+            ],
+            "color": "#433B8F",
+            "favourite": false,
+            "description": "Pariatur id velit impedit quia et adipisci. A explicabo dolore ab dolore. Qui quisquam veritatis tenetur rerum quae nulla voluptas.",
+            "category": "Filmowa",
+            "id": 233
+        },
+        {
+            "name": "Playlista 234",
+            "tracks": [
+
+            ],
+            "color": "#799E4B",
+            "favourite": false,
+            "description": "Sint autem soluta sed magnam. Deserunt quia aut ut autem enim voluptatem.",
+            "category": "Polskie",
+            "id": 234
+        },
+        {
+            "name": "Playlista 235",
+            "tracks": [
+
+            ],
+            "color": "#1E662C",
+            "favourite": true,
+            "description": "Et repellendus nam sapiente facilis tenetur. Recusandae soluta unde quis recusandae. Sed sequi consequuntur tempora et.",
+            "category": "Top",
+            "id": 235
+        },
+        {
+            "name": "Playlista 236",
+            "tracks": [
+
+            ],
+            "color": "#31A48D",
+            "favourite": false,
+            "description": "Iste autem incidunt vitae recusandae pariatur. Id in maiores omnis quas eveniet et qui.",
+            "category": "Rockowa",
+            "id": 236
+        },
+        {
+            "name": "Playlista 237",
+            "tracks": [
+
+            ],
+            "color": "#1F4E18",
+            "favourite": true,
+            "description": "Dolorum provident nam alias sunt. Illum quia et numquam sunt voluptas exercitationem qui. Ut voluptatem perferendis magnam aliquid. Fugiat consequuntur officia quam error ea dolorem.",
+            "category": "Klasyczna",
+            "id": 237
+        },
+        {
+            "name": "Playlista 238",
+            "tracks": [
+
+            ],
+            "color": "#949D6C",
+            "favourite": true,
+            "description": "Voluptatibus quos qui dolorem est eveniet placeat quasi ut. Qui neque ad illum soluta molestiae voluptate dignissimos quis. Labore quibusdam molestiae rem deleniti corporis repellendus.",
+            "category": "Polskie",
+            "id": 238
+        },
+        {
+            "name": "Playlista 239",
+            "tracks": [
+
+            ],
+            "color": "#13D00C",
+            "favourite": false,
+            "description": "Animi et dolores excepturi saepe eum quia eos. Iste dicta est commodi dolorum sequi. Architecto rerum est alias. Illum ea excepturi inventore et. Odio ut quia repudiandae in laborum. Eveniet aut saepe quisquam ut.",
+            "category": "Polskie",
+            "id": 239
+        },
+        {
+            "name": "Playlista 240",
+            "tracks": [
+
+            ],
+            "color": "#523181",
+            "favourite": true,
+            "description": "Autem impedit in qui ratione ex. Est deserunt atque earum pariatur exercitationem facere id quod. Consequatur blanditiis corrupti deserunt magni.",
+            "category": "Inna",
+            "id": 240
+        },
+        {
+            "name": "Playlista 241",
+            "tracks": [
+
+            ],
+            "color": "#996CDC",
+            "favourite": true,
+            "description": "Nesciunt beatae sunt voluptatum quod soluta rerum et velit.",
+            "category": "Zagraniczne",
+            "id": 241
+        },
+        {
+            "name": "Playlista 242",
+            "tracks": [
+
+            ],
+            "color": "#F409F4",
+            "favourite": true,
+            "description": "",
+            "category": "Polskie",
+            "id": 242
+        },
+        {
+            "name": "Playlista 243",
+            "tracks": [
+
+            ],
+            "color": "#330819",
+            "favourite": true,
+            "description": "Consectetur nihil quo velit.",
+            "category": "Inna",
+            "id": 243
+        },
+        {
+            "name": "Playlista 244",
+            "tracks": [
+
+            ],
+            "color": "#CDFAAE",
+            "favourite": true,
+            "description": "Ut delectus et omnis expedita adipisci nisi.",
+            "category": "Rockowa",
+            "id": 244
+        },
+        {
+            "name": "Playlista 245",
+            "tracks": [
+
+            ],
+            "color": "#6FE6F0",
+            "favourite": true,
+            "description": "Dolorem qui ea sed eos totam magnam. Vel a quaerat temporibus id. Qui ducimus blanditiis distinctio sint et.",
+            "category": "Top",
+            "id": 245
+        },
+        {
+            "name": "Playlista 246",
+            "tracks": [
+
+            ],
+            "color": "#2B0751",
+            "favourite": true,
+            "description": "Voluptates aperiam illum voluptatum exercitationem. Maxime fugiat dolores et dolorem.",
+            "category": "Inna",
+            "id": 246
+        },
+        {
+            "name": "Playlista 247",
+            "tracks": [
+
+            ],
+            "color": "#EB8966",
+            "favourite": true,
+            "description": "Eaque vitae deserunt architecto nesciunt corrupti tempore. Quas voluptatem neque eius ut neque aspernatur.",
+            "category": "Zagraniczne",
+            "id": 247
+        },
+        {
+            "name": "Playlista 248",
+            "tracks": [
+
+            ],
+            "color": "#09BECE",
+            "favourite": true,
+            "description": "Aspernatur quia quo ea ipsum laboriosam laudantium. Nobis aut illo ea et non enim est. Explicabo nemo deleniti incidunt quia fuga enim sint.",
+            "category": "Top",
+            "id": 248
+        },
+        {
+            "name": "Playlista 249",
+            "tracks": [
+
+            ],
+            "color": "#C042B3",
+            "favourite": false,
+            "description": "Exercitationem ea iure consequatur corporis rem deleniti. Corporis quis nihil qui placeat est quia perferendis sapiente. Dignissimos distinctio modi animi. Dolorum itaque sed quia porro. Mollitia fugit cum dolorum sint et provident vel.",
+            "category": "Zagraniczne",
+            "id": 249
+        },
+        {
+            "name": "Playlista 250",
+            "tracks": [
+
+            ],
+            "color": "#2128B7",
+            "favourite": true,
+            "description": "Voluptatibus est laborum quia nisi occaecati at cupiditate. Quas illo repellendus exercitationem distinctio. Id velit aut dolor quia quos quas.",
+            "category": "Rockowa",
+            "id": 250
+        },
+        {
+            "name": "Playlista 251",
+            "tracks": [
+
+            ],
+            "color": "#5A76BD",
+            "favourite": false,
+            "description": "Illum qui delectus consequatur quo accusamus est dolor. Voluptas eum rerum quia. Voluptatibus et corrupti nihil eligendi.",
+            "category": "Rockowa",
+            "id": 251
+        },
+        {
+            "name": "Playlista 252",
+            "tracks": [
+
+            ],
+            "color": "#0FD636",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 252
+        },
+        {
+            "name": "Playlista 253",
+            "tracks": [
+
+            ],
+            "color": "#3FB789",
+            "favourite": true,
+            "description": "Praesentium atque aspernatur et corporis cupiditate. Sed voluptates id labore a. Ad et accusamus est hic deserunt.",
+            "category": "Rockowa",
+            "id": 253
+        },
+        {
+            "name": "Playlista 254",
+            "tracks": [
+
+            ],
+            "color": "#09AA7E",
+            "favourite": false,
+            "description": "Est harum voluptatem accusantium. Dolorem nihil recusandae harum perferendis voluptates. Eos voluptatem in ea eveniet enim sit perspiciatis velit.",
+            "category": "Inna",
+            "id": 254
+        },
+        {
+            "name": "Playlista 255",
+            "tracks": [
+
+            ],
+            "color": "#07564B",
+            "favourite": true,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 255
+        },
+        {
+            "name": "Playlista 256",
+            "tracks": [
+
+            ],
+            "color": "#BEC76A",
+            "favourite": true,
+            "description": "Rerum ipsum occaecati est sit nihil sapiente. Vel quod voluptatibus nesciunt qui magnam explicabo. Enim molestias qui omnis rem libero. Labore qui accusantium id.",
+            "category": "Inna",
+            "id": 256
+        },
+        {
+            "name": "Playlista 257",
+            "tracks": [
+
+            ],
+            "color": "#AB604F",
+            "favourite": false,
+            "description": "Quos repudiandae sed commodi quia voluptatem esse. Quis dolor ea tempore quia dolore voluptas. Molestias et facilis amet eos velit nesciunt eum. Sunt odio ipsa odio laborum. Est et est natus. Ex ea facilis dolores inventore magnam odit amet.",
+            "category": "Polskie",
+            "id": 257
+        },
+        {
+            "name": "Playlista 258",
+            "tracks": [
+
+            ],
+            "color": "#7D4117",
+            "favourite": true,
+            "description": "Nisi consectetur qui perspiciatis at. Sint nobis et quia quo neque sed. Et et aliquid doloribus. Esse corrupti rerum quo tempore neque quaerat. Et doloribus deleniti et quia praesentium dolorem. In blanditiis est nulla eum hic.",
+            "category": "Rockowa",
+            "id": 258
+        },
+        {
+            "name": "Playlista 259",
+            "tracks": [
+
+            ],
+            "color": "#FFCBED",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 259
+        },
+        {
+            "name": "Playlista 260",
+            "tracks": [
+
+            ],
+            "color": "#187A42",
+            "favourite": false,
+            "description": "Consequatur laboriosam quos minus ipsum eaque saepe. Ut impedit nihil voluptatem maiores consectetur facilis provident.",
+            "category": "Polskie",
+            "id": 260
+        },
+        {
+            "name": "Playlista 261",
+            "tracks": [
+
+            ],
+            "color": "#6224F7",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 261
+        },
+        {
+            "name": "Playlista 262",
+            "tracks": [
+
+            ],
+            "color": "#FBD9A8",
+            "favourite": false,
+            "description": "Reiciendis sint architecto eaque voluptas est. Tenetur qui provident omnis porro. Et numquam sunt fuga vel cupiditate quibusdam at rerum.",
+            "category": "Klasyczna",
+            "id": 262
+        },
+        {
+            "name": "Playlista 263",
+            "tracks": [
+
+            ],
+            "color": "#5B32A1",
+            "favourite": false,
+            "description": "Eos aut facilis et omnis. Ad itaque voluptatem ut quae ea. Et dignissimos tempore harum non. Rerum cum praesentium voluptatem autem voluptatem.",
+            "category": "Filmowa",
+            "id": 263
+        },
+        {
+            "name": "Playlista 264",
+            "tracks": [
+
+            ],
+            "color": "#C86831",
+            "favourite": false,
+            "description": "Nam maiores facere fugit praesentium ducimus nihil expedita. Numquam mollitia minima eveniet ut eos. Id earum est dolorem sunt eum consequatur. Maxime nam quia rerum consequuntur aut.",
+            "category": "Filmowa",
+            "id": 264
+        },
+        {
+            "name": "Playlista 265",
+            "tracks": [
+
+            ],
+            "color": "#C988B3",
+            "favourite": false,
+            "description": "Eum praesentium rerum recusandae. Odio unde quia quia in ipsam.",
+            "category": "Rockowa",
+            "id": 265
+        },
+        {
+            "name": "Playlista 266",
+            "tracks": [
+
+            ],
+            "color": "#93A7E8",
+            "favourite": false,
+            "description": "Nostrum fugiat vel non et ea occaecati ex. Ut cupiditate eligendi quam.",
+            "category": "Klasyczna",
+            "id": 266
+        },
+        {
+            "name": "Playlista 267",
+            "tracks": [
+
+            ],
+            "color": "#BAD2EA",
+            "favourite": false,
+            "description": "Fugit similique est id voluptate tempora velit et et. Nisi architecto quod aliquam ab rerum totam. Aut omnis aut aliquid dolores inventore nisi deserunt. Suscipit esse saepe vero magnam.",
+            "category": "Rockowa",
+            "id": 267
+        },
+        {
+            "name": "Playlista 268",
+            "tracks": [
+
+            ],
+            "color": "#F7B399",
+            "favourite": true,
+            "description": "Non et nemo amet ducimus. Praesentium quo corrupti officia sed dolor quo eligendi. Eaque nemo tempora doloribus aut eum sed sint aliquid. Fugit voluptas esse ea laudantium voluptas.",
+            "category": "Polskie",
+            "id": 268
+        },
+        {
+            "name": "Playlista 269",
+            "tracks": [
+
+            ],
+            "color": "#99EDDC",
+            "favourite": true,
+            "description": "Vitae facere architecto amet enim. Non ad repellat quo veritatis. Exercitationem et atque illum debitis cum consequuntur aut.",
+            "category": "Klasyczna",
+            "id": 269
+        },
+        {
+            "name": "Playlista 270",
+            "tracks": [
+
+            ],
+            "color": "#40041A",
+            "favourite": false,
+            "description": "Iure eum ratione quia qui quisquam. Quis culpa quos corrupti.",
+            "category": "Inna",
+            "id": 270
+        },
+        {
+            "name": "Playlista 271",
+            "tracks": [
+
+            ],
+            "color": "#5914B0",
+            "favourite": true,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 271
+        },
+        {
+            "name": "Playlista 272",
+            "tracks": [
+
+            ],
+            "color": "#277CA0",
+            "favourite": true,
+            "description": "Rerum sit autem consequuntur laudantium cum rerum. Ratione esse asperiores exercitationem ducimus dolorem ipsa numquam. Aut ut laboriosam excepturi velit. Soluta tempora neque sed ducimus deserunt consequuntur quo.",
+            "category": "Klasyczna",
+            "id": 272
+        },
+        {
+            "name": "Playlista 273",
+            "tracks": [
+
+            ],
+            "color": "#CAEAF7",
+            "favourite": true,
+            "description": "Est quia officiis dolores vel sunt. Nulla repudiandae possimus vel culpa ut.",
+            "category": "Inna",
+            "id": 273
+        },
+        {
+            "name": "Playlista 274",
+            "tracks": [
+
+            ],
+            "color": "#02C12C",
+            "favourite": true,
+            "description": "In iure id quas voluptatem iste. Ipsa soluta qui aut exercitationem qui nobis voluptatem sint. Labore quis et ut harum dolor aspernatur. Eos voluptatem dolor fuga. Qui enim et fugit quos ullam delectus saepe tempora.",
+            "category": "Polskie",
+            "id": 274
+        },
+        {
+            "name": "Playlista 275",
+            "tracks": [
+
+            ],
+            "color": "#928728",
+            "favourite": false,
+            "description": "Voluptas corporis nihil et.",
+            "category": "Klasyczna",
+            "id": 275
+        },
+        {
+            "name": "Playlista 276",
+            "tracks": [
+
+            ],
+            "color": "#AF1FCB",
+            "favourite": true,
+            "description": "Incidunt ad sint commodi alias dolor ut ipsum. Qui aliquam et odio rerum reprehenderit. Libero et eveniet fugiat sed qui provident a. Est qui perferendis quis animi exercitationem nam dolores. Unde et dignissimos consequatur vero mollitia quibusdam. Eum voluptas aliquam non dolor eum qui veniam.",
+            "category": "Top",
+            "id": 276
+        },
+        {
+            "name": "Playlista 277",
+            "tracks": [
+
+            ],
+            "color": "#2FAC5E",
+            "favourite": true,
+            "description": "Voluptatum doloribus commodi et ducimus autem ipsa ut quae. Magnam molestias qui nobis voluptates voluptatibus officia voluptatum autem.",
+            "category": "Polskie",
+            "id": 277
+        },
+        {
+            "name": "Playlista 278",
+            "tracks": [
+
+            ],
+            "color": "#82FC3B",
+            "favourite": true,
+            "description": "Dicta consequatur in tempora est ipsam dolores. Vel repellendus aspernatur soluta cum rem. Qui voluptatem molestias sint consectetur vel et.",
+            "category": "Inna",
+            "id": 278
+        },
+        {
+            "name": "Playlista 279",
+            "tracks": [
+
+            ],
+            "color": "#D954EE",
+            "favourite": true,
+            "description": "Sapiente sed distinctio perferendis. Perspiciatis dignissimos labore dicta. Omnis harum debitis aliquid.",
+            "category": "Zagraniczne",
+            "id": 279
+        },
+        {
+            "name": "Playlista 280",
+            "tracks": [
+
+            ],
+            "color": "#F14EEA",
+            "favourite": false,
+            "description": "Sed quis numquam et sequi libero sequi. Iste recusandae doloremque nobis provident.",
+            "category": "Filmowa",
+            "id": 280
+        },
+        {
+            "name": "Playlista 281",
+            "tracks": [
+
+            ],
+            "color": "#3554C1",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 281
+        },
+        {
+            "name": "Playlista 282",
+            "tracks": [
+
+            ],
+            "color": "#4E0FE9",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 282
+        },
+        {
+            "name": "Playlista 283",
+            "tracks": [
+
+            ],
+            "color": "#3CC9D8",
+            "favourite": true,
+            "description": "Impedit quia aut fugit dolorem alias eos. Odio explicabo libero sed omnis enim.",
+            "category": "Klasyczna",
+            "id": 283
+        },
+        {
+            "name": "Playlista 284",
+            "tracks": [
+
+            ],
+            "color": "#CFE222",
+            "favourite": false,
+            "description": "",
+            "category": "Rockowa",
+            "id": 284
+        },
+        {
+            "name": "Playlista 285",
+            "tracks": [
+
+            ],
+            "color": "#1072A6",
+            "favourite": false,
+            "description": "Earum ut alias accusantium et et. Accusamus et voluptatem iusto ab ipsum laboriosam.",
+            "category": "Klasyczna",
+            "id": 285
+        },
+        {
+            "name": "Playlista 286",
+            "tracks": [
+
+            ],
+            "color": "#BB8040",
+            "favourite": true,
+            "description": "Molestias voluptas quasi accusantium perferendis molestiae nihil modi aut. Quibusdam voluptatem perferendis placeat libero. Ut in quod reiciendis est modi praesentium. Accusantium dignissimos rerum a qui architecto nesciunt. Illo est nesciunt et quo nihil natus repellat nihil.",
+            "category": "Zagraniczne",
+            "id": 286
+        },
+        {
+            "name": "Playlista 287",
+            "tracks": [
+
+            ],
+            "color": "#9E4EF7",
+            "favourite": false,
+            "description": "Fugit qui tempore animi vel rem.",
+            "category": "Klasyczna",
+            "id": 287
+        },
+        {
+            "name": "Playlista 288",
+            "tracks": [
+
+            ],
+            "color": "#294167",
+            "favourite": false,
+            "description": "Harum commodi maiores tempora cupiditate. Omnis eos et rerum velit aut. Ut ipsam beatae repudiandae tenetur. Delectus quia voluptatem aperiam qui amet. Eum rerum odio officia exercitationem.",
+            "category": "Filmowa",
+            "id": 288
+        },
+        {
+            "name": "Playlista 289",
+            "tracks": [
+
+            ],
+            "color": "#06D5CB",
+            "favourite": true,
+            "description": "Natus non voluptatem iusto nobis. Impedit et non praesentium rerum velit autem quidem. Voluptatem ut voluptatem provident dolores ipsam dolores incidunt. Dolorum harum eaque architecto possimus pariatur reprehenderit.",
+            "category": "Filmowa",
+            "id": 289
+        },
+        {
+            "name": "Playlista 290",
+            "tracks": [
+
+            ],
+            "color": "#04741E",
+            "favourite": true,
+            "description": "Unde mollitia corporis illum consequatur ad voluptates. Eos iusto et fuga inventore. Nam voluptatum dolore maiores repudiandae error.",
+            "category": "Klasyczna",
+            "id": 290
+        },
+        {
+            "name": "Playlista 291",
+            "tracks": [
+
+            ],
+            "color": "#5F0988",
+            "favourite": false,
+            "description": "Aliquam sint similique fugit et non temporibus ut rem. Molestiae odio fugiat dolorum esse dolorem. Ut aliquid impedit qui amet.",
+            "category": "Klasyczna",
+            "id": 291
+        },
+        {
+            "name": "Playlista 292",
+            "tracks": [
+
+            ],
+            "color": "#67D9EA",
+            "favourite": false,
+            "description": "Rem voluptatem est id rerum ut eos. Libero et autem minus totam id saepe praesentium. Ipsum ut et nam dolorem a et. Occaecati tempora deleniti quia neque qui reprehenderit asperiores.",
+            "category": "Rockowa",
+            "id": 292
+        },
+        {
+            "name": "Playlista 293",
+            "tracks": [
+
+            ],
+            "color": "#1EB223",
+            "favourite": false,
+            "description": "Aut harum eos nihil ut nobis sapiente voluptas. Eum est quam qui molestiae eos nam ut. Modi libero quia omnis sit et aut. Non at eos ex voluptatem natus. Omnis nulla recusandae quia nemo.",
+            "category": "Zagraniczne",
+            "id": 293
+        },
+        {
+            "name": "Playlista 294",
+            "tracks": [
+
+            ],
+            "color": "#A21905",
+            "favourite": true,
+            "description": "Asperiores eligendi dicta beatae non sapiente placeat quibusdam ut. Qui a ad consectetur eveniet. Est voluptas autem ut fugit.",
+            "category": "Rockowa",
+            "id": 294
+        },
+        {
+            "name": "Playlista 295",
+            "tracks": [
+
+            ],
+            "color": "#77D490",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 295
+        },
+        {
+            "name": "Playlista 296",
+            "tracks": [
+
+            ],
+            "color": "#29F5E5",
+            "favourite": true,
+            "description": "Neque doloremque provident aperiam veritatis vel molestiae. Quidem temporibus repellendus in id aut. Cum sed laudantium aut placeat dolorum iste.",
+            "category": "Inna",
+            "id": 296
+        },
+        {
+            "name": "Playlista 297",
+            "tracks": [
+
+            ],
+            "color": "#76B2D0",
+            "favourite": false,
+            "description": "Sed corrupti ea ipsam dicta dignissimos. Quaerat ut et voluptatem enim a omnis molestiae. Non illum aliquam rerum minima.",
+            "category": "Top",
+            "id": 297
+        },
+        {
+            "name": "Playlista 298",
+            "tracks": [
+
+            ],
+            "color": "#0F8B4B",
+            "favourite": false,
+            "description": "Quia et odit consequatur in quo quia. Eum optio eum dolor. Quasi autem sed et esse aut. Consectetur commodi dicta placeat doloribus dolorum quod id. Qui officia corporis saepe distinctio aut.",
+            "category": "Rockowa",
+            "id": 298
+        },
+        {
+            "name": "Playlista 299",
+            "tracks": [
+
+            ],
+            "color": "#C887B0",
+            "favourite": true,
+            "description": "Labore laboriosam amet quo velit debitis hic. Deleniti et distinctio omnis et. Provident sit ut nesciunt laudantium et.",
+            "category": "Top",
+            "id": 299
+        },
+        {
+            "name": "Playlista 300",
+            "tracks": [
+
+            ],
+            "color": "#CCD053",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 300
+        },
+        {
+            "name": "Playlista 301",
+            "tracks": [
+
+            ],
+            "color": "#7453BD",
+            "favourite": true,
+            "description": "Id vel doloremque quia voluptatem et asperiores aut.",
+            "category": "Klasyczna",
+            "id": 301
+        },
+        {
+            "name": "Playlista 302",
+            "tracks": [
+
+            ],
+            "color": "#5400E0",
+            "favourite": false,
+            "description": "Voluptate et debitis qui et qui eveniet amet. Dolorem quia minus sit amet qui. Iure corporis iure quia sapiente illo eligendi.",
+            "category": "Filmowa",
+            "id": 302
+        },
+        {
+            "name": "Playlista 303",
+            "tracks": [
+
+            ],
+            "color": "#63D780",
+            "favourite": true,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 303
+        },
+        {
+            "name": "Playlista 304",
+            "tracks": [
+
+            ],
+            "color": "#FCDCDE",
+            "favourite": true,
+            "description": "Maiores eius voluptatibus ipsum ea sunt provident. Sed fugit dolores nihil eveniet illo.",
+            "category": "Polskie",
+            "id": 304
+        },
+        {
+            "name": "Playlista 305",
+            "tracks": [
+
+            ],
+            "color": "#B41F27",
+            "favourite": false,
+            "description": "Modi quidem totam laborum eius aut. Voluptatem itaque suscipit vitae itaque. Porro ut veniam illum.",
+            "category": "Inna",
+            "id": 305
+        },
+        {
+            "name": "Playlista 306",
+            "tracks": [
+
+            ],
+            "color": "#25EF6E",
+            "favourite": true,
+            "description": "Ad sed nulla dolores aut deserunt cupiditate. Reiciendis officia aut sed et. Sapiente amet necessitatibus cumque necessitatibus molestias temporibus dolorem. Eum labore enim dignissimos.",
+            "category": "Rockowa",
+            "id": 306
+        },
+        {
+            "name": "Playlista 307",
+            "tracks": [
+
+            ],
+            "color": "#F91004",
+            "favourite": true,
+            "description": "In tempore dolores ut totam fugiat nam non. Quia molestiae a et dolorem sed. Non tempora nesciunt aspernatur tempora et ut dolor. Doloribus iure inventore rerum. Vel sapiente dolorem earum omnis. Blanditiis accusantium qui sed ipsam.",
+            "category": "Top",
+            "id": 307
+        },
+        {
+            "name": "Playlista 308",
+            "tracks": [
+
+            ],
+            "color": "#B5DD19",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 308
+        },
+        {
+            "name": "Playlista 309",
+            "tracks": [
+
+            ],
+            "color": "#F70B3B",
+            "favourite": false,
+            "description": "Quibusdam provident iste cum voluptate dolorum quod ut dolore. Qui eligendi ut perferendis natus porro. Sint repellat temporibus eum omnis voluptatem.",
+            "category": "Rockowa",
+            "id": 309
+        },
+        {
+            "name": "Playlista 310",
+            "tracks": [
+
+            ],
+            "color": "#C12478",
+            "favourite": false,
+            "description": "Voluptatum accusamus voluptatem aut quasi doloribus. Molestiae quis magni porro ad aut quia. Aperiam laudantium voluptatum sed quo voluptas recusandae modi.",
+            "category": "Klasyczna",
+            "id": 310
+        },
+        {
+            "name": "Playlista 311",
+            "tracks": [
+
+            ],
+            "color": "#E1DFF5",
+            "favourite": false,
+            "description": "Eveniet aut magnam qui doloremque ab aut omnis. Consequatur dolores alias ut tempora et in repellendus.",
+            "category": "Klasyczna",
+            "id": 311
+        },
+        {
+            "name": "Playlista 312",
+            "tracks": [
+
+            ],
+            "color": "#0A974C",
+            "favourite": false,
+            "description": "Aut ipsum quia consectetur aliquid sint soluta et ratione. Mollitia a alias dolores optio. Praesentium qui cum ad perferendis sed. Eaque quisquam accusantium consectetur consectetur accusantium recusandae.",
+            "category": "Zagraniczne",
+            "id": 312
+        },
+        {
+            "name": "Playlista 313",
+            "tracks": [
+
+            ],
+            "color": "#05D926",
+            "favourite": false,
+            "description": "Omnis inventore corporis velit id architecto eaque quae. Sed quisquam enim aut nulla molestiae beatae est. Dolor veritatis perspiciatis ipsam nobis est suscipit reiciendis facilis.",
+            "category": "Inna",
+            "id": 313
+        },
+        {
+            "name": "Playlista 314",
+            "tracks": [
+
+            ],
+            "color": "#DD5847",
+            "favourite": false,
+            "description": "Aut rem quo quis consequuntur non. Fuga et sit id ducimus quibusdam dolores non.",
+            "category": "Inna",
+            "id": 314
+        },
+        {
+            "name": "Playlista 315",
+            "tracks": [
+
+            ],
+            "color": "#019AE8",
+            "favourite": false,
+            "description": "Quis ratione voluptates doloremque omnis qui. Ipsa veniam et dolores est.",
+            "category": "Zagraniczne",
+            "id": 315
+        },
+        {
+            "name": "Playlista 316",
+            "tracks": [
+
+            ],
+            "color": "#63D771",
+            "favourite": true,
+            "description": "Consequatur exercitationem id consectetur velit velit odit corporis nihil. Tempora a atque asperiores qui est ab quibusdam voluptas. Tempora dolores accusantium dolorem dolorem quae aliquid enim.",
+            "category": "Rockowa",
+            "id": 316
+        },
+        {
+            "name": "Playlista 317",
+            "tracks": [
+
+            ],
+            "color": "#368870",
+            "favourite": true,
+            "description": "Magnam consequatur voluptatibus laborum qui eum. Itaque rerum voluptate amet nemo ex. Temporibus eligendi provident voluptatibus aperiam dignissimos. Tenetur assumenda quia vel magnam quasi natus ab sequi.",
+            "category": "Zagraniczne",
+            "id": 317
+        },
+        {
+            "name": "Playlista 318",
+            "tracks": [
+
+            ],
+            "color": "#711500",
+            "favourite": false,
+            "description": "Soluta rem quia nobis tempora perferendis iure.",
+            "category": "Rockowa",
+            "id": 318
+        },
+        {
+            "name": "Playlista 319",
+            "tracks": [
+
+            ],
+            "color": "#6FDC03",
+            "favourite": false,
+            "description": "Est aut natus mollitia vel qui inventore quae. Ut ut fuga sunt hic sed molestiae eligendi.",
+            "category": "Inna",
+            "id": 319
+        },
+        {
+            "name": "Playlista 320",
+            "tracks": [
+
+            ],
+            "color": "#B4D3C8",
+            "favourite": true,
+            "description": "Sapiente impedit quas et voluptate. Odit ullam et molestias rerum magni sint sunt at.",
+            "category": "Rockowa",
+            "id": 320
+        },
+        {
+            "name": "Playlista 321",
+            "tracks": [
+
+            ],
+            "color": "#261F9D",
+            "favourite": true,
+            "description": "Alias adipisci ipsam quisquam ea quis voluptas ea. Porro aut molestias iure autem non nobis. Qui labore ut nemo maiores quo. Culpa aut rerum fugiat dolorum expedita molestiae molestias harum.",
+            "category": "Filmowa",
+            "id": 321
+        },
+        {
+            "name": "Playlista 322",
+            "tracks": [
+
+            ],
+            "color": "#4CF102",
+            "favourite": true,
+            "description": "Reiciendis illo nemo dolor aut. Quo modi deserunt aperiam et quisquam. Ut ipsa suscipit aspernatur optio. Possimus assumenda et saepe eius reiciendis dolores vel.",
+            "category": "Polskie",
+            "id": 322
+        },
+        {
+            "name": "Playlista 323",
+            "tracks": [
+
+            ],
+            "color": "#D8F02D",
+            "favourite": false,
+            "description": "Tenetur illo tempore officiis natus perferendis molestiae occaecati esse. Corporis quis voluptatibus esse aut. Consequatur fugiat quasi laudantium nam voluptates neque. Quidem sed dolores veniam ut doloribus.",
+            "category": "Rockowa",
+            "id": 323
+        },
+        {
+            "name": "Playlista 324",
+            "tracks": [
+
+            ],
+            "color": "#490BBD",
+            "favourite": true,
+            "description": "Enim voluptas quas et ipsum. Voluptatibus et dolorum qui aut et voluptatem aperiam.",
+            "category": "Zagraniczne",
+            "id": 324
+        },
+        {
+            "name": "Playlista 325",
+            "tracks": [
+
+            ],
+            "color": "#C91806",
+            "favourite": false,
+            "description": "Voluptate rerum enim quaerat a. Architecto quaerat quia ratione sint qui quia. Placeat doloremque doloremque autem neque distinctio quibusdam.",
+            "category": "Polskie",
+            "id": 325
+        },
+        {
+            "name": "Playlista 326",
+            "tracks": [
+
+            ],
+            "color": "#E81016",
+            "favourite": false,
+            "description": "Explicabo praesentium distinctio eaque aut. Eos error velit voluptates totam repellat. Esse dignissimos aspernatur soluta et laudantium. Consequatur sit aut voluptatem voluptatem. Pariatur consequatur blanditiis adipisci eum. Sit quis quibusdam et nobis quis voluptatem expedita debitis.",
+            "category": "Polskie",
+            "id": 326
+        },
+        {
+            "name": "Playlista 327",
+            "tracks": [
+
+            ],
+            "color": "#89996E",
+            "favourite": false,
+            "description": "Illum iste atque enim iste voluptatem et. Fugit deleniti minus consequatur voluptatem odit ut voluptatem. Et commodi dicta ut explicabo illum et necessitatibus.",
+            "category": "Filmowa",
+            "id": 327
+        },
+        {
+            "name": "Playlista 328",
+            "tracks": [
+
+            ],
+            "color": "#D501F8",
+            "favourite": true,
+            "description": "",
+            "category": "Top",
+            "id": 328
+        },
+        {
+            "name": "Playlista 329",
+            "tracks": [
+
+            ],
+            "color": "#0DBBF1",
+            "favourite": true,
+            "description": "Ad exercitationem et assumenda est et sint. Omnis eligendi sit aut dolores consequatur incidunt. Maxime neque beatae harum repellat et. Adipisci rerum qui distinctio fuga id quia. Aliquid ut error iste earum.",
+            "category": "Zagraniczne",
+            "id": 329
+        },
+        {
+            "name": "Playlista 330",
+            "tracks": [
+
+            ],
+            "color": "#9A6009",
+            "favourite": true,
+            "description": "Rerum sequi consectetur non assumenda. Eius doloremque reprehenderit quia ad praesentium ut.",
+            "category": "Filmowa",
+            "id": 330
+        },
+        {
+            "name": "Playlista 331",
+            "tracks": [
+
+            ],
+            "color": "#008052",
+            "favourite": true,
+            "description": "Dignissimos ratione natus in commodi error aut. Corrupti quo dolorem omnis omnis molestias rem. Unde et hic necessitatibus fugit. Aut libero aliquam explicabo autem. Esse voluptas nihil quia quo sit qui.",
+            "category": "Klasyczna",
+            "id": 331
+        },
+        {
+            "name": "Playlista 332",
+            "tracks": [
+
+            ],
+            "color": "#31D06E",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 332
+        },
+        {
+            "name": "Playlista 333",
+            "tracks": [
+
+            ],
+            "color": "#E2C144",
+            "favourite": true,
+            "description": "Cupiditate non sequi animi accusamus. Accusantium voluptas rem qui voluptatem corrupti. Consequatur voluptatibus id iste aut aspernatur placeat. Quod ut modi ut quia. Placeat earum et nihil.",
+            "category": "Klasyczna",
+            "id": 333
+        },
+        {
+            "name": "Playlista 334",
+            "tracks": [
+
+            ],
+            "color": "#CAF6E3",
+            "favourite": false,
+            "description": "Qui iure ut itaque temporibus. Eum blanditiis ut similique modi aliquid.",
+            "category": "Zagraniczne",
+            "id": 334
+        },
+        {
+            "name": "Playlista 335",
+            "tracks": [
+
+            ],
+            "color": "#E04D4E",
+            "favourite": false,
+            "description": "Architecto dolore voluptatem est magnam quibusdam. Occaecati expedita quas modi perferendis recusandae. Praesentium non et amet facilis enim sapiente delectus.",
+            "category": "Zagraniczne",
+            "id": 335
+        },
+        {
+            "name": "Playlista 336",
+            "tracks": [
+
+            ],
+            "color": "#8F3E3F",
+            "favourite": false,
+            "description": "Qui hic voluptatibus perspiciatis hic. Nobis minus nam et voluptatem saepe necessitatibus. Blanditiis ut itaque laborum error qui.",
+            "category": "Polskie",
+            "id": 336
+        },
+        {
+            "name": "Playlista 337",
+            "tracks": [
+
+            ],
+            "color": "#714F6E",
+            "favourite": true,
+            "description": "Et consequuntur pariatur incidunt eveniet tenetur consequatur. Quo est perspiciatis quas ut quas aut eum. Vitae architecto eum aut et ea eius. Et iste magni inventore excepturi ut rerum.",
+            "category": "Zagraniczne",
+            "id": 337
+        },
+        {
+            "name": "Playlista 338",
+            "tracks": [
+
+            ],
+            "color": "#BD5E6F",
+            "favourite": true,
+            "description": "Odit totam a odit iste enim asperiores repellat ad.",
+            "category": "Top",
+            "id": 338
+        },
+        {
+            "name": "Playlista 339",
+            "tracks": [
+
+            ],
+            "color": "#5028F1",
+            "favourite": false,
+            "description": "Facilis saepe reiciendis necessitatibus dolor nostrum et. Nostrum blanditiis quasi tempora fuga ea porro.",
+            "category": "Polskie",
+            "id": 339
+        },
+        {
+            "name": "Playlista 340",
+            "tracks": [
+
+            ],
+            "color": "#220A76",
+            "favourite": false,
+            "description": "Non non occaecati nam maxime in et ullam nobis. Et qui consectetur vero rerum. Sit dolorum et et porro eius tenetur consequatur. Est accusamus vitae voluptas rem ipsum voluptate.",
+            "category": "Top",
+            "id": 340
+        },
+        {
+            "name": "Playlista 341",
+            "tracks": [
+
+            ],
+            "color": "#D5C942",
+            "favourite": false,
+            "description": "Laudantium doloribus quas dolore quaerat et voluptatem voluptatem. Cum nostrum et eveniet voluptatem.",
+            "category": "Polskie",
+            "id": 341
+        },
+        {
+            "name": "Playlista 342",
+            "tracks": [
+
+            ],
+            "color": "#5B1232",
+            "favourite": false,
+            "description": "Veritatis modi est repudiandae qui id. Nemo modi aut velit dolor nesciunt. Suscipit voluptate repellat reprehenderit consequatur deserunt velit. Consequatur nemo aut qui et id non.",
+            "category": "Inna",
+            "id": 342
+        },
+        {
+            "name": "Playlista 343",
+            "tracks": [
+
+            ],
+            "color": "#C5DCA9",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 343
+        },
+        {
+            "name": "Playlista 344",
+            "tracks": [
+
+            ],
+            "color": "#481BE2",
+            "favourite": true,
+            "description": "Et eum autem eveniet rerum velit pariatur. Voluptatem praesentium voluptate quam veniam aut et dicta. Nihil vel assumenda ab adipisci et omnis beatae libero. Aut non id voluptatum velit.",
+            "category": "Klasyczna",
+            "id": 344
+        },
+        {
+            "name": "Playlista 345",
+            "tracks": [
+
+            ],
+            "color": "#4763E7",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 345
+        },
+        {
+            "name": "Playlista 346",
+            "tracks": [
+
+            ],
+            "color": "#BB13E1",
+            "favourite": false,
+            "description": "Ab sit consequatur expedita sed voluptatem et facere. Et quia ratione reiciendis et accusantium tempore. Tempora voluptatem incidunt perferendis dolor. Veniam molestiae autem soluta tenetur ratione ipsa. Aut in eos rem unde. Ea necessitatibus expedita ut dignissimos adipisci illum tempore.",
+            "category": "Top",
+            "id": 346
+        },
+        {
+            "name": "Playlista 347",
+            "tracks": [
+
+            ],
+            "color": "#2D4276",
+            "favourite": true,
+            "description": "Eveniet maxime beatae perferendis debitis totam. Voluptas voluptatem aspernatur nostrum. Dolor voluptas necessitatibus et ducimus quis.",
+            "category": "Top",
+            "id": 347
+        },
+        {
+            "name": "Playlista 348",
+            "tracks": [
+
+            ],
+            "color": "#1E29B0",
+            "favourite": false,
+            "description": "Qui beatae sunt fugit omnis tenetur.",
+            "category": "Inna",
+            "id": 348
+        },
+        {
+            "name": "Playlista 349",
+            "tracks": [
+
+            ],
+            "color": "#27D8A6",
+            "favourite": false,
+            "description": "Aut perspiciatis illo accusantium eos dicta voluptatem. Autem dolorem nemo atque omnis ipsam.",
+            "category": "Zagraniczne",
+            "id": 349
+        },
+        {
+            "name": "Playlista 350",
+            "tracks": [
+
+            ],
+            "color": "#2971DE",
+            "favourite": false,
+            "description": "Ullam in aliquid dicta omnis.",
+            "category": "Polskie",
+            "id": 350
+        },
+        {
+            "name": "Playlista 351",
+            "tracks": [
+
+            ],
+            "color": "#B9823F",
+            "favourite": true,
+            "description": "Eos est quia ea ducimus. Excepturi voluptas accusamus ut omnis atque aut. Praesentium aut ut fuga et deserunt. Sapiente et delectus fugiat animi incidunt doloremque. Omnis rerum natus magni possimus.",
+            "category": "Rockowa",
+            "id": 351
+        },
+        {
+            "name": "Playlista 352",
+            "tracks": [
+
+            ],
+            "color": "#BE4427",
+            "favourite": true,
+            "description": "Praesentium repudiandae velit aut pariatur. Ipsam quia labore voluptatem optio omnis tenetur. Eius tenetur unde aut natus recusandae et quos. Esse excepturi saepe id libero excepturi sequi non.",
+            "category": "Rockowa",
+            "id": 352
+        },
+        {
+            "name": "Playlista 353",
+            "tracks": [
+
+            ],
+            "color": "#02C943",
+            "favourite": false,
+            "description": "",
+            "category": "Rockowa",
+            "id": 353
+        },
+        {
+            "name": "Playlista 354",
+            "tracks": [
+
+            ],
+            "color": "#59DC65",
+            "favourite": false,
+            "description": "Qui officia aliquam quis hic assumenda ut aliquam non. Tempore beatae quas accusantium non ut repudiandae. Autem deleniti saepe beatae tempora ut.",
+            "category": "Top",
+            "id": 354
+        },
+        {
+            "name": "Playlista 355",
+            "tracks": [
+
+            ],
+            "color": "#63996E",
+            "favourite": true,
+            "description": "Maiores possimus doloremque sed enim magnam enim inventore. Nihil ut facilis porro voluptas consequatur itaque.",
+            "category": "Filmowa",
+            "id": 355
+        },
+        {
+            "name": "Playlista 356",
+            "tracks": [
+
+            ],
+            "color": "#107C44",
+            "favourite": false,
+            "description": "Deleniti labore veniam vero laborum.",
+            "category": "Rockowa",
+            "id": 356
+        },
+        {
+            "name": "Playlista 357",
+            "tracks": [
+
+            ],
+            "color": "#720B79",
+            "favourite": false,
+            "description": "Numquam consequatur quia occaecati et voluptates dolores occaecati. Incidunt aut nihil praesentium tempora cum id est. Tempore ad voluptatem tempora.",
+            "category": "Inna",
+            "id": 357
+        },
+        {
+            "name": "Playlista 358",
+            "tracks": [
+
+            ],
+            "color": "#2AFFDF",
+            "favourite": false,
+            "description": "Alias dolores similique qui et.",
+            "category": "Filmowa",
+            "id": 358
+        },
+        {
+            "name": "Playlista 359",
+            "tracks": [
+
+            ],
+            "color": "#2DF9EA",
+            "favourite": true,
+            "description": "Doloremque laborum quae nostrum eveniet voluptate. Accusantium voluptas nihil voluptatem nobis facere assumenda autem. Voluptas est quo deleniti qui eveniet reprehenderit consequatur.",
+            "category": "Zagraniczne",
+            "id": 359
+        },
+        {
+            "name": "Playlista 360",
+            "tracks": [
+
+            ],
+            "color": "#14CB94",
+            "favourite": true,
+            "description": "",
+            "category": "Polskie",
+            "id": 360
+        },
+        {
+            "name": "Playlista 361",
+            "tracks": [
+
+            ],
+            "color": "#B3F017",
+            "favourite": false,
+            "description": "Et architecto non hic esse. Est et incidunt sunt id in amet. Exercitationem asperiores aut aperiam fugit. Eveniet qui laborum tempore voluptas eveniet qui delectus. Nihil voluptatibus porro sint eligendi sapiente.",
+            "category": "Klasyczna",
+            "id": 361
+        },
+        {
+            "name": "Playlista 362",
+            "tracks": [
+
+            ],
+            "color": "#1E5348",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 362
+        },
+        {
+            "name": "Playlista 363",
+            "tracks": [
+
+            ],
+            "color": "#6CEDE4",
+            "favourite": true,
+            "description": "Ex molestias voluptatibus ipsa dolores explicabo fugit. Nisi rerum ut enim maiores. Impedit recusandae eius quibusdam autem est. Suscipit facilis facilis earum perferendis amet qui. Et sequi possimus officia quaerat ut non in non.",
+            "category": "Zagraniczne",
+            "id": 363
+        },
+        {
+            "name": "Playlista 364",
+            "tracks": [
+
+            ],
+            "color": "#7A771B",
+            "favourite": true,
+            "description": "Suscipit reiciendis ipsam et facilis est odit dolor. Voluptas sint consequatur libero consequatur unde ipsa consequatur soluta. Molestias et consectetur recusandae accusamus. Aut unde quis nesciunt omnis quidem facere. In nobis aut sunt tempore asperiores suscipit officiis dolorem.",
+            "category": "Filmowa",
+            "id": 364
+        },
+        {
+            "name": "Playlista 365",
+            "tracks": [
+
+            ],
+            "color": "#9E22E7",
+            "favourite": true,
+            "description": "Voluptas porro excepturi hic ipsa omnis explicabo. Maxime quasi maiores temporibus at. Dolorem at est exercitationem qui qui et et ex.",
+            "category": "Filmowa",
+            "id": 365
+        },
+        {
+            "name": "Playlista 366",
+            "tracks": [
+
+            ],
+            "color": "#95146E",
+            "favourite": false,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 366
+        },
+        {
+            "name": "Playlista 367",
+            "tracks": [
+
+            ],
+            "color": "#ACF194",
+            "favourite": false,
+            "description": "",
+            "category": "Filmowa",
+            "id": 367
+        },
+        {
+            "name": "Playlista 368",
+            "tracks": [
+
+            ],
+            "color": "#7645DC",
+            "favourite": true,
+            "description": "Voluptas accusantium maiores qui sunt quidem alias quis. Occaecati aut natus eaque. Pariatur qui molestiae cumque qui ea.",
+            "category": "Polskie",
+            "id": 368
+        },
+        {
+            "name": "Playlista 369",
+            "tracks": [
+
+            ],
+            "color": "#4E1553",
+            "favourite": false,
+            "description": "Illum amet aut quisquam exercitationem rem. Recusandae sint ducimus corporis sed blanditiis.",
+            "category": "Filmowa",
+            "id": 369
+        },
+        {
+            "name": "Playlista 370",
+            "tracks": [
+
+            ],
+            "color": "#FBC54B",
+            "favourite": true,
+            "description": "Nam reiciendis aut sit ullam dolores. Accusantium quis dolorem consequatur et delectus debitis quos consequatur. Sit fuga natus perferendis aperiam.",
+            "category": "Filmowa",
+            "id": 370
+        },
+        {
+            "name": "Playlista 371",
+            "tracks": [
+
+            ],
+            "color": "#07CBC0",
+            "favourite": true,
+            "description": "Asperiores eos commodi ea voluptatum.",
+            "category": "Top",
+            "id": 371
+        },
+        {
+            "name": "Playlista 372",
+            "tracks": [
+
+            ],
+            "color": "#40FCD5",
+            "favourite": true,
+            "description": "Delectus sapiente molestiae corrupti excepturi dolore voluptatibus est. Quos facilis et vitae vel minima.",
+            "category": "Top",
+            "id": 372
+        },
+        {
+            "name": "Playlista 373",
+            "tracks": [
+
+            ],
+            "color": "#6B4765",
+            "favourite": true,
+            "description": "Et sit nam esse quo animi sit sed.",
+            "category": "Klasyczna",
+            "id": 373
+        },
+        {
+            "name": "Playlista 374",
+            "tracks": [
+
+            ],
+            "color": "#CA55E4",
+            "favourite": false,
+            "description": "Ullam aut itaque soluta veniam ut fugiat delectus sit. Laborum eaque omnis optio distinctio.",
+            "category": "Polskie",
+            "id": 374
+        },
+        {
+            "name": "Playlista 375",
+            "tracks": [
+
+            ],
+            "color": "#087AA8",
+            "favourite": false,
+            "description": "Ut ex saepe sapiente. Enim quis nostrum ipsam delectus. Numquam repellendus dolorem labore quae velit ut.",
+            "category": "Polskie",
+            "id": 375
+        },
+        {
+            "name": "Playlista 376",
+            "tracks": [
+
+            ],
+            "color": "#BC5F06",
+            "favourite": true,
+            "description": "Omnis quidem aperiam velit sit ut aut qui. Aliquid quae ea voluptatem sunt qui vel quod nihil. Qui fuga non odit maiores nam molestiae.",
+            "category": "Zagraniczne",
+            "id": 376
+        },
+        {
+            "name": "Playlista 377",
+            "tracks": [
+
+            ],
+            "color": "#CF5681",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 377
+        },
+        {
+            "name": "Playlista 378",
+            "tracks": [
+
+            ],
+            "color": "#5D6A74",
+            "favourite": false,
+            "description": "Temporibus sit sint quaerat quidem ad rerum. Modi soluta natus et animi sunt. Voluptatem et amet provident distinctio cupiditate eos.",
+            "category": "Top",
+            "id": 378
+        },
+        {
+            "name": "Playlista 379",
+            "tracks": [
+
+            ],
+            "color": "#030E53",
+            "favourite": false,
+            "description": "Asperiores quo et ratione pariatur. Ut similique hic non est quia odit. Dolore corrupti ratione aspernatur consequuntur. Vero reiciendis in autem voluptatem.",
+            "category": "Rockowa",
+            "id": 379
+        },
+        {
+            "name": "Playlista 380",
+            "tracks": [
+
+            ],
+            "color": "#BDD043",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 380
+        },
+        {
+            "name": "Playlista 381",
+            "tracks": [
+
+            ],
+            "color": "#C7FD29",
+            "favourite": false,
+            "description": "Sunt impedit rem cum et eligendi sed ut. Qui sit nobis dicta rem. Possimus rerum quis dolor est blanditiis ratione nam.",
+            "category": "Zagraniczne",
+            "id": 381
+        },
+        {
+            "name": "Playlista 382",
+            "tracks": [
+
+            ],
+            "color": "#8DB26F",
+            "favourite": false,
+            "description": "Iste natus reprehenderit eum et repellat saepe quam.",
+            "category": "Polskie",
+            "id": 382
+        },
+        {
+            "name": "Playlista 383",
+            "tracks": [
+
+            ],
+            "color": "#3F3388",
+            "favourite": true,
+            "description": "Nihil architecto aliquid quasi quo occaecati sed. Nobis et id ut numquam.",
+            "category": "Top",
+            "id": 383
+        },
+        {
+            "name": "Playlista 384",
+            "tracks": [
+
+            ],
+            "color": "#50C29C",
+            "favourite": true,
+            "description": "Ad dolor vel nihil eius. Minus esse adipisci numquam voluptas est.",
+            "category": "Zagraniczne",
+            "id": 384
+        },
+        {
+            "name": "Playlista 385",
+            "tracks": [
+
+            ],
+            "color": "#50D622",
+            "favourite": true,
+            "description": "Deleniti et odit qui illo corrupti nemo voluptas dolor. Reprehenderit nam quia reiciendis porro. Quis magni alias amet voluptas.",
+            "category": "Zagraniczne",
+            "id": 385
+        },
+        {
+            "name": "Playlista 386",
+            "tracks": [
+
+            ],
+            "color": "#E3ED78",
+            "favourite": false,
+            "description": "",
+            "category": "Top",
+            "id": 386
+        },
+        {
+            "name": "Playlista 387",
+            "tracks": [
+
+            ],
+            "color": "#02EF80",
+            "favourite": false,
+            "description": "",
+            "category": "Inna",
+            "id": 387
+        },
+        {
+            "name": "Playlista 388",
+            "tracks": [
+
+            ],
+            "color": "#6D4BD4",
+            "favourite": false,
+            "description": "Repudiandae atque et corrupti eum itaque.",
+            "category": "Polskie",
+            "id": 388
+        },
+        {
+            "name": "Playlista 389",
+            "tracks": [
+
+            ],
+            "color": "#87B58B",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 389
+        },
+        {
+            "name": "Playlista 390",
+            "tracks": [
+
+            ],
+            "color": "#5B7906",
+            "favourite": false,
+            "description": "Blanditiis natus esse minima dicta tenetur id voluptates.",
+            "category": "Top",
+            "id": 390
+        },
+        {
+            "name": "Playlista 391",
+            "tracks": [
+
+            ],
+            "color": "#F1E309",
+            "favourite": false,
+            "description": "Placeat quod eaque maxime fugit a id. Sed a et nemo perspiciatis illo quam saepe. Reprehenderit praesentium neque eum aperiam blanditiis dolorum. Et voluptatum eligendi delectus iste quia quae.",
+            "category": "Polskie",
+            "id": 391
+        },
+        {
+            "name": "Playlista 392",
+            "tracks": [
+
+            ],
+            "color": "#0C4E0E",
+            "favourite": false,
+            "description": "Dignissimos repellendus labore omnis. Illo sed occaecati nemo ex atque quam consequatur. Voluptatem ut error perferendis nisi molestias. Aut ipsa ipsam ut consequuntur voluptatem.",
+            "category": "Filmowa",
+            "id": 392
+        },
+        {
+            "name": "Playlista 393",
+            "tracks": [
+
+            ],
+            "color": "#A73FB3",
+            "favourite": true,
+            "description": "Dolorem deleniti velit dolor aliquam minus est perferendis tempora.",
+            "category": "Inna",
+            "id": 393
+        },
+        {
+            "name": "Playlista 394",
+            "tracks": [
+
+            ],
+            "color": "#B009AA",
+            "favourite": false,
+            "description": "Sit qui alias necessitatibus voluptas atque voluptatem. Expedita aliquid a explicabo eius dicta alias.",
+            "category": "Rockowa",
+            "id": 394
+        },
+        {
+            "name": "Playlista 395",
+            "tracks": [
+
+            ],
+            "color": "#C0B9BB",
+            "favourite": false,
+            "description": "Esse consequuntur dolorem facere rerum perferendis facilis.",
+            "category": "Klasyczna",
+            "id": 395
+        },
+        {
+            "name": "Playlista 396",
+            "tracks": [
+
+            ],
+            "color": "#6B15D6",
+            "favourite": true,
+            "description": "In vero occaecati nihil aut maiores veniam libero. Aut quae quasi maiores accusamus illo soluta. Nobis aut modi blanditiis quis. Quia libero iure a quos porro.",
+            "category": "Inna",
+            "id": 396
+        },
+        {
+            "name": "Playlista 397",
+            "tracks": [
+
+            ],
+            "color": "#8C0EEE",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 397
+        },
+        {
+            "name": "Playlista 398",
+            "tracks": [
+
+            ],
+            "color": "#263DB2",
+            "favourite": true,
+            "description": "Cumque incidunt ullam ullam.",
+            "category": "Klasyczna",
+            "id": 398
+        },
+        {
+            "name": "Playlista 399",
+            "tracks": [
+
+            ],
+            "color": "#350C84",
+            "favourite": false,
+            "description": "Ut facere dolor officiis amet aspernatur et. Accusantium provident molestiae ut autem qui est ut. Eligendi rerum occaecati laboriosam numquam.",
+            "category": "Filmowa",
+            "id": 399
+        },
+        {
+            "name": "Playlista 400",
+            "tracks": [
+
+            ],
+            "color": "#5A0F80",
+            "favourite": true,
+            "description": "Ab magnam accusamus temporibus facere velit iste possimus. Aut perspiciatis eum repudiandae culpa quo veritatis vel. Minus quis voluptas deserunt quod ex ut doloremque illum.",
+            "category": "Polskie",
+            "id": 400
+        },
+        {
+            "name": "Playlista 401",
+            "tracks": [
+
+            ],
+            "color": "#6829DD",
+            "favourite": false,
+            "description": "Beatae nesciunt repudiandae vel omnis corrupti sit aut nemo. Dolore est tenetur facere.",
+            "category": "Filmowa",
+            "id": 401
+        },
+        {
+            "name": "Playlista 402",
+            "tracks": [
+
+            ],
+            "color": "#C6F9AD",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 402
+        },
+        {
+            "name": "Playlista 403",
+            "tracks": [
+
+            ],
+            "color": "#533DBF",
+            "favourite": true,
+            "description": "Libero fuga cumque fuga dolores vero necessitatibus accusamus. In eum necessitatibus ducimus cum iusto. Quo dolor est voluptas eum voluptatibus. Quia assumenda adipisci ut quos aut. Esse totam et distinctio dolor quasi. Laudantium suscipit ut harum qui vitae asperiores.",
+            "category": "Rockowa",
+            "id": 403
+        },
+        {
+            "name": "Playlista 404",
+            "tracks": [
+
+            ],
+            "color": "#3A4525",
+            "favourite": false,
+            "description": "Labore libero tenetur qui labore. Excepturi dignissimos et et et. Numquam praesentium ut sit. Nobis nisi sunt consequuntur non beatae dignissimos eum. Esse enim ut est qui.",
+            "category": "Filmowa",
+            "id": 404
+        },
+        {
+            "name": "Playlista 405",
+            "tracks": [
+
+            ],
+            "color": "#4CDF0B",
+            "favourite": true,
+            "description": "Facere quam eius totam autem dolor quae. Dolor repellat temporibus cumque itaque sit illum. Neque tempore voluptas soluta commodi autem enim. Inventore ab laborum consequuntur cum cumque velit laudantium debitis. Repudiandae consequatur facilis qui doloremque mollitia dolores.",
+            "category": "Filmowa",
+            "id": 405
+        },
+        {
+            "name": "Playlista 406",
+            "tracks": [
+
+            ],
+            "color": "#F41C65",
+            "favourite": false,
+            "description": "Voluptatem dolor quis debitis animi.",
+            "category": "Klasyczna",
+            "id": 406
+        },
+        {
+            "name": "Playlista 407",
+            "tracks": [
+
+            ],
+            "color": "#4B026B",
+            "favourite": false,
+            "description": "Aliquam non amet porro voluptatem adipisci ab maxime. Rerum quos sunt et quia. Aut ducimus aliquid quo accusamus tempora ea consequatur.",
+            "category": "Klasyczna",
+            "id": 407
+        },
+        {
+            "name": "Playlista 408",
+            "tracks": [
+
+            ],
+            "color": "#3A671D",
+            "favourite": false,
+            "description": "Libero recusandae dolores consequatur iure sint. Omnis ut consequuntur aut autem autem cumque non. Qui nihil maxime enim sit. Est ut repellat vel aperiam.",
+            "category": "Inna",
+            "id": 408
+        },
+        {
+            "name": "Playlista 409",
+            "tracks": [
+
+            ],
+            "color": "#ABDF81",
+            "favourite": false,
+            "description": "Mollitia sit asperiores velit ullam quas. Quisquam quisquam commodi perferendis et quasi ea porro. Voluptates praesentium numquam nulla. Sapiente veritatis et ad non iure qui. Blanditiis impedit sed dolores autem. Perspiciatis eveniet mollitia soluta commodi dolorum rerum.",
+            "category": "Top",
+            "id": 409
+        },
+        {
+            "name": "Playlista 410",
+            "tracks": [
+
+            ],
+            "color": "#9A1C3D",
+            "favourite": true,
+            "description": "Quas doloremque suscipit atque illo nisi voluptas. Magnam incidunt similique aut.",
+            "category": "Top",
+            "id": 410
+        },
+        {
+            "name": "Playlista 411",
+            "tracks": [
+
+            ],
+            "color": "#D5971F",
+            "favourite": false,
+            "description": "Voluptate itaque impedit saepe et dignissimos reiciendis explicabo illum. Dolor consequatur optio amet perferendis est aut. Debitis ex error unde est et voluptate esse rerum.",
+            "category": "Filmowa",
+            "id": 411
+        },
+        {
+            "name": "Playlista 412",
+            "tracks": [
+
+            ],
+            "color": "#70592A",
+            "favourite": false,
+            "description": "Et aliquid dicta laborum ipsam sapiente voluptatem. Vel ut assumenda voluptatem soluta. Corrupti culpa qui consequatur veniam accusantium. Voluptatem adipisci est ea nam perspiciatis.",
+            "category": "Filmowa",
+            "id": 412
+        },
+        {
+            "name": "Playlista 413",
+            "tracks": [
+
+            ],
+            "color": "#F0E1A4",
+            "favourite": true,
+            "description": "Corrupti voluptatibus accusamus sunt ut ducimus ab impedit. Ipsa veritatis consequatur et cum quibusdam laborum laborum. Tempora ea cumque quam molestiae minus. Voluptatem quod voluptatum ut velit eligendi dolore. Non molestiae vero maxime distinctio ex eveniet provident.",
+            "category": "Top",
+            "id": 413
+        },
+        {
+            "name": "Playlista 414",
+            "tracks": [
+
+            ],
+            "color": "#A7658E",
+            "favourite": true,
+            "description": "Autem cum rerum cumque neque. Porro voluptas sit dolores inventore voluptatibus.",
+            "category": "Rockowa",
+            "id": 414
+        },
+        {
+            "name": "Playlista 415",
+            "tracks": [
+
+            ],
+            "color": "#9FB2E6",
+            "favourite": true,
+            "description": "",
+            "category": "Top",
+            "id": 415
+        },
+        {
+            "name": "Playlista 416",
+            "tracks": [
+
+            ],
+            "color": "#528E44",
+            "favourite": true,
+            "description": "Quae facilis voluptas rerum possimus quas dolore. Optio voluptatem cupiditate ullam consequatur molestiae eos iusto.",
+            "category": "Top",
+            "id": 416
+        },
+        {
+            "name": "Playlista 417",
+            "tracks": [
+
+            ],
+            "color": "#8624E8",
+            "favourite": false,
+            "description": "Esse et alias rerum et illo.",
+            "category": "Inna",
+            "id": 417
+        },
+        {
+            "name": "Playlista 418",
+            "tracks": [
+
+            ],
+            "color": "#5951C1",
+            "favourite": true,
+            "description": "Sunt eos totam ea animi placeat autem rerum placeat. Autem ratione at animi adipisci et animi.",
+            "category": "Top",
+            "id": 418
+        },
+        {
+            "name": "Playlista 419",
+            "tracks": [
+
+            ],
+            "color": "#4C5AF1",
+            "favourite": false,
+            "description": "Quia id pariatur distinctio rem vel in. Dolores consequuntur quas natus nostrum quo.",
+            "category": "Klasyczna",
+            "id": 419
+        },
+        {
+            "name": "Playlista 420",
+            "tracks": [
+
+            ],
+            "color": "#9DEFD3",
+            "favourite": false,
+            "description": "Voluptas distinctio rem est repellat non aut. Sequi distinctio repellat sed. Ea tempora necessitatibus nesciunt labore veritatis fugit.",
+            "category": "Top",
+            "id": 420
+        },
+        {
+            "name": "Playlista 421",
+            "tracks": [
+
+            ],
+            "color": "#EE2E8E",
+            "favourite": false,
+            "description": "Ea voluptatem ipsa est nesciunt. Ducimus repellat temporibus aut molestiae eveniet. Expedita deserunt quod a accusamus quo. Officia aperiam reprehenderit est architecto asperiores ut laborum.",
+            "category": "Filmowa",
+            "id": 421
+        },
+        {
+            "name": "Playlista 422",
+            "tracks": [
+
+            ],
+            "color": "#FEBAFF",
+            "favourite": true,
+            "description": "Enim qui autem vero non placeat. Enim error minima blanditiis id. Vel fugiat magnam consequatur quis minus enim quisquam.",
+            "category": "Inna",
+            "id": 422
+        },
+        {
+            "name": "Playlista 423",
+            "tracks": [
+
+            ],
+            "color": "#5C91F4",
+            "favourite": true,
+            "description": "",
+            "category": "Rockowa",
+            "id": 423
+        },
+        {
+            "name": "Playlista 424",
+            "tracks": [
+
+            ],
+            "color": "#CEB84D",
+            "favourite": true,
+            "description": "Saepe deleniti doloribus dolor magnam. Reprehenderit illum harum id libero earum odio animi. Qui molestias aut repellat ut beatae.",
+            "category": "Filmowa",
+            "id": 424
+        },
+        {
+            "name": "Playlista 425",
+            "tracks": [
+
+            ],
+            "color": "#0B25C2",
+            "favourite": false,
+            "description": "Quia magni rerum ipsum fuga.",
+            "category": "Zagraniczne",
+            "id": 425
+        },
+        {
+            "name": "Playlista 426",
+            "tracks": [
+
+            ],
+            "color": "#036D4C",
+            "favourite": true,
+            "description": "",
+            "category": "Klasyczna",
+            "id": 426
+        },
+        {
+            "name": "Playlista 427",
+            "tracks": [
+
+            ],
+            "color": "#ABA18D",
+            "favourite": false,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 427
+        },
+        {
+            "name": "Playlista 428",
+            "tracks": [
+
+            ],
+            "color": "#ABCFFA",
+            "favourite": false,
+            "description": "Sint iusto soluta qui in. Voluptates quisquam nulla explicabo voluptatem. Est soluta distinctio est nostrum repudiandae nihil. Facilis voluptas ab corrupti perferendis minima explicabo vel. Cum laudantium et adipisci quo sit ex fugiat libero.",
+            "category": "Polskie",
+            "id": 428
+        },
+        {
+            "name": "Playlista 429",
+            "tracks": [
+
+            ],
+            "color": "#1BE322",
+            "favourite": true,
+            "description": "",
+            "category": "Filmowa",
+            "id": 429
+        },
+        {
+            "name": "Playlista 430",
+            "tracks": [
+
+            ],
+            "color": "#87CB28",
+            "favourite": true,
+            "description": "Aliquid consequatur eum veniam molestiae incidunt sed dolorem. Beatae fugiat voluptate quis officiis. Quia excepturi recusandae quia sed aliquid. Excepturi a nam modi.",
+            "category": "Filmowa",
+            "id": 430
+        },
+        {
+            "name": "Playlista 431",
+            "tracks": [
+
+            ],
+            "color": "#E1D643",
+            "favourite": true,
+            "description": "Nihil deserunt qui ea autem error aliquid inventore. Voluptatibus commodi beatae suscipit. Repellat omnis rerum eveniet et.",
+            "category": "Zagraniczne",
+            "id": 431
+        },
+        {
+            "name": "Playlista 432",
+            "tracks": [
+
+            ],
+            "color": "#2B37B1",
+            "favourite": true,
+            "description": "Maiores aspernatur possimus nisi fuga itaque et quae. Tempora perspiciatis vitae dolorem sunt aut maxime molestiae. Sed rerum ut optio voluptatem et. Consequatur magni quasi sunt sed veniam odio. Iure mollitia reprehenderit recusandae dolore tenetur explicabo.",
+            "category": "Klasyczna",
+            "id": 432
+        },
+        {
+            "name": "Playlista 433",
+            "tracks": [
+
+            ],
+            "color": "#14FB3A",
+            "favourite": false,
+            "description": "Et eos in eum dolorum consequuntur soluta voluptatem. Id quam in magnam eos qui quod excepturi. Esse architecto laudantium consequatur sunt.",
+            "category": "Filmowa",
+            "id": 433
+        },
+        {
+            "name": "Playlista 434",
+            "tracks": [
+
+            ],
+            "color": "#06AE12",
+            "favourite": true,
+            "description": "Dolore totam sit dolores iure aut. Autem magni tempora accusamus asperiores consequatur libero excepturi. Inventore beatae ut reprehenderit ad quo ducimus. Qui vero id odit aut fugit.",
+            "category": "Polskie",
+            "id": 434
+        },
+        {
+            "name": "Playlista 435",
+            "tracks": [
+
+            ],
+            "color": "#F7A1FA",
+            "favourite": true,
+            "description": "Rerum excepturi dolorem qui inventore voluptas rem. Eaque non consequatur amet nam. Ea quia vitae suscipit voluptatem nisi id itaque. Hic sit fugit quis reiciendis asperiores.",
+            "category": "Klasyczna",
+            "id": 435
+        },
+        {
+            "name": "Playlista 436",
+            "tracks": [
+
+            ],
+            "color": "#42C86E",
+            "favourite": true,
+            "description": "Sed repellat natus quis modi. Voluptas natus asperiores sapiente et illum deserunt. Aperiam natus eveniet quo incidunt omnis ea consequatur. A molestiae laudantium sequi minima neque numquam voluptas sint.",
+            "category": "Filmowa",
+            "id": 436
+        },
+        {
+            "name": "Playlista 437",
+            "tracks": [
+
+            ],
+            "color": "#DCA0E2",
+            "favourite": false,
+            "description": "Deleniti illo sunt incidunt vitae pariatur laborum quia. Sed sed recusandae repellat voluptas.",
+            "category": "Polskie",
+            "id": 437
+        },
+        {
+            "name": "Playlista 438",
+            "tracks": [
+
+            ],
+            "color": "#229BB1",
+            "favourite": false,
+            "description": "Sint voluptatum tempora rerum esse sit sed. Dolor eum delectus numquam omnis incidunt assumenda.",
+            "category": "Polskie",
+            "id": 438
+        },
+        {
+            "name": "Playlista 439",
+            "tracks": [
+
+            ],
+            "color": "#C26AB5",
+            "favourite": true,
+            "description": "Dolorem sunt velit velit aut quia. Quia libero id eius harum et consequatur atque. Amet dignissimos ab eum non nihil rerum officiis atque. Natus laboriosam molestias laboriosam error nam et. Minus voluptatem sequi praesentium minus.",
+            "category": "Top",
+            "id": 439
+        },
+        {
+            "name": "Playlista 440",
+            "tracks": [
+
+            ],
+            "color": "#6F914C",
+            "favourite": true,
+            "description": "Debitis aliquam quas asperiores voluptatem qui provident. Est consequatur facilis rem. Ducimus voluptas ullam et inventore. Ut praesentium ut unde occaecati quidem.",
+            "category": "Top",
+            "id": 440
+        },
+        {
+            "name": "Playlista 441",
+            "tracks": [
+
+            ],
+            "color": "#2DC320",
+            "favourite": false,
+            "description": "Quia dolorem facilis unde iste. Aut aliquid non autem nihil consequatur in corporis. Officiis tenetur porro deleniti et iure ut. Tenetur accusamus voluptas eveniet beatae aut incidunt.",
+            "category": "Rockowa",
+            "id": 441
+        },
+        {
+            "name": "Playlista 442",
+            "tracks": [
+
+            ],
+            "color": "#68E40E",
+            "favourite": false,
+            "description": "Quia corrupti nostrum magnam ut quia dolor. Suscipit eius voluptatem ad quia.",
+            "category": "Zagraniczne",
+            "id": 442
+        },
+        {
+            "name": "Playlista 443",
+            "tracks": [
+
+            ],
+            "color": "#DBF9FB",
+            "favourite": false,
+            "description": "Beatae quos excepturi vitae sed. Voluptates quod itaque id molestiae saepe natus. Accusamus quas tempora similique unde.",
+            "category": "Filmowa",
+            "id": 443
+        },
+        {
+            "name": "Playlista 444",
+            "tracks": [
+
+            ],
+            "color": "#B988AA",
+            "favourite": true,
+            "description": "Earum explicabo enim occaecati tempore. Accusamus possimus dolore ducimus ut sint.",
+            "category": "Filmowa",
+            "id": 444
+        },
+        {
+            "name": "Playlista 445",
+            "tracks": [
+
+            ],
+            "color": "#8DA14B",
+            "favourite": false,
+            "description": "Consequatur accusantium laborum delectus distinctio rerum. Mollitia sit suscipit ea voluptatem.",
+            "category": "Rockowa",
+            "id": 445
+        },
+        {
+            "name": "Playlista 446",
+            "tracks": [
+
+            ],
+            "color": "#14EE1F",
+            "favourite": true,
+            "description": "",
+            "category": "Inna",
+            "id": 446
+        },
+        {
+            "name": "Playlista 447",
+            "tracks": [
+
+            ],
+            "color": "#D7E757",
+            "favourite": true,
+            "description": "Rerum neque provident excepturi dolorem consequuntur placeat deleniti. Et earum amet cupiditate exercitationem quis. Consequatur corrupti est ad eaque ex.",
+            "category": "Klasyczna",
+            "id": 447
+        },
+        {
+            "name": "Playlista 448",
+            "tracks": [
+
+            ],
+            "color": "#4193C1",
+            "favourite": false,
+            "description": "Eligendi occaecati quod consequatur pariatur sed unde. Sequi eius nostrum iusto repellat.",
+            "category": "Filmowa",
+            "id": 448
+        },
+        {
+            "name": "Playlista 449",
+            "tracks": [
+
+            ],
+            "color": "#F521ED",
+            "favourite": true,
+            "description": "",
+            "category": "Zagraniczne",
+            "id": 449
+        },
+        {
+            "name": "Playlista 450",
+            "tracks": [
+
+            ],
+            "color": "#DD0DDB",
+            "favourite": false,
+            "description": "Ut quisquam vel voluptatem ab blanditiis. Ut quas optio neque aut doloribus nesciunt.",
+            "category": "Polskie",
+            "id": 450
+        },
+        {
+            "name": "Playlista 451",
+            "tracks": [
+
+            ],
+            "color": "#FDBD12",
+            "favourite": false,
+            "description": "Sint dolore excepturi explicabo autem tempora eos quo. Est alias asperiores est tempora. Saepe maxime eligendi est.",
+            "category": "Polskie",
+            "id": 451
+        },
+        {
+            "name": "Playlista 452",
+            "tracks": [
+
+            ],
+            "color": "#10B422",
+            "favourite": false,
+            "description": "Mollitia sed dignissimos qui a iure cumque quia. Dolorum odit accusantium commodi. Nisi numquam consectetur voluptas. Id facilis omnis magni. Quia dolores soluta est recusandae eos.",
+            "category": "Zagraniczne",
+            "id": 452
+        },
+        {
+            "name": "Playlista 453",
+            "tracks": [
+
+            ],
+            "color": "#ED2964",
+            "favourite": false,
+            "description": "Ea voluptatem eum vel repellendus molestias beatae velit. Doloremque quisquam reiciendis nihil omnis aspernatur. In voluptatem velit facilis id ea. Vitae autem blanditiis nobis et enim maiores maxime.",
+            "category": "Polskie",
+            "id": 453
+        },
+        {
+            "name": "Playlista 454",
+            "tracks": [
+
+            ],
+            "color": "#CAF8B0",
+            "favourite": true,
+            "description": "Corporis autem a magnam doloremque dolor inventore. Quis debitis quo occaecati vitae voluptatem cumque. Delectus possimus et temporibus ipsam amet sed.",
+            "category": "Polskie",
+            "id": 454
+        },
+        {
+            "name": "Playlista 455",
+            "tracks": [
+
+            ],
+            "color": "#59CCBF",
+            "favourite": true,
+            "description": "Libero aperiam aut rem. Et vel enim et vero esse.",
+            "category": "Rockowa",
+            "id": 455
+        },
+        {
+            "name": "Playlista 456",
+            "tracks": [
+
+            ],
+            "color": "#6A79A5",
+            "favourite": true,
+            "description": "Illum molestiae autem laborum accusantium tenetur.",
+            "category": "Top",
+            "id": 456
+        },
+        {
+            "name": "Playlista 457",
+            "tracks": [
+
+            ],
+            "color": "#D9770B",
+            "favourite": true,
+            "description": "",
+            "category": "Polskie",
+            "id": 457
+        },
+        {
+            "name": "Playlista 458",
+            "tracks": [
+
+            ],
+            "color": "#655289",
+            "favourite": false,
+            "description": "Illo nobis soluta temporibus ut veritatis. Magnam est possimus dolores est repudiandae at error.",
+            "category": "Inna",
+            "id": 458
+        },
+        {
+            "name": "Playlista 459",
+            "tracks": [
+
+            ],
+            "color": "#F00FAE",
+            "favourite": true,
+            "description": "A velit minima asperiores. Facere odit veritatis dolores ullam. Minima adipisci placeat fugiat dolores praesentium sed hic.",
+            "category": "Zagraniczne",
+            "id": 459
+        },
+        {
+            "name": "Playlista 460",
+            "tracks": [
+
+            ],
+            "color": "#AD49D4",
+            "favourite": false,
+            "description": "",
+            "category": "Rockowa",
+            "id": 460
+        },
+        {
+            "name": "Playlista 461",
+            "tracks": [
+
+            ],
+            "color": "#068DFE",
+            "favourite": true,
+            "description": "Aspernatur sapiente quia culpa fugiat et.",
+            "category": "Zagraniczne",
+            "id": 461
+        },
+        {
+            "name": "Playlista 462",
+            "tracks": [
+
+            ],
+            "color": "#27F0AD",
+            "favourite": true,
+            "description": "Est ea autem dolorem nihil sint. Quibusdam id error non qui quasi. Voluptas impedit quibusdam velit aut sed soluta.",
+            "category": "Rockowa",
+            "id": 462
+        },
+        {
+            "name": "Playlista 463",
+            "tracks": [
+
+            ],
+            "color": "#0B382F",
+            "favourite": true,
+            "description": "Ipsa molestiae dolor nostrum ratione et quasi quidem id. Rerum non quo voluptas in ipsam. Nihil illo et voluptate qui qui eum. Ut consequatur blanditiis id vitae nostrum molestiae ipsa.",
+            "category": "Rockowa",
+            "id": 463
+        },
+        {
+            "name": "Playlista 464",
+            "tracks": [
+
+            ],
+            "color": "#B1A05D",
+            "favourite": false,
+            "description": "Quisquam est odit iusto odio deserunt quia. Temporibus dolorem consequatur ipsam. Doloremque eligendi placeat voluptate id.",
+            "category": "Top",
+            "id": 464
+        },
+        {
+            "name": "Playlista 465",
+            "tracks": [
+
+            ],
+            "color": "#02401B",
+            "favourite": false,
+            "description": "Rerum qui dolore molestiae reiciendis atque adipisci corporis. Omnis distinctio quibusdam voluptatem praesentium sed. Reprehenderit commodi aspernatur dolores animi tempore similique.",
+            "category": "Klasyczna",
+            "id": 465
+        },
+        {
+            "name": "Playlista 466",
+            "tracks": [
+
+            ],
+            "color": "#A37EAB",
+            "favourite": true,
+            "description": "Vero deserunt reiciendis nihil saepe quasi accusamus. Sunt eius alias consequuntur veniam reiciendis perspiciatis.",
+            "category": "Polskie",
+            "id": 466
+        },
+        {
+            "name": "Playlista 467",
+            "tracks": [
+
+            ],
+            "color": "#FE3A15",
+            "favourite": false,
+            "description": "",
+            "category": "Rockowa",
+            "id": 467
+        },
+        {
+            "name": "Playlista 468",
+            "tracks": [
+
+            ],
+            "color": "#3D3F37",
+            "favourite": true,
+            "description": "Aliquam doloremque tempora consequatur qui numquam delectus aut. Et est quas aut quod velit harum. Modi pariatur quaerat dicta ut laudantium ea.",
+            "category": "Polskie",
+            "id": 468
+        },
+        {
+            "name": "Playlista 469",
+            "tracks": [
+
+            ],
+            "color": "#C820EE",
+            "favourite": true,
+            "description": "Porro dolore est praesentium itaque quibusdam aut. Dolor et et possimus. A eveniet ipsa quo aut sit voluptatibus dolorem.",
+            "category": "Rockowa",
+            "id": 469
+        },
+        {
+            "name": "Playlista 470",
+            "tracks": [
+
+            ],
+            "color": "#7D00C7",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 470
+        },
+        {
+            "name": "Playlista 471",
+            "tracks": [
+
+            ],
+            "color": "#EF5E91",
+            "favourite": true,
+            "description": "Magni et laborum earum aliquid temporibus est et. Deleniti praesentium et et sint.",
+            "category": "Inna",
+            "id": 471
+        },
+        {
+            "name": "Playlista 472",
+            "tracks": [
+
+            ],
+            "color": "#8D5A50",
+            "favourite": false,
+            "description": "Dolorem facere et sit incidunt aut. Quaerat molestiae quam consequatur quis qui.",
+            "category": "Polskie",
+            "id": 472
+        },
+        {
+            "name": "Playlista 473",
+            "tracks": [
+
+            ],
+            "color": "#E4E865",
+            "favourite": false,
+            "description": "",
+            "category": "Filmowa",
+            "id": 473
+        },
+        {
+            "name": "Playlista 474",
+            "tracks": [
+
+            ],
+            "color": "#43E329",
+            "favourite": true,
+            "description": "Doloribus et totam veniam magni cumque impedit at. Alias adipisci dolorum eum voluptate non fuga illum. Rem eius et et et culpa omnis qui iste. Eligendi mollitia explicabo voluptas dolorem qui. Tenetur autem iste soluta maxime facere nesciunt culpa.",
+            "category": "Top",
+            "id": 474
+        },
+        {
+            "name": "Playlista 475",
+            "tracks": [
+
+            ],
+            "color": "#E62701",
+            "favourite": true,
+            "description": "Est et et totam. Ut autem rerum magni sit impedit voluptates. Beatae aliquid recusandae beatae incidunt sunt voluptates temporibus. Optio laboriosam atque vel corrupti vitae. Voluptate quia veniam dolores est maiores et.",
+            "category": "Klasyczna",
+            "id": 475
+        },
+        {
+            "name": "Playlista 476",
+            "tracks": [
+
+            ],
+            "color": "#95A64C",
+            "favourite": true,
+            "description": "Beatae reprehenderit et voluptas nihil. Aperiam et molestias ut non sint. Ad cumque et quas qui vel neque. Maiores suscipit ratione cupiditate veniam cum. Aperiam voluptatem a sunt ipsa. Consequatur sit suscipit aliquid et.",
+            "category": "Klasyczna",
+            "id": 476
+        },
+        {
+            "name": "Playlista 477",
+            "tracks": [
+
+            ],
+            "color": "#993680",
+            "favourite": true,
+            "description": "Nulla tempore qui similique molestiae perferendis in. Doloremque minima excepturi molestias voluptates neque.",
+            "category": "Inna",
+            "id": 477
+        },
+        {
+            "name": "Playlista 478",
+            "tracks": [
+
+            ],
+            "color": "#7335ED",
+            "favourite": true,
+            "description": "Quasi eius aut eaque nisi. In architecto fugiat quam modi. Provident est atque occaecati consequatur.",
+            "category": "Zagraniczne",
+            "id": 478
+        },
+        {
+            "name": "Playlista 479",
+            "tracks": [
+
+            ],
+            "color": "#2F701C",
+            "favourite": false,
+            "description": "Repellat voluptatibus quas quam. Architecto id assumenda rem. Laboriosam qui quam eligendi omnis vel laboriosam. Error inventore sed voluptas molestiae ratione. Nihil ea saepe assumenda asperiores nostrum voluptas. Eveniet facere earum iusto ipsam.",
+            "category": "Polskie",
+            "id": 479
+        },
+        {
+            "name": "Playlista 480",
+            "tracks": [
+
+            ],
+            "color": "#AF5C6D",
+            "favourite": true,
+            "description": "Corrupti qui quia sit accusamus ut dolorem qui. Laborum odit ullam quae possimus vitae deleniti enim ipsa. Possimus sunt molestiae labore aspernatur recusandae similique.",
+            "category": "Rockowa",
+            "id": 480
+        },
+        {
+            "name": "Playlista 481",
+            "tracks": [
+
+            ],
+            "color": "#D70A46",
+            "favourite": true,
+            "description": "Nisi et voluptatum odit sunt veritatis quia. Cupiditate molestiae alias error amet et eos mollitia.",
+            "category": "Top",
+            "id": 481
+        },
+        {
+            "name": "Playlista 482",
+            "tracks": [
+
+            ],
+            "color": "#9DC759",
+            "favourite": true,
+            "description": "Pariatur dolorum qui deleniti nam maiores. Placeat illo sunt quasi aliquam in similique magni. Vel totam minus eum. Recusandae labore quis quibusdam et unde sint.",
+            "category": "Klasyczna",
+            "id": 482
+        },
+        {
+            "name": "Playlista 483",
+            "tracks": [
+
+            ],
+            "color": "#649386",
+            "favourite": false,
+            "description": "Assumenda pariatur quia consequatur veritatis quis voluptatem. Accusantium perspiciatis vel quia ex esse et.",
+            "category": "Polskie",
+            "id": 483
+        },
+        {
+            "name": "Playlista 484",
+            "tracks": [
+
+            ],
+            "color": "#D9D5E9",
+            "favourite": true,
+            "description": "Nihil reiciendis repellendus ut voluptate pariatur. Voluptatibus accusamus sed rerum veritatis esse ut minus labore. Saepe provident est labore accusantium eveniet omnis.",
+            "category": "Rockowa",
+            "id": 484
+        },
+        {
+            "name": "Playlista 485",
+            "tracks": [
+
+            ],
+            "color": "#98ECA7",
+            "favourite": true,
+            "description": "Ducimus est molestiae voluptatem ab itaque eligendi quisquam nesciunt. Dignissimos quidem eaque ducimus pariatur ipsa minima. Neque voluptatibus non odio aliquid qui libero.",
+            "category": "Filmowa",
+            "id": 485
+        },
+        {
+            "name": "Playlista 486",
+            "tracks": [
+
+            ],
+            "color": "#5FB467",
+            "favourite": true,
+            "description": "Rerum quasi facilis voluptas. Qui beatae voluptatem architecto deserunt sed.",
+            "category": "Filmowa",
+            "id": 486
+        },
+        {
+            "name": "Playlista 487",
+            "tracks": [
+
+            ],
+            "color": "#3F6EAC",
+            "favourite": true,
+            "description": "Tempora asperiores qui consequuntur laboriosam dolor doloremque tenetur. Iure sequi non minus ut et nostrum eum.",
+            "category": "Polskie",
+            "id": 487
+        },
+        {
+            "name": "Playlista 488",
+            "tracks": [
+
+            ],
+            "color": "#4B9C45",
+            "favourite": false,
+            "description": "Laudantium sunt dolorum occaecati non. Sunt sequi provident nostrum laudantium et. Recusandae repellendus quaerat non facere voluptas esse porro.",
+            "category": "Klasyczna",
+            "id": 488
+        },
+        {
+            "name": "Playlista 489",
+            "tracks": [
+
+            ],
+            "color": "#5217CF",
+            "favourite": false,
+            "description": "",
+            "category": "Polskie",
+            "id": 489
+        },
+        {
+            "name": "Playlista 490",
+            "tracks": [
+
+            ],
+            "color": "#788EB4",
+            "favourite": true,
+            "description": "",
+            "category": "Polskie",
+            "id": 490
+        },
+        {
+            "name": "Playlista 491",
+            "tracks": [
+
+            ],
+            "color": "#AAE295",
+            "favourite": false,
+            "description": "Corrupti omnis sit quia consequatur laborum possimus qui inventore. Qui minus facilis autem et corrupti. Qui eos dolore fugit saepe earum possimus et perferendis. Nihil debitis ut dolor sapiente quo.",
+            "category": "Inna",
+            "id": 491
+        },
+        {
+            "name": "Playlista 492",
+            "tracks": [
+
+            ],
+            "color": "#2785DA",
+            "favourite": true,
+            "description": "Ea praesentium et voluptas nobis in et vitae. Dolores optio ex deleniti.",
+            "category": "Top",
+            "id": 492
+        },
+        {
+            "name": "Playlista 493",
+            "tracks": [
+
+            ],
+            "color": "#DBF5AE",
+            "favourite": true,
+            "description": "Pariatur tempore quae omnis eum eos dolorem. Numquam laboriosam omnis eius sed et.",
+            "category": "Klasyczna",
+            "id": 493
+        },
+        {
+            "name": "Playlista 494",
+            "tracks": [
+
+            ],
+            "color": "#1E4FFA",
+            "favourite": false,
+            "description": "Rerum quos delectus iusto enim autem repellat officiis. Est ex est harum. Facere id repellendus ut nulla architecto qui quaerat.",
+            "category": "Filmowa",
+            "id": 494
+        },
+        {
+            "name": "Playlista 495",
+            "tracks": [
+
+            ],
+            "color": "#059C36",
+            "favourite": true,
+            "description": "Autem quas itaque perferendis aut. Velit et modi et consectetur. Perspiciatis ratione omnis ut delectus numquam repudiandae.",
+            "category": "Zagraniczne",
+            "id": 495
+        },
+        {
+            "name": "Playlista 496",
+            "tracks": [
+
+            ],
+            "color": "#EDFF27",
+            "favourite": false,
+            "description": "Iusto aut facere expedita dolore qui. Est deleniti illum quod repellendus repudiandae aliquam blanditiis sequi. Expedita sit aperiam aliquid nihil rerum autem. Veritatis qui voluptatem et et. Saepe id et autem eum neque quo ut. Non ut velit eius ut.",
+            "category": "Klasyczna",
+            "id": 496
+        },
+        {
+            "name": "Playlista 497",
+            "tracks": [
+
+            ],
+            "color": "#494B24",
+            "favourite": true,
+            "description": "Temporibus ipsa qui qui dolor et ratione iusto. Iusto explicabo pariatur officia debitis.",
+            "category": "Rockowa",
+            "id": 497
+        },
+        {
+            "name": "Playlista 498",
+            "tracks": [
+
+            ],
+            "color": "#0FE638",
+            "favourite": true,
+            "description": "Veritatis provident facilis repellat a aut velit velit. Soluta accusamus aut unde id cum neque.",
+            "category": "Rockowa",
+            "id": 498
+        },
+        {
+            "name": "Playlista 499",
+            "tracks": [
+
+            ],
+            "color": "#2237BF",
+            "favourite": false,
+            "description": "Facilis enim non provident voluptas. Vel dolore error voluptatem rerum.",
+            "category": "Polskie",
+            "id": 499
+        }
+    ]
+}

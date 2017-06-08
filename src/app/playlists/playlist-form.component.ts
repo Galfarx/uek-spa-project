@@ -59,7 +59,7 @@ import { PlaylistsService, Playlist } from './playlists.service'
 export class PlaylistFormComponent implements OnInit {
 
   categories = [
-    'Filmowa', 'Rockowa', 'Inne'
+    'Top', 'Polskie', 'Zagraniczne', 'Klasyczna', 'Filmowa', 'Rockowa', 'Inna',
   ];
   playlist: Playlist;
 
