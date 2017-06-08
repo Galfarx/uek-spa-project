@@ -31,9 +31,9 @@ export class MusicSearchService {
     this.http.get(url)
       .map((response: Response) => {
         const data = response.json()
-        return data.albums.items;
+        return data.items;
       })
-      .do(albmus => { this.albums = albmus })
+      .do(items => { this.albums = items })
       .subscribe( albums => {
         this.albumsStream.next(this.albums);
     })
