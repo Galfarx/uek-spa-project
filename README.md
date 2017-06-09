@@ -10,13 +10,12 @@ Aplikacja wykonana w ramach projektu miała za zadanie realizować poniższe fun
 1. wyświetlanie szczegółów dotyczących poszczególnych albumów: lista utworów w albumie, wykonawca itd
 1. tworzenie własnych playlist złożonych z różnych utworów
 1. możliwość ustawienia playlisty jako ulubionej
-1. możliwość dodania/etycji/usunięcia utworu z playlisty
+1. możliwość dodania/edycji/usunięcia utworu z playlisty
 1. odtworzenie wybranego utworu z poziomu przeglądarki
-
-[Spotify WebAPI](https://developer.spotify.com/web-api/)
 
 ## Wykorzystane technologie (wymagania)
 
+* [Spotify WebAPI](https://developer.spotify.com/web-api/)
 * [Angular](https://angular.io/) version 4.0.0
 * [Node.js](https://nodejs.org/) version 7.10.0
 * [NPM](https://www.npmjs.com/) version 4.2.0
@@ -33,6 +32,13 @@ Aplikacja wykonana w ramach projektu miała za zadanie realizować poniższe fun
 `json-server --watch ./mockup/spotify_endpoints.json`
 
 `ng serve`
+
+## Skrócona instrukcja obsługi
+
+1. Zbiór danych dostępnych na stronie został wykreowany na potrzeby testów oraz prezentacji aplikacji.
+1. Wyszukiwanie albumów odbywa się z użyciem formularza dostępnego pod URI: /music. Jest to strona domyślna, uruchamiana po otwarciu strony. Do omawianej strony możemy przejść po kliknięciu z zakładkę "Szukaj muzyki" dostępną w pasku nawigacyjnym w górnej częsci strony. Poniżej formularza wyświetla się lista albumów spełniających kreteria wyszukiwania. Aby zobaczyć widok szczegółowy albumu należy kliknąć na okładkę albumu w wynikach wyszukiwania.
+1. Wyświetlanie szczegółów albumu jest realizowany w widoku music/album/:id, gdzie :id to parametr określający identyfikator albumu. W widoku szczegółowym możemy zobaczyć okładkę, listę utworów oraz odsłuchać wybrane pozycje.
+1. Zarządzanie playlistami odbywa się w widoku dostępnym pod URI: /playlist. Do omawianej strony możemy przejść po kliknięciu w zakładkę "Twoje Playlisty" dostępną w pasku nawigacyjnym w górnej częsci strony. Dostępny zbiór playlist użytkownika umożliwia oznaczenie playlisty jako ulubionej, podgląd jej szczegółów po kliknięciu na wybraną playlistę oraz odtworzenie wybranych utworów. Ponadto możemy edytować cechy playlisty po kliknęciu w przcysk "Edytuj" widoczny pod listą utworów.
 
 ## Przebieg projektu
 
