@@ -9,7 +9,7 @@ export class MusicSearchService {
   albumsStream = new Subject();
 
   constructor(private http: Http) {
-    this.search('batman')
+    this.search('')
   }
 
   getAlbumsStream() {
@@ -31,9 +31,10 @@ export class MusicSearchService {
     this.http.get(url)
       .map((response: Response) => {
         const data = response.json()
-        return data.items;
+//		console.log(data);
+        return data;
       })
-      .do(items => { this.albums = items })
+      .do(items => { console.log(items); this.albums = items })
       .subscribe( albums => {
         this.albumsStream.next(this.albums);
     })

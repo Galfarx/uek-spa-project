@@ -18,7 +18,7 @@ import { PlaylistSelectionService } from './playlist-selection.service'
           <td> {{track.track_number}} </td>
           <td> {{track.name}} </td>
           <td> {{track.artists[0].name}} </td>
-          <td (click)="play(audio_id, track)"> Play </td>
+          <td (click)="play(audio_id, track)" style="cursor: pointer"> Play </td>
           <td (click)="addToPlaylist(track)"> Dodaj </td>
         </tr>
       </tbody>
@@ -36,6 +36,7 @@ export class TrackListComponent implements OnInit {
   ngOnInit() { }
 
   play(audio, track) {
+	  console.log(audio, track);
     audio.volume = 0.1;
 
     if (audio.src !== track.preview_url) {
