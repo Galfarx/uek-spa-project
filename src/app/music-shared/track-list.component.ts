@@ -19,7 +19,7 @@ import { PlaylistSelectionService } from './playlist-selection.service'
           <td> {{track.name}} </td>
           <td> {{track.artists[0].name}} </td>
           <td (click)="play(audio_id, track)" style="cursor: pointer"> Play </td>
-          <td (click)="addToPlaylist(track)"> Dodaj </td>
+          <td (click)="addToPlaylist(track)" style="cursor: pointer"> Dodaj </td>
         </tr>
       </tbody>
     </table>
