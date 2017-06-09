@@ -1,16 +1,19 @@
 <nav-bar></nav-bar>
 
 <div class="container">
-  <router-outlet></router-outlet>
+	<router-outlet></router-outlet>
 </div>
 
 <nav class="navbar navbar-light bg-faded navbar-fixed-bottom">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-6"></div>
-      <div class="col-xs-6">
-        <playlist-selector></playlist-selector>
-      </div>
-    </div>
-  </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-5"></div>
+			<div class="col-xs-5">
+				<playlist-selector></playlist-selector>
+			</div>
+			<div class="col-xs-2">
+				<a routerLink="/playlist/new" class="btn btn-success"><span class="glyphicon glyphicon-plus"></span> Dodaj playlistę</a>
+			</div>
+		</div>
+	</div>
 </nav>
