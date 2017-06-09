@@ -40,6 +40,7 @@ Aplikacja wykonana w ramach projektu miała za zadanie realizować poniższe fun
 1. Wyświetlanie szczegółów albumu jest realizowany w widoku music/album/:id, gdzie :id to parametr określający identyfikator albumu. W widoku szczegółowym możemy zobaczyć okładkę, listę utworów oraz odsłuchać wybrane pozycje.
 1. Zarządzanie playlistami odbywa się w widoku dostępnym pod URI: /playlist. Do omawianej strony możemy przejść po kliknięciu w zakładkę "Twoje Playlisty" dostępną w pasku nawigacyjnym w górnej częsci strony. Dostępny zbiór playlist użytkownika umożliwia oznaczenie playlisty jako ulubionej, podgląd jej szczegółów po kliknięciu na wybraną playlistę oraz odtworzenie wybranych utworów. Ponadto możemy edytować cechy playlisty po kliknęciu w przcysk "Edytuj" widoczny pod listą utworów.
 1. Dodawanie utworów do playlisty odbywa się poprzez odnalezienie utworu na stronie w dowolny sposób, wybranie docelowej playlisty z paska dostępnego w dolnej części ekranu a następnie kliknięcie na etykietę "Dodaj" przy docelowym utworze.
+1. Dodawanie nowej playlisty odbywa się poprzez kliknięcie w przycisk o etykiecie "Dodaj playlistę" dostępny w dolnej części ekranu, wypełnienie formularze oraz zapisanie wprowadzonych danych.
 
 ## Przebieg projektu
 
