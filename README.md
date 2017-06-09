@@ -13,6 +13,8 @@ Aplikacja wykonana w ramach projektu miała za zadanie realizować poniższe fun
 1. możliwość dodania/etycji/usunięcia utworu z playlisty
 1. odtworzenie wybranego utworu z poziomu przeglądarki
 
+[Spotify WebAPI](https://developer.spotify.com/web-api/)
+
 ## Wykorzystane technologie (wymagania)
 
 * [Angular](https://angular.io/) version 4.0.0
